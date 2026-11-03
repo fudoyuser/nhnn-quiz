@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="description" content="Quiz trắc nghiệm văn bản pháp luật của Ngân hàng Nhà nước Việt Nam, mỗi đáp án kèm trích dẫn điều khoản.">
+<meta name="description" content="Quiz trắc nghiệm và phản biện văn bản pháp luật của Ngân hàng Nhà nước Việt Nam, mỗi đáp án kèm trích dẫn điều khoản.">
 <style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
 <title>Quiz Văn bản NHNN</title>
 <meta name="claude:viewport-fit-sides" content="cover">
@@ -140,6 +140,30 @@ button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .rev .rc{font-family:var(--f-mono);font-size:11.5px;color:var(--ink-2);margin-top:6px}
 .note{font-size:12.5px;color:var(--ink-2);margin-top:22px;border-top:1px solid var(--line);padding-top:12px}
 h3.sec{font-family:var(--f-mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-2);margin:0 0 10px;font-weight:600}
+
+/* Thẻ chuyển: Trắc nghiệm / Phản biện */
+.tabs{display:flex;gap:0;border-bottom:1px solid var(--line);margin:-4px 0 22px}
+.tab{font:inherit;font-weight:600;font-size:14px;background:none;border:0;border-bottom:2px solid transparent;color:var(--ink-2);padding:8px 14px 10px;cursor:pointer;margin-bottom:-1px}
+.tab.on{color:var(--accent);border-bottom-color:var(--accent)}
+.tab i{font-style:normal;font-family:var(--f-mono);font-size:11px;font-weight:400;margin-left:4px;opacity:.8}
+
+/* Phản biện */
+.crit-sum{font-family:var(--f-display);font-size:17px;line-height:1.55;margin:0 0 18px;max-width:68ch}
+.legend{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:18px}
+.pill{font-family:var(--f-mono);font-size:11px;padding:3px 9px;border-radius:999px;border:1px solid currentColor;background:transparent;cursor:pointer;font-weight:600}
+.pill.off{opacity:.4}
+.k-plus{color:var(--ok)} .k-gap{color:var(--amend)} .k-issue{color:var(--bad)}
+.crits{display:grid;gap:14px}
+.crit{border:1px solid var(--line);border-radius:6px;overflow:hidden;background:var(--sheet)}
+.crit .ch{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:6px 12px;padding:12px 14px 0}
+.crit .ch b{font-size:15.5px;line-height:1.4;flex:1 1 280px;min-width:0}
+.crit .ch span{font-family:var(--f-mono);font-size:11.5px;color:var(--ink-2)}
+.crit .kind{display:block;font-family:var(--f-mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;padding:12px 14px 0;font-weight:600}
+.crit p{margin:8px 14px 12px;max-width:72ch}
+.crit .rec{margin:0;padding:10px 14px;background:var(--paper);border-top:1px dashed var(--line);font-size:14px}
+.crit .rec b{font-family:var(--f-mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);display:block;margin-bottom:2px}
+.disc{margin:6px 0 0;padding-left:20px;display:grid;gap:8px;max-width:72ch}
+.disc li::marker{font-family:var(--f-mono);color:var(--accent)}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
 </head>
@@ -375,6 +399,56 @@ const DOCS = [{
   ]
 }];
 
+/* ---------- phản biện ----------
+   t: plus = điểm hợp lý · gap = cần làm rõ · issue = bất cập */
+const KIND = {plus:["Điểm hợp lý","k-plus"],gap:["Cần làm rõ","k-gap"],issue:["Bất cập","k-issue"]};
+const CRIT = {
+vbhn117:{
+  sum:"Hai lần sửa đổi 2025 và 2026 chuyển hướng quản lý thị trường vàng từ độc quyền nhà nước sang thị trường hóa có kiểm soát. Văn bản cho thêm chủ thể sản xuất vàng miếng, bỏ điều kiện với vàng trang sức và tăng yêu cầu về dữ liệu giao dịch. Tuy vậy, ngưỡng gia nhập rất cao, một số điều khoản cũ chưa được dọn lại và thẩm quyền thanh tra còn phân tán.",
+  items:[
+  {t:"plus",title:"Xóa thế độc quyền sản xuất vàng miếng",cite:"Điều 3 khoản 2; Điều 11a; Điều 16 khoản 1",body:"Định nghĩa vàng miếng không còn gắn với một thương hiệu duy nhất. Doanh nghiệp và ngân hàng thương mại đủ điều kiện được cấp Giấy phép sản xuất, và NHNN được giao xây dựng chiến lược thị trường vàng “theo hướng thị trường hóa”. Nguồn cung tăng là điều kiện để thu hẹp chênh lệch giữa giá trong nước và giá thế giới.",rec:"Đặt chỉ tiêu theo dõi công khai, ví dụ chênh lệch giá vàng miếng trong nước so với thế giới, để đánh giá hiệu quả chính sách sau 1–2 năm."},
+  {t:"plus",title:"Cắt giảm điều kiện với vàng trang sức, mỹ nghệ",cite:"Điều 4 khoản 7; bãi bỏ Điều 5–9",body:"Hoạt động sản xuất, gia công, mua bán vàng trang sức không còn là ngành nghề kinh doanh có điều kiện. Quản lý chuyển sang các luật chuyên ngành về chất lượng, đo lường, nhãn hàng hóa, thuế và phòng, chống rửa tiền. Cách làm này giảm thủ tục cho số đông cơ sở nhỏ mà vẫn giữ công cụ kiểm soát."},
+  {t:"plus",title:"Tăng minh bạch dữ liệu giao dịch",cite:"Điều 12 khoản 3 điểm c, khoản 4 điểm đ; Điều 14 khoản 10 điểm e",body:"Đơn vị sản xuất, mua bán, xuất nhập khẩu vàng phải xây dựng hệ thống thông tin, lưu thông tin căn cước, mã số thuế, khối lượng, giá trị giao dịch và kết nối với NHNN. Đây là nền tảng cho giám sát thị trường và phòng, chống rửa tiền."},
+  {t:"issue",title:"Ngưỡng vốn rất cao, dễ chuyển từ độc quyền sang độc quyền nhóm",cite:"Điều 11a khoản 1 điểm b, khoản 2 điểm b",body:"Ngân hàng thương mại cần vốn điều lệ từ 50.000 tỷ đồng, doanh nghiệp từ 1.000 tỷ đồng mới được sản xuất vàng miếng. Chỉ một số ít chủ thể lớn đáp ứng được. Văn bản không nêu cơ sở định lượng cho các mức này. Ngưỡng cho ngân hàng gấp 50 lần ngưỡng cho doanh nghiệp, dù cùng thực hiện một hoạt động sản xuất, và văn bản không giải thích sự chênh lệch này.",rec:"Công bố căn cứ xác định ngưỡng vốn. Cân nhắc bổ sung tiêu chí năng lực kỹ thuật (dây chuyền, kiểm định hàm lượng) thay vì chỉ dựa vào vốn điều lệ."},
+  {t:"gap",title:"Hạn mức xuất nhập khẩu ưu tiên đơn vị lớn và đơn vị đã có mặt",cite:"Điều 16 khoản 2",body:"Hạn mức hằng năm được phân bổ theo quy mô vốn điều lệ và tình hình xuất nhập khẩu các năm trước. Hai tiêu chí này có lợi cho đơn vị lớn và đơn vị đã tham gia thị trường, bất lợi cho đơn vị mới, đi ngược mục tiêu tăng cạnh tranh. Cách thức phân bổ cụ thể do Thống đốc quy định nên chưa thể đánh giá từ Nghị định.",rec:"Công khai tổng hạn mức và kết quả phân bổ cho từng đơn vị. Dành một phần hạn mức cho đơn vị mới được cấp phép."},
+  {t:"gap",title:"Ngưỡng 5 triệu đồng/ngày thấp so với giá trị giao dịch vàng thông thường",cite:"Điều 4 khoản 10",body:"Mọi giao dịch mua, bán vàng từ 05 triệu đồng/ngày của một khách hàng phải thanh toán không dùng tiền mặt. Ngưỡng này áp dụng cho cả vàng trang sức, tác động lớn đến người cao tuổi và khu vực nông thôn chưa quen thanh toán điện tử. Văn bản không nói cách kiểm soát khi một người chia nhỏ giao dịch qua nhiều cửa hàng trong ngày.",rec:"Cân nhắc ngưỡng riêng cho vàng trang sức, hoặc điều chỉnh ngưỡng định kỳ theo giá vàng. Làm rõ trách nhiệm của bên bán khi giao dịch bị chia nhỏ."},
+  {t:"issue",title:"Điều khoản chuyển tiếp năm 2012 mâu thuẫn với nội dung mới",cite:"Điều 21 khoản 1 điểm a, khoản 3",body:"Điều 21 vẫn yêu cầu các tổ chức “hoàn tất thủ tục xin cấp Giấy chứng nhận đủ điều kiện sản xuất vàng trang sức, mỹ nghệ”, trong khi NĐ 390/2026 đã bỏ điều kiện này. Khoản 3 nói “các giấy phép sản xuất vàng miếng hết hiệu lực” (ý nói giấy phép cấp trước năm 2012), dễ bị hiểu nhầm là áp dụng cho Giấy phép sản xuất vàng miếng mới theo Điều 11a. Văn bản hợp nhất giữ nguyên các khoản này mà không có chú thích.",rec:"Bãi bỏ hoặc chú thích rõ các khoản chuyển tiếp đã hết tác dụng trong lần sửa đổi tới."},
+  {t:"gap",title:"Tiêu chí mạng lưới theo số tỉnh sau khi sắp xếp đơn vị hành chính",cite:"Điều 11 khoản 1 điểm đ, khoản 2 điểm c",body:"Điều kiện cấp Giấy phép kinh doanh mua, bán vàng miếng (mạng lưới từ 3 tỉnh với doanh nghiệp, từ 5 tỉnh với tổ chức tín dụng) giữ nguyên từ năm 2012. Số lượng và quy mô đơn vị hành chính cấp tỉnh đã thay đổi, nên cùng một con số giờ phản ánh độ phủ thị trường khác trước. Các mức vốn 100 tỷ và thuế 500 triệu đồng/năm cũng chưa được cập nhật.",rec:"Rà soát lại toàn bộ Điều 11 cho phù hợp với Điều 11a và với địa giới hành chính hiện hành."},
+  {t:"gap",title:"Chưa có tiêu chuẩn hàm lượng thống nhất cho vàng miếng",cite:"Điều 12 khoản 3 điểm a; Điều 14 khoản 10 điểm a; Điều 17 khoản 3",body:"Đơn vị sản xuất tự công bố tiêu chuẩn, khối lượng, hàm lượng. Nghị định chỉ đặt ngưỡng 99,5% cho vàng nhập khẩu. Khi có nhiều thương hiệu cùng sản xuất, nếu thiếu tiêu chuẩn quốc gia bắt buộc thì vàng miếng khó thay thế cho nhau, người mua khó so sánh giá, và khó mua đi bán lại chéo giữa các thương hiệu.",rec:"Sớm ban hành tiêu chuẩn quốc gia bắt buộc cho vàng miếng (hàm lượng, khối lượng chuẩn, dấu hiệu nhận biết) như Điều 17 khoản 3 đã giao Bộ Khoa học và Công nghệ."},
+  {t:"issue",title:"Thẩm quyền thanh tra, kiểm tra phân tán",cite:"Điều 16 khoản 5; Điều 17; Điều 18",body:"NHNN, Bộ Công Thương, Bộ Khoa học và Công nghệ, Thanh tra Chính phủ và UBND/Thanh tra tỉnh đều có thẩm quyền với các mảng của kinh doanh vàng. Cơ chế phối hợp ở Điều 18 chỉ dừng ở mức “căn cứ vào yêu cầu thực tế”, chưa có đầu mối, quy chế chia sẻ dữ liệu hay kế hoạch thanh tra chung, nên có nguy cơ chồng chéo hoặc bỏ sót.",rec:"Giao NHNN làm đầu mối điều phối kế hoạch thanh tra liên ngành và dùng chung hệ thống dữ liệu đã quy định ở Điều 16 khoản 4."},
+  {t:"gap",title:"Kinh doanh vàng trên tài khoản và phái sinh chưa có khung pháp lý cụ thể",cite:"Điều 1 khoản 1; Điều 3 khoản 4; Điều 4 khoản 8, 9",body:"Hai hoạt động này được đưa vào phạm vi điều chỉnh và được định nghĩa, nhưng kinh doanh vàng trên tài khoản vẫn cần Thủ tướng cho phép theo từng trường hợp. Phái sinh chỉ dẫn chiếu sang Luật Các tổ chức tín dụng. Chưa có quy định về sàn giao dịch, ký quỹ hay bảo vệ nhà đầu tư, nên nhà đầu tư dễ tìm đến các sàn không được phép.",rec:"Xây dựng quy định riêng cho giao dịch vàng trên tài khoản và sàn giao dịch vàng nếu chính sách hướng tới thị trường hóa."}
+  ],
+  discuss:[
+    "Mở rộng sản xuất vàng miếng cho một nhóm nhỏ đơn vị lớn có đủ để thu hẹp chênh lệch giá, hay cần thêm công cụ khác (nhập khẩu, sàn giao dịch)?",
+    "Ngưỡng thanh toán không dùng tiền mặt nên áp dụng chung cho mọi loại vàng hay phân biệt vàng miếng với vàng trang sức?",
+    "Nên phân bổ hạn mức nhập khẩu vàng theo tiêu chí nào để vừa kiểm soát ngoại hối vừa không cản trở cạnh tranh?",
+    "Có nên chuyển Điều 11 sang tiêu chí năng lực (hệ thống, kiểm soát nội bộ) thay cho vốn, thuế và số tỉnh?"
+  ]
+},
+vbhn118:{
+  sum:"Thông tư thiết kế quy trình tiêu hủy tiền theo nguyên tắc kiểm soát chéo chặt chẽ. Lần sửa đổi 2026 chủ yếu cập nhật tên đơn vị, chuyển chức năng giám sát sang Thanh tra NHNN và điều chỉnh một số bước kiểm đếm, báo cáo. Phần còn bỏ ngỏ nằm ở cân bằng quyền lực trong Hội đồng tiêu hủy, các tiêu chí kỹ thuật và việc ứng dụng công nghệ.",
+  items:[
+  {t:"plus",title:"Phân tách nhiệm vụ và kiểm soát chéo nhiều lớp",cite:"Điều 10; Điều 13 khoản 2; Điều 16 khoản 7, 8",body:"Bốn tổ chuyên trách độc lập (giao nhận, kiểm đếm, cắt hủy, tổng hợp). Kho tiền ba thành viên, mỗi người giữ một ổ khóa. Mọi lần giao nhận đều lập biên bản, cửa phòng niêm phong có chữ ký của tổ trưởng và công chức giám sát. Không một cá nhân nào kiểm soát trọn vẹn một luồng tiền, giảm đáng kể rủi ro thông đồng."},
+  {t:"plus",title:"Kiểm đếm theo tỷ lệ dựa trên dữ liệu rủi ro",cite:"Điều 4 khoản 2; Điều 15 khoản 3",body:"Thay vì kiểm đếm toàn bộ, tỷ lệ kiểm đếm từng loại tiền được quyết định căn cứ kết quả thừa, thiếu của năm, và mẫu được lấy ngẫu nhiên. Cách tiếp cận này tiết kiệm nguồn lực và tập trung vào nơi có rủi ro."},
+  {t:"plus",title:"Giám sát độc lập hơn",cite:"Điều 29; khoản 3 Điều 13 TT 42/2026",body:"Chức năng chủ trì giám sát chuyển từ Vụ Kiểm toán nội bộ sang Thanh tra NHNN, cùng với Hội đồng giám sát tách biệt khỏi Hội đồng tiêu hủy. Bên thực hiện và bên giám sát được tách rõ."},
+  {t:"issue",title:"Quyền lực tập trung ở một đơn vị",cite:"Điều 3 khoản 1; Điều 4 khoản 2; Điều 6 khoản 1 điểm a; Điều 8; Điều 28 khoản 1",body:"Cục Phát hành và Kho quỹ xây dựng định mức và kế hoạch tiêu hủy. Cục trưởng vừa trình kế hoạch, vừa làm Chủ tịch Hội đồng tiêu hủy, vừa ban hành nội quy, vừa tự quyết định tỷ lệ kiểm đếm, tức mức độ kiểm tra đối với chính hoạt động do mình tổ chức.",rec:"Yêu cầu Hội đồng giám sát có ý kiến trước khi Chủ tịch quyết định tỷ lệ kiểm đếm, hoặc báo cáo Thống đốc tỷ lệ áp dụng kèm căn cứ."},
+  {t:"gap",title:"Không có sàn tối thiểu cho tỷ lệ kiểm đếm",cite:"Điều 4 khoản 2; Điều 8 khoản 3",body:"Thông tư không quy định tỷ lệ kiểm đếm tối thiểu hay phương pháp xác định tỷ lệ từ kết quả thừa, thiếu. Về lý thuyết, tỷ lệ có thể được đặt rất thấp nếu năm trước ít sai lệch. Khi đó khả năng phát hiện sai sót giảm, trong khi tiền đã cắt hủy thì không thể kiểm tra lại.",rec:"Quy định tỷ lệ sàn cho từng loại tiền và công thức tham chiếu, ví dụ tăng tỷ lệ khi tỷ lệ thừa, thiếu vượt ngưỡng."},
+  {t:"gap",title:"Dùng chính tiền tiêu hủy làm quỹ tạm ứng bù thiếu",cite:"Điều 16 khoản 6",body:"Tổ 2 được tạm ứng tiền tiêu hủy để bù vào bó thiếu tờ, lẫn loại, tiền giả. Thông tư không quy định hạn mức tạm ứng tối đa và không quy định thời điểm đối chiếu ngoài kiểm kê hằng ngày. Số tạm ứng còn lại chỉ bị tiêu hủy vào cuối đợt, nên có một lượng tiền thật tồn tại ngoài quy trình chính trong thời gian dài.",rec:"Đặt hạn mức tạm ứng theo mệnh giá và yêu cầu đối chiếu số dư tạm ứng trong biên bản cuối ngày."},
+  {t:"gap",title:"Thiếu tiêu chuẩn kỹ thuật cho phế liệu và yêu cầu môi trường",cite:"Điều 4 khoản 4; Điều 5; Điều 28 khoản 6",body:"Văn bản chỉ yêu cầu phế liệu “không thể khôi phục để sử dụng lại như tiền”, không quy định kích thước mảnh cắt hay phương pháp kiểm tra. Phế liệu được bán theo phương án do Cục trình. Tiền polymer và kim loại có đặc điểm xử lý môi trường riêng nhưng không được đề cập.",rec:"Ban hành tiêu chí kỹ thuật phế liệu (kích thước tối đa, kiểm tra mẫu) và yêu cầu xử lý, tái chế phù hợp quy định bảo vệ môi trường."},
+  {t:"gap",title:"Nhiều nội dung kỹ thuật giao văn bản hướng dẫn nội bộ",cite:"Điều 17 khoản 5; Điều 18 khoản 4; Điều 21 khoản 2; Điều 28 khoản 4",body:"Quy trình máy hủy, yêu cầu trang thiết bị, phương pháp kiểm kê, sổ sách và báo cáo đều do Cục trưởng hướng dẫn hoặc “theo quy định hiện hành”. Điều này hợp lý về mặt bảo mật (Điều 4 khoản 1), nhưng khiến Thông tư khó được đánh giá độc lập và phụ thuộc vào chất lượng văn bản hướng dẫn."},
+  {t:"issue",title:"Quy trình chủ yếu thủ công, chưa tính đến công nghệ giám sát",cite:"Điều 16; Điều 18; Điều 23",body:"Toàn bộ quy trình dựa vào sổ sách, biên bản giấy và niêm phong có chữ ký. Điều 18 cấm cá nhân mang thiết bị ghi hình nhưng không quy định hệ thống camera giám sát của đơn vị, máy đếm và phân loại tự động hay sổ kế toán điện tử, là các công cụ có thể tăng mạnh khả năng truy vết.",rec:"Bổ sung yêu cầu camera giám sát liên tục khu vực kiểm đếm, cắt hủy, lưu trữ có thời hạn, và lộ trình số hóa sổ sách."},
+  {t:"gap",title:"Không có giới hạn thời gian lưu kho trước khi hủy",cite:"Điều 15; Điều 20 khoản 1",body:"Thông tư không quy định thời gian tối đa từ khi nhận tiền từ Kho tiền Trung ương đến khi cắt hủy. Với tiền lẫn loại, tiền giả, Phó Chủ tịch phụ trách cụm tự quyết định “thời điểm tiêu hủy trong năm”. Tiền chờ hủy càng lâu thì rủi ro bảo quản càng cao.",rec:"Quy định thời hạn lưu kho tối đa hoặc yêu cầu báo cáo Hội đồng giám sát số tồn chờ hủy theo tuổi kho."},
+  {t:"gap",title:"Văn bản hợp nhất không cho thấy nội dung đã bị bãi bỏ",cite:"Điều 16 khoản 8 điểm đ",body:"Điểm đ chỉ ghi “(được bãi bỏ)” mà không nêu nội dung cũ. Người học và người thực thi phải tra lại văn bản gốc mới hiểu được thay đổi."}
+  ],
+  discuss:[
+    "Có nên để Chủ tịch Hội đồng tiêu hủy tự quyết định tỷ lệ kiểm đếm, hay quyền này nên thuộc về Hội đồng giám sát hoặc Thống đốc?",
+    "Chuyển giám sát từ Vụ Kiểm toán nội bộ sang Thanh tra NHNN thay đổi bản chất giám sát như thế nào (kiểm toán nội bộ hay thanh tra hành chính)?",
+    "Công nghệ nào (camera, máy phân loại, sổ điện tử) có thể thay thế một phần quy trình niêm phong, chữ ký mà không làm giảm an toàn?",
+    "Phế liệu tiền polymer nên được bán, tái chế hay tiêu hủy hoàn toàn?"
+  ]
+}
+};
+
 /* ---------- trạng thái ---------- */
 const $ = s => document.querySelector(s);
 const store = {
@@ -383,6 +457,8 @@ const store = {
 };
 let doc = DOCS[0];
 let filter = "all";
+let view = "quiz";
+let kindOff = {};
 let S = null; // phiên làm bài
 let tick = null;
 
@@ -400,17 +476,23 @@ function renderDocs(){
   $("#docs").innerHTML = DOCS.map(d=>`<button class="doc ${d.id===doc.id?"on":""}" type="button" data-id="${d.id}">
     <div class="no">${d.no}</div><div class="tt">${esc(d.title)}</div>
     <div class="meta"><span>Xác thực ngày ${d.date}</span><span>${esc(d.signer)}</span></div></button>
-    <div class="chain" style="margin-top:10px">${d.chain.map(c=>`<div><b>${c[0]}</b><br>${c[1]}</div>`).join("")}</div>`).join("");
+    <div class="chain" style="margin:10px 0 14px">${d.chain.map(c=>`<div><b>${c[0]}</b><br>${c[1]}</div>`).join("")}</div>`).join("");
 }
 
 /* ---------- màn hình chọn ---------- */
 function home(){
   clearInterval(tick); S=null;
+  const cr = CRIT[doc.id];
+  const tabs = `<div class="tabs" role="tablist">
+    <button type="button" class="tab ${view==="quiz"?"on":""}" data-v="quiz" role="tab">Trắc nghiệm<i>${doc.qs.length}</i></button>
+    ${cr?`<button type="button" class="tab ${view==="crit"?"on":""}" data-v="crit" role="tab">Phản biện<i>${cr.items.length}</i></button>`:""}</div>`;
+  if(view==="crit" && cr){ critique(tabs, cr); return; }
   const counts = {}; doc.qs.forEach(q=>counts[q.ch]=(counts[q.ch]||0)+1);
   const amCount = doc.qs.filter(q=>q.am).length;
   const wrong = store.get("wrong_"+doc.id,[]);
   const chips = [["all","Tất cả",doc.qs.length],["am",doc.amChip,amCount],...Object.keys(doc.chapters).map(k=>[k,doc.chapters[k].split(" · ")[0],counts[k]||0])];
   $("#desk").innerHTML = `
+    ${tabs}
     <h2>${esc(doc.title)}</h2>
     <p class="lead">${doc.no} · ${doc.qs.length} câu hỏi trắc nghiệm, mỗi câu có trích dẫn điều, khoản. Câu có nhãn vàng là ${doc.amLead}.</p>
     <label class="fl">Phạm vi câu hỏi</label>
@@ -424,8 +506,32 @@ function home(){
     <h3 class="sec">Cấu trúc văn bản</h3>
     <div class="toc">${Object.keys(doc.chapters).map(k=>{const [a,b]=doc.chapters[k].split(" · ");return `<div><span class="c">${a}</span><span>${b}</span><span class="n">${counts[k]||0} câu</span></div>`}).join("")}</div>
     <p class="note">Nguồn: Văn bản hợp nhất ${doc.no}, đăng trên Cổng Thông tin điện tử Chính phủ. Văn bản hợp nhất dùng để tra cứu; khi áp dụng, ${doc.src}.</p>`;
+  bindTabs();
   $("#chips").onclick = e=>{const b=e.target.closest(".chip");if(!b)return;filter=b.dataset.f;home()};
   $("#desk").querySelectorAll(".mode").forEach(b=>b.onclick=()=>start(b.dataset.m));
+}
+
+function bindTabs(){ $("#desk").querySelectorAll(".tab").forEach(b=>b.onclick=()=>{view=b.dataset.v;home()}); }
+function critique(tabs, cr){
+  const cnt={}; cr.items.forEach(x=>cnt[x.t]=(cnt[x.t]||0)+1);
+  const shown = cr.items.filter(x=>!kindOff[x.t]);
+  $("#desk").innerHTML = `
+    ${tabs}
+    <h2>Phản biện: ${esc(doc.title)}</h2>
+    <p class="lead">${doc.no} · Phân tích điểm hợp lý, điểm cần làm rõ và bất cập, kèm căn cứ điều khoản và hướng hoàn thiện.</p>
+    <p class="crit-sum">${esc(cr.sum)}</p>
+    <div class="legend">${Object.keys(KIND).map(k=>`<button type="button" class="pill ${KIND[k][1]} ${kindOff[k]?"off":""}" data-k="${k}" aria-pressed="${!kindOff[k]}">${KIND[k][0]} · ${cnt[k]||0}</button>`).join("")}</div>
+    <div class="crits">${shown.map(x=>`<article class="crit">
+      <span class="kind ${KIND[x.t][1]}">${KIND[x.t][0]}</span>
+      <div class="ch"><b>${esc(x.title)}</b><span>${esc(x.cite)}</span></div>
+      <p>${esc(x.body)}</p>
+      ${x.rec?`<div class="rec"><b>Hướng hoàn thiện</b>${esc(x.rec)}</div>`:""}
+    </article>`).join("") || `<p class="lead">Bật lại ít nhất một nhóm ở trên để xem nội dung.</p>`}</div>
+    <h3 class="sec" style="margin-top:26px">Câu hỏi thảo luận</h3>
+    <ol class="disc">${cr.discuss.map(d=>`<li>${esc(d)}</li>`).join("")}</ol>
+    <p class="note">Phần phản biện là phân tích mang tính học thuật, soạn dựa trên nội dung văn bản hợp nhất để phục vụ ôn tập và thảo luận. Đây không phải quan điểm chính thức của Ngân hàng Nhà nước hay cơ quan ban hành.</p>`;
+  bindTabs();
+  $("#desk").querySelectorAll(".pill").forEach(b=>b.onclick=()=>{kindOff[b.dataset.k]=!kindOff[b.dataset.k];home()});
 }
 
 function pool(){
@@ -514,7 +620,7 @@ function finish(){
   $("#back").onclick=home; $("#again").onclick=()=>start(m==="wrong"&&!store.get("wrong_"+doc.id,[]).length?"practice":m);
 }
 
-$("#docs").addEventListener("click",e=>{const b=e.target.closest(".doc[data-id]");if(!b)return;doc=DOCS.find(d=>d.id===b.dataset.id);filter="all";renderDocs();renderStats();home()});
+$("#docs").addEventListener("click",e=>{const b=e.target.closest(".doc[data-id]");if(!b)return;doc=DOCS.find(d=>d.id===b.dataset.id);filter="all";kindOff={};renderDocs();renderStats();home()});
 renderDocs(); renderStats(); home();
 </script>
 </body>
