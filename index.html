@@ -1,0 +1,424 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Quiz trắc nghiệm văn bản pháp luật của Ngân hàng Nhà nước Việt Nam, mỗi đáp án kèm trích dẫn điều khoản.">
+<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+<title>Quiz Văn bản NHNN</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Spectral:wght@500;600;700&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: thư viện văn bản bên trái + bàn làm bài bên phải; giao diện mượn từ giấy niêm phong và nét guilloche tiền giấy */
+:root{
+  --paper:#f3f5f2; --sheet:#ffffff; --ink:#14322b; --ink-2:#4a5f59; --line:#d5ddd8;
+  --accent:#0f6b55; --accent-soft:#e2efe9; --seal:#b4232c; --seal-soft:#f8e4e4;
+  --ok:#1d7a46; --ok-soft:#e1f2e7; --bad:#b4232c; --bad-soft:#f9e3e3; --amend:#8a5a00; --amend-soft:#f6ecd6;
+  --guil:rgba(15,107,85,.07);
+  --f-display:"Spectral",Georgia,"Times New Roman",serif;
+  --f-body:"Be Vietnam Pro",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#0d1614; --sheet:#14201d; --ink:#e3ece8; --ink-2:#9db1aa; --line:#2a3a35;
+  --accent:#4fc2a0; --accent-soft:#163a30; --seal:#ef6b6f; --seal-soft:#3a1c1e;
+  --ok:#5fcf8e; --ok-soft:#173826; --bad:#ef6b6f; --bad-soft:#3d1d1f; --amend:#e3b45a; --amend-soft:#3a2f17;
+  --guil:rgba(79,194,160,.06); color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#0d1614; --sheet:#14201d; --ink:#e3ece8; --ink-2:#9db1aa; --line:#2a3a35;
+  --accent:#4fc2a0; --accent-soft:#163a30; --seal:#ef6b6f; --seal-soft:#3a1c1e;
+  --ok:#5fcf8e; --ok-soft:#173826; --bad:#ef6b6f; --bad-soft:#3d1d1f; --amend:#e3b45a; --amend-soft:#3a2f17;
+  --guil:rgba(79,194,160,.06); color-scheme:dark}
+
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.55;
+  background-image:repeating-radial-gradient(circle at 100% 0,transparent 0 14px,var(--guil) 14px 15px),
+                   repeating-radial-gradient(circle at 0 100%,transparent 0 22px,var(--guil) 22px 23px);
+  background-attachment:fixed}
+.wrap{max-width:1120px;margin:0 auto;padding-block:28px 64px;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+header.top{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px 24px;margin-bottom:24px}
+.brand small{display:block;font-family:var(--f-mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+.brand h1{font-family:var(--f-display);font-weight:700;font-size:clamp(28px,4.4vw,40px);line-height:1.1;margin:4px 0 0;text-wrap:balance}
+.brand p{margin:6px 0 0;color:var(--ink-2);max-width:60ch}
+.stats{display:flex;gap:18px;font-family:var(--f-mono);font-size:12px;color:var(--ink-2)}
+.stats b{display:block;font-size:20px;color:var(--ink);font-variant-numeric:tabular-nums}
+
+.grid{display:grid;grid-template-columns:300px minmax(0,1fr);gap:24px;align-items:start}
+@media (max-width:860px){.grid{grid-template-columns:minmax(0,1fr)}}
+
+/* Thư viện */
+.lib{display:flex;flex-direction:column;gap:12px}
+.lib h2{font-family:var(--f-mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-2);margin:0}
+.doc{background:var(--sheet);border:1px solid var(--line);border-radius:6px;padding:14px 14px 12px;text-align:left;color:inherit;font:inherit;cursor:pointer;width:100%}
+.doc.on{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent) inset}
+.doc .no{font-family:var(--f-mono);font-size:12px;color:var(--accent);font-weight:600}
+.doc .tt{font-weight:600;margin:4px 0 6px;line-height:1.35}
+.doc .meta{font-size:12.5px;color:var(--ink-2);display:grid;gap:2px}
+.doc.soon{cursor:default;background:transparent;border-style:dashed;color:var(--ink-2)}
+.doc.soon .tt{font-weight:500}
+.chain{font-size:12.5px;color:var(--ink-2);border-left:2px solid var(--line);padding-left:10px;display:grid;gap:6px}
+.chain b{color:var(--ink);font-weight:600}
+
+/* Bàn làm bài */
+.desk{background:var(--sheet);border:1px solid var(--line);border-radius:8px;padding:24px;min-width:0}
+@media (max-width:520px){.desk{padding:18px 14px}}
+.desk h2{font-family:var(--f-display);font-size:24px;margin:0 0 4px;line-height:1.2;text-wrap:balance}
+.lead{color:var(--ink-2);margin:0 0 20px}
+.modes{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin-bottom:22px}
+.mode{border:1px solid var(--line);border-radius:6px;padding:14px;background:var(--paper);text-align:left;font:inherit;color:inherit;cursor:pointer;display:flex;flex-direction:column;gap:4px}
+.mode:hover{border-color:var(--accent)}
+.mode b{font-size:15px}
+.mode span{font-size:13px;color:var(--ink-2)}
+.mode .k{font-family:var(--f-mono);font-size:11px;color:var(--accent);letter-spacing:.08em;text-transform:uppercase}
+.mode[disabled]{opacity:.5;cursor:not-allowed}
+label.fl{font-family:var(--f-mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-2);display:block;margin-bottom:8px}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:22px}
+.chip{border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:999px;padding:6px 12px;font:inherit;font-size:13px;cursor:pointer}
+.chip.on{background:var(--accent);border-color:var(--accent);color:var(--sheet)}
+.chip i{font-style:normal;font-family:var(--f-mono);font-size:11px;opacity:.75;margin-left:4px}
+.toc{display:grid;gap:0;border-top:1px solid var(--line)}
+.toc div{display:grid;grid-template-columns:76px minmax(0,1fr) auto;gap:12px;padding:9px 0;border-bottom:1px solid var(--line);font-size:13.5px;align-items:baseline}
+.toc .c{font-family:var(--f-mono);font-size:12px;color:var(--accent)}
+.toc .n{font-family:var(--f-mono);font-size:12px;color:var(--ink-2);font-variant-numeric:tabular-nums}
+
+/* Câu hỏi */
+.bar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;margin-bottom:14px;font-family:var(--f-mono);font-size:12px;color:var(--ink-2)}
+.prog{height:4px;background:var(--line);border-radius:2px;overflow:hidden;margin-bottom:20px}
+.prog i{display:block;height:100%;background:var(--accent);transition:width .25s}
+.qtag{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}
+.tag{font-family:var(--f-mono);font-size:11px;padding:2px 8px;border-radius:3px;background:var(--accent-soft);color:var(--accent)}
+.tag.am{background:var(--amend-soft);color:var(--amend)}
+.q{font-size:clamp(17px,2.2vw,19px);font-weight:600;line-height:1.45;margin:0 0 18px;text-wrap:pretty}
+.opts{display:grid;gap:10px}
+.opt{display:grid;grid-template-columns:30px minmax(0,1fr);gap:10px;align-items:start;text-align:left;font:inherit;color:inherit;background:var(--sheet);border:1px solid var(--line);border-radius:6px;padding:12px 14px;cursor:pointer}
+.opt:hover:not([disabled]){border-color:var(--accent);background:var(--accent-soft)}
+.opt .l{font-family:var(--f-mono);font-weight:600;width:26px;height:26px;border-radius:50%;border:1px solid var(--line);display:grid;place-items:center;font-size:12px}
+.opt[disabled]{cursor:default}
+.opt.ok{border-color:var(--ok);background:var(--ok-soft)}
+.opt.ok .l{background:var(--ok);border-color:var(--ok);color:var(--sheet)}
+.opt.bad{border-color:var(--bad);background:var(--bad-soft)}
+.opt.bad .l{background:var(--bad);border-color:var(--bad);color:var(--sheet)}
+.opt.pick{border-color:var(--accent);background:var(--accent-soft)}
+.opt.pick .l{background:var(--accent);border-color:var(--accent);color:var(--sheet)}
+.basis{margin-top:18px;border:1px solid var(--line);border-radius:6px;overflow:hidden}
+.basis .hd{display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px;padding:10px 14px;background:var(--paper);font-size:13px;font-weight:600}
+.basis .hd.ok{color:var(--ok)} .basis .hd.bad{color:var(--bad)}
+.basis .hd span{font-family:var(--f-mono);font-weight:400;color:var(--ink-2)}
+.basis blockquote{margin:0;padding:12px 14px;font-family:var(--f-display);font-size:16px;line-height:1.5;border-left:3px solid var(--accent)}
+.nav{display:flex;flex-wrap:wrap;justify-content:space-between;gap:10px;margin-top:20px}
+.btn{font:inherit;font-weight:600;font-size:14px;border-radius:6px;padding:10px 16px;cursor:pointer;border:1px solid var(--accent);background:var(--accent);color:var(--sheet)}
+.btn.ghost{background:transparent;color:var(--accent)}
+.btn.quiet{background:transparent;border-color:var(--line);color:var(--ink-2)}
+.btn[disabled]{opacity:.45;cursor:not-allowed}
+button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.timer{font-variant-numeric:tabular-nums;color:var(--ink)}
+.timer.low{color:var(--seal)}
+
+/* Kết quả: phiếu niêm phong */
+.seal{border:2px solid var(--seal);border-radius:4px;padding:0;margin-bottom:22px;position:relative;background:var(--sheet)}
+.seal .sh{background:var(--seal);color:var(--sheet);font-family:var(--f-mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;padding:6px 14px;display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap}
+.seal dl{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));margin:0}
+.seal dl div{padding:12px 14px;border-right:1px dashed var(--line);border-bottom:1px dashed var(--line)}
+.seal dt{font-family:var(--f-mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-2)}
+.seal dd{margin:2px 0 0;font-family:var(--f-display);font-size:22px;font-weight:700;font-variant-numeric:tabular-nums}
+.seal .verdict{padding:12px 14px;font-weight:600}
+.stamp{position:absolute;right:14px;top:34px;border:2px solid var(--seal);color:var(--seal);font-family:var(--f-mono);font-weight:600;font-size:12px;letter-spacing:.1em;padding:4px 8px;transform:rotate(-8deg);border-radius:3px;background:var(--sheet)}
+@media (max-width:520px){.stamp{position:static;display:inline-block;margin:10px 14px 0;transform:none}}
+.brk{display:grid;gap:8px;margin-bottom:22px}
+.brk div{display:grid;grid-template-columns:minmax(0,1fr) 120px 48px;gap:10px;align-items:center;font-size:13.5px}
+.brk .m{height:6px;background:var(--line);border-radius:3px;overflow:hidden}
+.brk .m i{display:block;height:100%;background:var(--accent)}
+.brk .v{font-family:var(--f-mono);font-size:12px;text-align:right;font-variant-numeric:tabular-nums}
+.rev{display:grid;gap:12px}
+.rev article{border:1px solid var(--line);border-radius:6px;padding:12px 14px}
+.rev .rq{font-weight:600;margin-bottom:6px}
+.rev .ra{font-size:13.5px;display:grid;gap:2px}
+.rev .ra .y{color:var(--bad)} .rev .ra .r{color:var(--ok)}
+.rev .rc{font-family:var(--f-mono);font-size:11.5px;color:var(--ink-2);margin-top:6px}
+.note{font-size:12.5px;color:var(--ink-2);margin-top:22px;border-top:1px solid var(--line);padding-top:12px}
+h3.sec{font-family:var(--f-mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-2);margin:0 0 10px;font-weight:600}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <small>Ngân hàng Nhà nước Việt Nam · Ôn tập văn bản</small>
+      <h1>Quiz Văn bản NHNN</h1>
+      <p>Câu hỏi soạn theo đúng điều, khoản của văn bản quy phạm pháp luật và văn bản chỉ đạo. Mỗi đáp án kèm trích dẫn căn cứ.</p>
+    </div>
+    <div class="stats" id="stats"></div>
+  </header>
+
+  <div class="grid">
+    <aside class="lib">
+      <h2>Thư viện văn bản</h2>
+      <div id="docs"></div>
+      <div class="doc soon"><div class="tt">Văn bản tiếp theo sẽ được bổ sung</div><div class="meta">Gửi file PDF để thêm bộ câu hỏi mới.</div></div>
+    </aside>
+    <main class="desk" id="desk"></main>
+  </div>
+</div>
+
+<script>
+const DOCS = [{
+  id:"vbhn118",
+  no:"118/2026/VBHN-TT-NHNN",
+  title:"Thông tư quy định về tiêu hủy tiền của Ngân hàng Nhà nước Việt Nam",
+  date:"30/10/2026",
+  signer:"Phó Thống đốc Đoàn Thái Sơn",
+  chain:[
+    ["Thông tư 03/2020/TT-NHNN","ngày 31/3/2020, hiệu lực từ 15/5/2020"],
+    ["Thông tư 42/2026/TT-NHNN","ngày 26/8/2026, sửa đổi, bổ sung, hiệu lực từ 10/10/2026"]
+  ],
+  chapters:{
+    I:"Chương I · Quy định chung",
+    II:"Chương II · Hội đồng tiêu hủy",
+    III:"Chương III · Quy định cụ thể về tiêu hủy",
+    IV:"Chương IV · Thừa, thiếu, kiểm kê, báo cáo",
+    V:"Chương V–VII · Trách nhiệm, quyền lợi, thi hành",
+    X:"Thông tin văn bản hợp nhất"
+  },
+  // o[0] luôn là đáp án đúng; thứ tự được xáo khi hiển thị
+  qs:[
+  {ch:"X",q:"Văn bản hợp nhất 118/2026/VBHN-TT-NHNN hợp nhất những thông tư nào?",o:["Thông tư 03/2020/TT-NHNN và Thông tư 42/2026/TT-NHNN","Thông tư 27/2012/TT-NHNN và Thông tư 03/2020/TT-NHNN","Thông tư 27/2012/TT-NHNN và Thông tư 42/2026/TT-NHNN","Thông tư 03/2020/TT-NHNN và Nghị định 40/2012/NĐ-CP"],c:"Phần mở đầu VBHN",ex:"Thông tư số 03/2020/TT-NHNN ngày 31 tháng 3 năm 2020 … được sửa đổi, bổ sung bởi: Thông tư số 42/2026/TT-NHNN ngày 26 tháng 8 năm 2026."},
+  {ch:"X",q:"Thông tư 42/2026/TT-NHNN sửa đổi, bổ sung Thông tư 03/2020/TT-NHNN có hiệu lực từ ngày nào?",o:["10/10/2026","26/8/2026","30/10/2026","01/01/2027"],c:"Phần mở đầu VBHN; Điều 14 TT 42/2026",ex:"Thông tư này có hiệu lực thi hành kể từ ngày 10 tháng 10 năm 2026."},
+  {ch:"X",q:"Thông tư 03/2020/TT-NHNN về tiêu hủy tiền có hiệu lực thi hành từ ngày nào?",o:["15/5/2020","31/3/2020","01/7/2020","25/9/2020"],c:"Điều 32 khoản 1",ex:"Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 5 năm 2020."},
+  {ch:"X",q:"Thông tư 03/2020/TT-NHNN thay thế văn bản nào?",o:["Thông tư 27/2012/TT-NHNN ngày 25/9/2012","Nghị định 40/2012/NĐ-CP ngày 02/5/2012","Thông tư 42/2026/TT-NHNN ngày 26/8/2026","Nghị định 16/2017/NĐ-CP ngày 17/02/2017"],c:"Điều 32 khoản 2",ex:"Thông tư này thay thế Thông tư số 27/2012/TT-NHNN ngày 25/9/2012 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về tiêu hủy tiền."},
+  {ch:"X",q:"Ai ký xác thực Văn bản hợp nhất 118/2026/VBHN-TT-NHNN?",o:["Phó Thống đốc Đoàn Thái Sơn (KT. Thống đốc)","Cục trưởng Cục Phát hành và Kho quỹ","Vụ trưởng Vụ Pháp chế","Chánh Văn phòng NHNN"],c:"Phần xác thực VBHN",ex:"XÁC THỰC VĂN BẢN HỢP NHẤT · Hà Nội, ngày 30 tháng 10 năm 2026 · KT. THỐNG ĐỐC · PHÓ THỐNG ĐỐC · Đoàn Thái Sơn."},
+  {ch:"X",q:"Theo Thông tư 42/2026, cụm từ “Ngân hàng Nhà nước chi nhánh tỉnh, thành phố” được thay bằng cụm từ nào?",o:["Ngân hàng Nhà nước chi nhánh Khu vực","Sở Giao dịch Ngân hàng Nhà nước","Chi cục Phát hành và Kho quỹ","Ngân hàng Nhà nước chi nhánh vùng"],c:"Khoản 1 Điều 13 TT 42/2026 (chú thích 11)",ex:"Cụm từ “Ngân hàng Nhà nước chi nhánh tỉnh, thành phố” được thay thế bởi cụm từ “Ngân hàng Nhà nước chi nhánh Khu vực”.",am:1},
+
+  {ch:"I",q:"Thông tư quy định về tiêu hủy những loại tiền nào?",o:["Tiền giấy (cotton, polymer) và tiền kim loại không đủ tiêu chuẩn lưu thông, tiền đình chỉ lưu hành","Chỉ tiền giấy polymer không đủ tiêu chuẩn lưu thông","Tiền giả và tiền nghi giả thu giữ được","Tiền mẫu, tiền lưu niệm và tiền đình chỉ lưu hành"],c:"Điều 1",ex:"Thông tư này quy định về tiêu huỷ tiền giấy (cotton, polymer) và tiền kim loại không đủ tiêu chuẩn lưu thông, tiền đình chỉ lưu hành (sau đây gọi là tiền tiêu hủy)."},
+  {ch:"I",q:"Đối tượng nào KHÔNG được liệt kê là đối tượng áp dụng của Thông tư?",o:["Các tổ chức tín dụng nước ngoài không có hiện diện tại Việt Nam","Hội đồng tiêu hủy tiền của NHNN","Hội đồng giám sát tiêu hủy tiền của NHNN","Các đơn vị trực thuộc NHNN liên quan đến tiêu hủy, giám sát tiêu hủy tiền"],c:"Điều 2",ex:"1. Hội đồng tiêu hủy … 2. Hội đồng giám sát … 3. Các đơn vị trực thuộc NHNN và các tổ chức, cá nhân có liên quan đến công tác tiêu hủy tiền, giám sát tiêu hủy tiền."},
+  {ch:"I",q:"Ai trình Thống đốc phê duyệt kế hoạch tiêu hủy tiền?",o:["Cục trưởng Cục Phát hành và Kho quỹ","Chủ tịch Hội đồng giám sát","Vụ trưởng Vụ Tài chính - Kế toán","Chánh Thanh tra NHNN"],c:"Điều 3 khoản 1",ex:"… Cục trưởng Cục Phát hành và Kho quỹ trình Thống đốc Ngân hàng Nhà nước phê duyệt kế hoạch tiêu huỷ tiền, bao gồm thời gian tiêu huỷ tiền, số lượng, giá trị từng loại tiền tiêu huỷ.",am:1},
+  {ch:"I",q:"Yếu tố nào KHÔNG thuộc căn cứ để lập kế hoạch tiêu hủy tiền theo Điều 3?",o:["Dự báo tốc độ tăng trưởng tín dụng","Số liệu tồn kho tiền không đủ tiêu chuẩn lưu thông, tiền đình chỉ lưu hành tại Quỹ Dự trữ phát hành","Số lượng lao động và công suất máy móc thiết bị","Định mức giao nhận, kiểm đếm, cắt hủy"],c:"Điều 3 khoản 1",ex:"Căn cứ số liệu tồn kho … tại Quỹ Dự trữ phát hành …; số lượng lao động; công suất máy móc thiết bị; định mức giao nhận, kiểm đếm, cắt huỷ …",am:1},
+  {ch:"I",q:"Kế hoạch tiêu hủy tiền trình Thống đốc phê duyệt bao gồm những nội dung nào?",o:["Thời gian tiêu hủy, số lượng, giá trị từng loại tiền tiêu hủy","Danh sách nhân sự và mức bồi dưỡng","Phương án bán phế liệu và dự toán chi phí","Địa điểm tiêu hủy và thành phần Hội đồng giám sát"],c:"Điều 3 khoản 1",ex:"… kế hoạch tiêu huỷ tiền, bao gồm thời gian tiêu huỷ tiền, số lượng, giá trị từng loại tiền tiêu huỷ.",am:1},
+  {ch:"I",q:"Cụm tiêu hủy phía Nam được tổ chức tại đâu?",o:["Chi cục Phát hành và Kho quỹ ở TP. Hồ Chí Minh","NHNN chi nhánh Khu vực tại TP. Hồ Chí Minh","Sở Giao dịch NHNN","Kho tiền Trung ương tại Đà Nẵng"],c:"Điều 3 khoản 2",ex:"Hội đồng tiêu huỷ tổ chức tiêu hủy tiền tại Cục Phát hành và Kho quỹ ở Hà Nội (Cụm tiêu hủy phía Bắc) và tại Chi cục Phát hành và Kho quỹ ở thành phố Hồ Chí Minh (Cụm tiêu hủy phía Nam)."},
+  {ch:"I",q:"Trường hợp cần tổ chức tiêu hủy tiền tại cơ sở khác ngoài hai cụm tiêu hủy, ai quyết định?",o:["Thống đốc NHNN","Chủ tịch Hội đồng tiêu hủy","Cục trưởng Cục Phát hành và Kho quỹ","Chủ tịch Hội đồng giám sát"],c:"Điều 3 khoản 2",ex:"Trường hợp cần thiết phải tổ chức tiêu hủy tiền tại cơ sở khác do Thống đốc Ngân hàng Nhà nước quyết định."},
+  {ch:"I",q:"Ai quyết định tỷ lệ kiểm đếm từng loại tiền trước khi tiêu hủy, và căn cứ vào đâu?",o:["Chủ tịch Hội đồng tiêu hủy, căn cứ kết quả thừa, thiếu qua kiểm đếm tiền tiêu hủy hằng năm","Thống đốc NHNN, căn cứ kế hoạch tiêu hủy năm","Chủ tịch Hội đồng giám sát, căn cứ kết quả kiểm kê hằng tháng","Phó Chủ tịch phụ trách cụm, căn cứ công suất máy móc"],c:"Điều 4 khoản 2",ex:"Căn cứ kết quả thừa, thiếu qua kiểm đếm tiền tiêu huỷ hằng năm, Chủ tịch Hội đồng tiêu huỷ quyết định tỷ lệ kiểm đếm từng loại tiền trước khi tiêu huỷ.",am:1},
+  {ch:"I",q:"Theo nguyên tắc tiêu hủy, tiêu hủy theo số tiền nào?",o:["Số tiền thực tế đã nhận từ Kho tiền Trung ương sau khi có kết quả kiểm đếm, phân loại của Hội đồng tiêu hủy","Số tiền ghi trên lệnh điều chuyển của Cục Phát hành và Kho quỹ","Số tiền ghi trong kế hoạch tiêu hủy được Thống đốc phê duyệt","Số tiền ghi trên niêm phong của tổ chức tín dụng nộp về"],c:"Điều 4 khoản 3",ex:"Tiêu huỷ theo số tiền thực tế đã nhận từ Kho tiền Trung ương sau khi có kết quả kiểm đếm, phân loại của Hội đồng tiêu hủy."},
+  {ch:"I",q:"Yêu cầu đối với tiền sau khi đã tiêu hủy thành phế liệu là gì?",o:["Phải bảo đảm không thể khôi phục để sử dụng lại như tiền","Phải được nhập lại Quỹ Dự trữ phát hành","Phải được lưu giữ tối thiểu 5 năm","Phải được chuyển giao cho Thanh tra NHNN"],c:"Điều 4 khoản 4",ex:"Tiền sau khi đã tiêu hủy thành phế liệu phải bảo đảm không thể khôi phục để sử dụng lại như tiền."},
+  {ch:"I",q:"Tiền giấy được tiêu hủy bằng phương pháp nào?",o:["Hệ thống máy cắt hủy chuyên dùng","Đốt trong lò chuyên dụng","Nghiền ướt và ép kiện","Nấu chảy"],c:"Điều 5 khoản 1",ex:"Tiền tiêu hủy là tiền giấy được tiêu hủy bằng hệ thống máy cắt hủy chuyên dùng."},
+  {ch:"I",q:"Tiền kim loại được tiêu hủy bằng phương pháp nào?",o:["Nấu chảy hoặc máy hủy tiền kim loại chuyên dùng","Chỉ bằng phương pháp nấu chảy","Hệ thống máy cắt hủy tiền giấy chuyên dùng","Dập biến dạng thủ công"],c:"Điều 5 khoản 2",ex:"Tiền tiêu hủy là tiền kim loại được tiêu hủy bằng phương pháp nấu chảy hoặc máy hủy tiền kim loại chuyên dùng."},
+
+  {ch:"II",q:"Hội đồng tiêu hủy được thành lập như thế nào?",o:["Hàng năm, do Thống đốc NHNN quyết định thành lập","Mỗi đợt tiêu hủy, do Cục trưởng Cục Phát hành và Kho quỹ quyết định","5 năm một lần, do Thống đốc quyết định","Hàng năm, do Chủ tịch Hội đồng giám sát quyết định"],c:"Điều 6 khoản 1",ex:"Hàng năm, Thống đốc Ngân hàng Nhà nước quyết định thành lập Hội đồng tiêu hủy …"},
+  {ch:"II",q:"Chủ tịch Hội đồng tiêu hủy là ai?",o:["Cục trưởng Cục Phát hành và Kho quỹ","Một Phó Thống đốc NHNN","Vụ trưởng Vụ Tài chính - Kế toán","Chánh Thanh tra NHNN"],c:"Điều 6 khoản 1 điểm a",ex:"a) Chủ tịch: Cục trưởng Cục Phát hành và Kho quỹ."},
+  {ch:"II",q:"Phó Chủ tịch thường trực Hội đồng tiêu hủy là ai?",o:["Phó Cục trưởng Cục Phát hành và Kho quỹ trực tiếp phụ trách Cụm tiêu hủy phía Bắc","Chi cục trưởng Chi cục Phát hành và Kho quỹ tại TP. Hồ Chí Minh","Phó Vụ trưởng Vụ Tài chính - Kế toán","Phó Chánh Thanh tra NHNN"],c:"Điều 6 khoản 1 điểm b",ex:"b) 01 (một) Phó Chủ tịch thường trực: Phó Cục trưởng Cục Phát hành và Kho quỹ trực tiếp phụ trách Cụm tiêu hủy phía Bắc."},
+  {ch:"II",q:"Hội đồng tiêu hủy có tổng cộng bao nhiêu Phó Chủ tịch?",o:["3","2","4","1"],c:"Điều 6 khoản 1 điểm b, c, d",ex:"01 Phó Chủ tịch thường trực (Phó Cục trưởng Cục PH&KQ); 01 Phó Chủ tịch là Phó Vụ trưởng Vụ Tài chính - Kế toán; 01 Phó Chủ tịch là Chi cục trưởng Chi cục PH&KQ tại TP. Hồ Chí Minh."},
+  {ch:"II",q:"Phó Chủ tịch Hội đồng tiêu hủy đến từ Vụ Tài chính - Kế toán giữ chức vụ gì?",o:["Phó Vụ trưởng","Vụ trưởng","Trưởng phòng","Kế toán trưởng"],c:"Điều 6 khoản 1 điểm c",ex:"c) 01 (một) Phó Chủ tịch là Phó Vụ trưởng Vụ Tài chính - Kế toán."},
+  {ch:"II",q:"Trong số ủy viên Hội đồng tiêu hủy, có bao nhiêu người kiêm nhiệm vụ thư ký?",o:["3 (một thư ký Hội đồng và hai thư ký tại hai cụm)","1","2 (một ở mỗi cụm)","4 (một ở mỗi tổ chuyên trách)"],c:"Điều 6 khoản 1 điểm e",ex:"Trong đó có một ủy viên kiêm thư ký Hội đồng tiêu hủy và hai ủy viên kiêm thư ký tại Cụm tiêu hủy phía Bắc và Cụm tiêu hủy phía Nam."},
+  {ch:"II",q:"Tại mỗi cụm tiêu hủy, bộ phận giúp việc Hội đồng tiêu hủy được tổ chức thành bao nhiêu tổ chuyên trách?",o:["4","3","5","6"],c:"Điều 6 khoản 2",ex:"Giúp việc Hội đồng tiêu hủy gồm có các tổ chuyên trách; tại từng cụm tiêu hủy được tổ chức thành 04 (bốn) tổ."},
+  {ch:"II",q:"Ai ban hành nội quy, quy chế làm việc của Hội đồng tiêu hủy?",o:["Chủ tịch Hội đồng tiêu hủy","Thống đốc NHNN","Chủ tịch Hội đồng giám sát","Phó Chủ tịch thường trực"],c:"Điều 8 khoản 2",ex:"Ban hành nội quy, quy chế làm việc của Hội đồng tiêu hủy."},
+  {ch:"II",q:"Ai phê duyệt kế hoạch nhận tiền tiêu hủy từ Kho tiền Trung ương của một cụm tiêu hủy?",o:["Phó Chủ tịch phụ trách cụm tiêu hủy đó","Chủ tịch Hội đồng tiêu hủy","Thống đốc NHNN","Thủ kho tiền tiêu hủy"],c:"Điều 9 khoản 1 điểm d",ex:"Phó Chủ tịch phụ trách cụm tiêu hủy … phê duyệt kế hoạch nhận tiền tiêu hủy từ Kho tiền Trung ương của cụm tiêu hủy."},
+  {ch:"II",q:"Phó Chủ tịch thường trực thay mặt Chủ tịch chỉ đạo, điều hành công việc của Hội đồng tiêu hủy khi nào?",o:["Khi được ủy quyền","Khi Chủ tịch đi công tác trên 15 ngày","Bất cứ khi nào Chủ tịch vắng mặt","Khi được Hội đồng giám sát chấp thuận"],c:"Điều 9 khoản 1 điểm c",ex:"Phó Chủ tịch thường trực thay mặt Chủ tịch Hội đồng tiêu hủy chịu trách nhiệm chỉ đạo, điều hành công việc của Hội đồng tiêu hủy khi được ủy quyền."},
+  {ch:"II",q:"“Tổ 1” trong các tổ chuyên trách là tổ nào?",o:["Tổ giao nhận và bảo quản tiền tiêu hủy","Tổ kiểm đếm tiền tiêu hủy","Tổ cắt hủy tiền","Tổ tổng hợp"],c:"Điều 10 khoản 1",ex:"Tổ giao nhận và bảo quản tiền tiêu huỷ (sau đây gọi là Tổ 1) …"},
+  {ch:"II",q:"Tổ nào có nhiệm vụ nhập kho tiền đủ tiêu chuẩn lưu thông được chọn ra từ kiểm đếm tiền tiêu hủy?",o:["Tổ 1 – Tổ giao nhận và bảo quản","Tổ 2 – Tổ kiểm đếm","Tổ 3 – Tổ cắt hủy","Tổ 4 – Tổ tổng hợp"],c:"Điều 10 khoản 1",ex:"Tổ 1: … bảo quản tiền do các tổ chuyên trách gửi lại; nhập kho tiền đủ tiêu chuẩn lưu thông chọn ra từ kiểm đếm tiền tiêu hủy."},
+  {ch:"II",q:"Tổ 2 kiểm đếm tờ (miếng) đối với những bó (túi) nào phát hiện trong quá trình giao nhận?",o:["Bó (túi) thừa hoặc thiếu thếp, niêm phong, đóng gói không đúng quy cách","Mọi bó (túi) nhận từ Kho tiền Trung ương","Chỉ bó (túi) có mệnh giá từ 100.000 đồng trở lên","Bó (túi) do Hội đồng giám sát chỉ định"],c:"Điều 10 khoản 2",ex:"… kiểm đếm tờ (miếng) trong trường hợp bó (túi) tiền thừa hoặc thiếu thếp, các bó (túi) tiền niêm phong, đóng gói không đúng quy cách phát hiện trong quá trình giao nhận."},
+  {ch:"II",q:"Tổ 4 (Tổ tổng hợp) KHÔNG có nhiệm vụ nào sau đây?",o:["Cắt hủy tiền và thu hồi phế liệu","Thực hiện công việc hành chính, kế toán, thống kê","Theo dõi việc nhập, xuất phế liệu tiền tiêu hủy","Đề xuất nhu cầu mua sắm vật tư, vật liệu phục vụ tiêu hủy"],c:"Điều 10 khoản 3, 4",ex:"Tổ 3 thực hiện cắt huỷ … và thu hồi phế liệu. Tổ 4: Thực hiện các công việc hành chính, kế toán, thống kê; theo dõi việc nhập, xuất phế liệu tiền tiêu hủy; đề xuất nhu cầu mua sắm vật tư, vật liệu."},
+  {ch:"II",q:"Tổ trưởng và Tổ phó của mỗi tổ chuyên trách do ai xem xét, quyết định?",o:["Phó Chủ tịch phụ trách cụm tiêu hủy","Chủ tịch Hội đồng tiêu hủy","Vụ trưởng Vụ Tổ chức cán bộ","Thống đốc NHNN"],c:"Điều 10 khoản 5",ex:"Mỗi tổ chuyên trách có Tổ trưởng và Tổ phó giúp việc do Phó Chủ tịch phụ trách cụm tiêu hủy xem xét, quyết định."},
+  {ch:"II",q:"Khi phát hiện hành vi tham ô, lấy cắp tài sản, Tổ trưởng tổ chuyên trách phải làm gì?",o:["Phối hợp với công chức giám sát lập biên bản, báo cáo Hội đồng tiêu hủy và Hội đồng giám sát","Báo ngay cho cơ quan công an và tạm dừng tiêu hủy","Tự lập biên bản và gửi Vụ Tổ chức cán bộ","Báo cáo trực tiếp Thống đốc NHNN"],c:"Điều 11 khoản 3",ex:"Khi phát hiện các hành vi tham ô, lợi dụng lấy cắp tài sản, Tổ trưởng phối hợp với công chức giám sát lập biên bản báo cáo Hội đồng tiêu hủy và Hội đồng giám sát để xử lý kịp thời."},
+  {ch:"II",q:"Để trưng tập công chức, người lao động từ các đơn vị thuộc NHNN tham gia tiêu hủy tiền, Cục Phát hành và Kho quỹ phối hợp với đơn vị nào trình Thống đốc?",o:["Vụ Tổ chức cán bộ","Vụ Tài chính - Kế toán","Thanh tra NHNN","Văn phòng NHNN"],c:"Điều 12 khoản 2; Điều 30",ex:"Trường hợp cần thiết, Cục Phát hành và Kho quỹ phối hợp với Vụ Tổ chức cán bộ trình Thống đốc Ngân hàng Nhà nước trưng tập công chức, người lao động …"},
+
+  {ch:"III",q:"Tham gia quản lý kho tiền tiêu hủy tại mỗi cụm gồm những thành viên nào?",o:["Ủy viên Hội đồng tiêu hủy, nhân viên kế toán kho tiền tiêu hủy và thủ kho tiền tiêu hủy","Chủ tịch Hội đồng tiêu hủy, Tổ trưởng Tổ 1 và thủ kho","Phó Chủ tịch phụ trách cụm, công chức giám sát và thủ kho","Tổ trưởng Tổ 1, Tổ trưởng Tổ 2 và Tổ trưởng Tổ 3"],c:"Điều 13 khoản 2 điểm a",ex:"Tham gia quản lý kho tiền tiêu hủy tại mỗi cụm tiêu hủy gồm 03 (ba) thành viên: Ủy viên Hội đồng tiêu hủy, nhân viên thực hiện nhiệm vụ kế toán kho tiền tiêu hủy và thủ kho tiền tiêu hủy."},
+  {ch:"III",q:"Thành viên tham gia quản lý kho tiền tiêu hủy do ai xem xét, quyết định?",o:["Thống đốc NHNN","Chủ tịch Hội đồng tiêu hủy","Phó Chủ tịch phụ trách cụm tiêu hủy","Cục trưởng Cục Phát hành và Kho quỹ"],c:"Điều 13 khoản 2 điểm b",ex:"Thành viên tham gia quản lý kho tiền tiêu hủy do Thống đốc Ngân hàng Nhà nước xem xét, quyết định."},
+  {ch:"III",q:"Thủ kho tiền tiêu hủy giữ chìa khóa nào của cửa kho tiền?",o:["Một ổ khóa của lớp cánh trong cửa kho tiền","Một ổ khóa của lớp cánh ngoài cửa kho tiền","Toàn bộ chìa khóa dự phòng","Không giữ chìa khóa cửa kho"],c:"Điều 13 khoản 2 điểm c (iii)",ex:"Thủ kho tiền tiêu hủy … quản lý và giữ chìa khóa một ổ khóa của lớp cánh trong cửa kho tiền."},
+  {ch:"III",q:"Thành viên nào có nhiệm vụ kiểm tra, đối chiếu số liệu giữa sổ kế toán và sổ quỹ đảm bảo khớp đúng?",o:["Nhân viên thực hiện nhiệm vụ kế toán kho tiền tiêu hủy","Ủy viên Hội đồng tiêu hủy","Thủ kho tiền tiêu hủy","Tổ trưởng Tổ 4"],c:"Điều 13 khoản 2 điểm c (ii)",ex:"Nhân viên thực hiện nhiệm vụ kế toán kho tiền tiêu hủy … kiểm tra, đối chiếu số liệu giữa sổ kế toán và sổ quỹ đảm bảo khớp đúng."},
+  {ch:"III",q:"Thành viên quản lý kho tiền tiêu hủy tại Cụm phía Nam nghỉ dưới 15 ngày làm việc thì ai quyết định cử người thay thế?",o:["Phó Chủ tịch phụ trách Cụm tiêu hủy phía Nam","Chủ tịch Hội đồng tiêu hủy","Thống đốc NHNN","Chi cục trưởng kiêm Chủ tịch Hội đồng giám sát"],c:"Điều 13 khoản 3",ex:"… ít hơn 15 ngày làm việc, Chủ tịch Hội đồng tiêu hủy (đối với Cụm tiêu hủy phía Bắc) và Phó Chủ tịch phụ trách Cụm tiêu hủy phía Nam (đối với Cụm tiêu hủy phía Nam) xem xét, quyết định cử người thay thế."},
+  {ch:"III",q:"Thành viên quản lý kho tiền tiêu hủy nghỉ từ 15 ngày làm việc trở lên thì ai quyết định người thay thế?",o:["Thống đốc NHNN","Chủ tịch Hội đồng tiêu hủy","Phó Chủ tịch phụ trách cụm","Vụ trưởng Vụ Tổ chức cán bộ"],c:"Điều 13 khoản 3",ex:"Trường hợp nghỉ từ 15 ngày làm việc trở lên do Thống đốc Ngân hàng Nhà nước xem xét, quyết định."},
+  {ch:"III",q:"Đối với Cụm tiêu hủy phía Nam, đơn vị nào lập phiếu xuất kho tiền tiêu hủy từ Kho tiền Trung ương?",o:["Phòng Kế toán - Tài vụ thuộc Chi cục Phát hành và Kho quỹ","Vụ Tài chính - Kế toán","Cục Phát hành và Kho quỹ","NHNN chi nhánh Khu vực tại TP. Hồ Chí Minh"],c:"Điều 14 khoản 1",ex:"… Cục Phát hành và Kho quỹ lập lệnh điều chuyển để Vụ Tài chính - Kế toán (đối với Cụm tiêu hủy phía Bắc) và Phòng Kế toán - Tài vụ thuộc Chi cục Phát hành và Kho quỹ (đối với Cụm tiêu hủy phía Nam) lập phiếu xuất kho …"},
+  {ch:"III",q:"Đơn vị nào lập lệnh điều chuyển tiền tiêu hủy từ Kho tiền Trung ương?",o:["Cục Phát hành và Kho quỹ","Vụ Tài chính - Kế toán","Hội đồng tiêu hủy","Thanh tra NHNN"],c:"Điều 14 khoản 1",ex:"… Cục Phát hành và Kho quỹ lập lệnh điều chuyển …"},
+  {ch:"III",q:"Khi thủ kho tiền tiêu hủy nhận tiền từ Kho tiền Trung ương, việc nhận phải có sự giám sát của ai?",o:["Công chức kiểm soát nội bộ Cục Phát hành và Kho quỹ, Chi cục Phát hành và Kho quỹ","Thanh tra viên NHNN","Đại diện Vụ Tài chính - Kế toán","Chủ tịch Hội đồng tiêu hủy"],c:"Điều 15 khoản 1",ex:"Thủ kho tiền tiêu huỷ tổ chức nhận tiền … theo bao (thùng) nguyên niêm phong kẹp chì … có sự giám sát của công chức kiểm soát nội bộ Cục Phát hành và Kho quỹ, Chi cục Phát hành và Kho quỹ.",am:1},
+  {ch:"III",q:"Số tiền không thuộc diện kiểm đếm tờ (miếng) theo tỷ lệ được xuất giao cho tổ nào?",o:["Tổ 3 để cắt hủy","Tổ 2 để kiểm đếm theo bó","Tổ 4 để hạch toán","Giữ lại tại kho tiền tiêu hủy đến cuối đợt"],c:"Điều 15 khoản 3",ex:"… Hội đồng tiêu huỷ thực hiện lấy ngẫu nhiên số tiền theo tỷ lệ kiểm đếm … để Tổ 1 xuất giao cho Tổ 2 kiểm đếm tờ (miếng); số tiền còn lại không phải kiểm đếm tờ (miếng) được xuất giao cho Tổ 3 để cắt hủy."},
+  {ch:"III",q:"Số tiền đưa vào kiểm đếm tờ (miếng) được chọn theo cách nào?",o:["Lấy ngẫu nhiên theo tỷ lệ kiểm đếm từng loại tiền do Chủ tịch Hội đồng tiêu hủy phê duyệt","Chọn các bao có niêm phong lâu nhất","Kiểm đếm toàn bộ 100% số tiền nhận về","Do Hội đồng giám sát chỉ định từng bao"],c:"Điều 15 khoản 3",ex:"Hội đồng tiêu huỷ thực hiện lấy ngẫu nhiên số tiền theo tỷ lệ kiểm đếm từng loại tiền do Chủ tịch Hội đồng tiêu hủy phê duyệt …"},
+  {ch:"III",q:"Tổ trưởng Tổ 2 giao tiền cho từng kiểm ngân theo bó tiền giấy đủ bao nhiêu thếp?",o:["10 thếp","5 thếp","20 thếp","100 thếp"],c:"Điều 16 khoản 2 điểm a",ex:"Giao nhận theo bó đủ 10 thếp (tiền giấy), túi (tiền kim loại) nguyên niêm phong …",am:1},
+  {ch:"III",q:"Việc Tổ trưởng Tổ 2 giao tiền cho từng kiểm ngân phải có sự giám sát của ai?",o:["Hội đồng giám sát","Phó Chủ tịch phụ trách cụm","Thủ kho tiền tiêu hủy","Tổ trưởng Tổ 1"],c:"Điều 16 khoản 2",ex:"Tổ trưởng Tổ 2 nhận theo bao (thùng) nguyên niêm phong kẹp chì … và tổ chức giao cho từng kiểm ngân có sự giám sát của Hội đồng giám sát.",am:1},
+  {ch:"III",q:"Kiểm ngân kiểm đếm thấy bó (túi) tiền đủ số lượng tờ (miếng), đúng loại tiền ghi trên niêm phong thì xử lý thế nào?",o:["Hủy ngay giấy niêm phong và đóng bó (túi), niêm phong mới","Giữ nguyên niêm phong cũ và chuyển Tổ 3","Gửi lại kho tiền tiêu hủy để kiểm kê","Lập biên bản gửi tổ chức tín dụng đã niêm phong"],c:"Điều 16 khoản 3",ex:"Nếu bó (túi) tiền đủ số lượng tờ (miếng), đúng loại tiền ghi trên niêm phong thì hủy ngay giấy niêm phong và thực hiện đóng bó (túi), niêm phong mới.",am:1},
+  {ch:"III",q:"Quy cách đóng bó tiền giấy sau kiểm đếm: buộc dây như thế nào?",o:["2 vòng ngang, 1 vòng dọc","1 vòng ngang, 1 vòng dọc","2 vòng ngang, 2 vòng dọc","3 vòng ngang"],c:"Điều 16 khoản 4 điểm a",ex:"… xếp 10 (mười) thếp tiền cùng loại thành 01 (một) bó, dùng dây (sợi se, nilon...) buộc chặt 02 (hai) vòng ngang, 01 (một) vòng dọc bó tiền, dán niêm phong lên mặt có nút buộc bó tiền."},
+  {ch:"III",q:"Tiền giấy biến dạng không thể đóng bó thông thường thì đóng gói thế nào?",o:["Đóng vào 01 túi vải đủ 1.000 tờ, buộc thắt chặt miệng túi, dán niêm phong sát nút buộc","Đóng vào túi nilon 500 tờ","Gói giấy kraft theo thếp 100 tờ","Để rời trong thùng tôn có khóa"],c:"Điều 16 khoản 4 điểm a",ex:"Đối với tiền giấy biến dạng không thể đóng bó như trên: đóng vào 01 (một) túi vải đủ 1.000 tờ, dùng dây … buộc thắt chặt miệng túi, dán niêm phong sát nút buộc miệng túi tiền."},
+  {ch:"III",q:"Mỗi túi vải tiền kim loại sau kiểm đếm phải đủ bao nhiêu miếng?",o:["1.000 miếng","500 miếng","2.000 miếng","100 miếng"],c:"Điều 16 khoản 4 điểm b",ex:"Đối với tiền kim loại, đóng vào túi vải đủ 1.000 miếng …"},
+  {ch:"III",q:"Một thùng tiền kim loại mệnh giá 5.000 đồng chứa bao nhiêu túi?",o:["50 túi","75 túi","100 túi","40 túi"],c:"Điều 16 khoản 4 điểm b (i)",ex:"01 thùng mệnh giá 5.000 đồng: 50 túi."},
+  {ch:"III",q:"Một thùng tiền kim loại mệnh giá 2.000 đồng, 1.000 đồng hoặc 500 đồng chứa bao nhiêu túi?",o:["75 túi","50 túi","100 túi","60 túi"],c:"Điều 16 khoản 4 điểm b (ii)",ex:"01 thùng mệnh giá 2.000 đồng, 1.000 đồng, 500 đồng: 75 túi."},
+  {ch:"III",q:"Một thùng tiền kim loại mệnh giá 200 đồng chứa bao nhiêu túi?",o:["100 túi","75 túi","50 túi","150 túi"],c:"Điều 16 khoản 4 điểm b (iii)",ex:"01 thùng mệnh giá 200 đồng: 100 túi."},
+  {ch:"III",q:"Thông tin nào KHÔNG thuộc các yếu tố bắt buộc ghi trên niêm phong bao (thùng), bó (túi) tiền sau kiểm đếm?",o:["Số seri của tờ tiền đầu tiên trong bó","Ngày, tháng, năm kiểm đếm và loại tiền","Số tờ (miếng) và thành tiền","Họ tên và chữ ký người kiểm đếm"],c:"Điều 16 khoản 4 điểm c",ex:"Trên niêm phong bao (thùng), bó (túi) tiền ghi đầy đủ các yếu tố ngày, tháng, năm kiểm đếm, loại tiền, số tờ (miếng), thành tiền, họ tên và chữ ký người kiểm đếm.",am:1},
+  {ch:"III",q:"Số tiền tạm ứng (để bù vào bó thiếu tờ) còn lại được xử lý thế nào?",o:["Tiêu hủy vào ngày cuối cùng khi tiêu hủy loại tiền cùng mệnh giá","Nhập Quỹ Dự trữ phát hành vào cuối năm","Hoàn trả Kho tiền Trung ương ngay trong ngày","Chuyển cho Tổ 4 hạch toán thu nhập"],c:"Điều 16 khoản 6",ex:"Số tiền tạm ứng còn lại được tiêu huỷ vào ngày cuối cùng khi tiêu huỷ loại tiền cùng mệnh giá."},
+  {ch:"III",q:"Trong giờ nghỉ trưa, cửa phòng kiểm đếm tiền được khóa và niêm phong với chữ ký của ai?",o:["Tổ trưởng Tổ 2 và công chức giám sát của Hội đồng giám sát","Thủ kho và kế toán kho tiền tiêu hủy","Phó Chủ tịch phụ trách cụm và Tổ trưởng Tổ 2","Kiểm ngân ra sau cùng"],c:"Điều 16 khoản 7",ex:"Cửa phòng kiểm đếm tiền phải được khóa và niêm phong có chữ ký của Tổ trưởng Tổ 2 và công chức giám sát của Hội đồng giám sát."},
+  {ch:"III",q:"Cuối ngày làm việc, biên bản thừa, thiếu trong các bó (túi) tiền tiêu hủy được lập và tổng hợp theo tiêu chí nào?",o:["Theo từng NHNN chi nhánh Khu vực, Sở Giao dịch NHNN, từng tổ chức tín dụng, Kho bạc Nhà nước trên địa bàn","Theo từng kiểm ngân","Theo từng mệnh giá tiền","Theo từng ca làm việc"],c:"Điều 16 khoản 8 điểm b",ex:"Lập biên bản xác nhận và tổng hợp tiền thừa, thiếu trong các bó (túi) tiền tiêu hủy theo từng Ngân hàng Nhà nước chi nhánh Khu vực, Sở Giao dịch NHNN, từng tổ chức tín dụng, Kho bạc Nhà nước trên địa bàn …",am:1},
+  {ch:"III",q:"Cuối mỗi ngày, ai lập Biên bản xác nhận kết quả tiêu hủy hoàn toàn?",o:["Tổ trưởng Tổ 3, có ký xác nhận của Tổ trưởng Tổ giám sát cắt hủy tiền","Thủ kho tiền tiêu hủy","Phó Chủ tịch phụ trách cụm","Tổ trưởng Tổ 4"],c:"Điều 17 khoản 4",ex:"Cuối mỗi ngày làm việc, Tổ trưởng Tổ 3 lập Biên bản xác nhận kết quả tiêu hủy hoàn toàn, có ký xác nhận của Tổ trưởng Tổ giám sát cắt huỷ tiền."},
+  {ch:"III",q:"Tổ trưởng Tổ 3 nhận tiền để cắt hủy từ những tổ nào?",o:["Tổ 1 và Tổ 2","Chỉ Tổ 1","Chỉ Tổ 2","Tổ 2 và Tổ 4"],c:"Điều 17 khoản 1",ex:"Căn cứ chứng từ xuất kho tiền tiêu hủy, Tổ trưởng Tổ 3 tổ chức thực hiện nhận tiền từ Tổ 1 và Tổ 2 theo phương thức giao nhận bó (túi) nguyên niêm phong …",am:1},
+  {ch:"III",q:"Trong giờ nghỉ trưa, ai là người ra sau cùng khóa và niêm phong cửa nơi giao nhận, kiểm đếm, cắt hủy?",o:["Tổ trưởng","Công chức giám sát","Thủ kho","Nhân viên bảo vệ"],c:"Điều 18 khoản 1",ex:"… trong giờ giải lao, giờ nghỉ trưa công chức, người lao động không được ở lại nơi làm việc, Tổ trưởng là người ra sau cùng khoá và niêm phong cửa …"},
+  {ch:"III",q:"Người không có nhiệm vụ tiêu hủy tiền muốn vào kho tiền tiêu hủy, nơi kiểm đếm, cắt hủy cần điều kiện gì?",o:["Được Phó Chủ tịch phụ trách cụm tiêu hủy cho phép bằng văn bản","Được Tổ trưởng cho phép bằng lời","Xuất trình thẻ ngành NHNN","Có công chức giám sát đi cùng"],c:"Điều 18 khoản 3",ex:"Đối với những trường hợp không có nhiệm vụ thực hiện công tác tiêu hủy tiền, khi cần vào, ra … phải được sự cho phép bằng văn bản của Phó Chủ tịch phụ trách cụm tiêu hủy."},
+  {ch:"III",q:"Vật dụng nào bị cấm mang vào kho tiền tiêu hủy, nơi giao nhận, kiểm đếm và cắt hủy tiền?",o:["Thiết bị liên lạc, ghi hình, cặp, túi xách, tiền mặt","Thẻ nhân viên do Hội đồng cấp","Trang phục do Hội đồng tiêu hủy và Hội đồng giám sát trang cấp","Sổ theo dõi giao nhận nội bộ"],c:"Điều 18 khoản 3",ex:"… phải đeo thẻ, mặc trang phục do Hội đồng tiêu huỷ và Hội đồng giám sát trang cấp; không được mang thiết bị liên lạc, ghi hình, cặp, túi xách, tiền mặt, chất dễ cháy, nổ trái quy định vào nơi làm việc."},
+
+  {ch:"IV",q:"Định kỳ hàng tháng, Hội đồng tiêu hủy gửi bảng tổng hợp thừa, thiếu cho đơn vị nào để làm thủ tục báo Có hoặc báo Nợ?",o:["Vụ Tài chính - Kế toán","Cục Phát hành và Kho quỹ","Thanh tra NHNN","Kho bạc Nhà nước"],c:"Điều 19 khoản 2",ex:"… gửi Vụ Tài chính - Kế toán bảng tổng hợp số tiền thừa, thiếu, xác định số tiền chênh lệch thừa hoặc chênh lệch thiếu để làm thủ tục báo Có hoặc báo Nợ cho từng NHNN chi nhánh Khu vực, Sở Giao dịch NHNN.",am:1},
+  {ch:"IV",q:"Phát hiện bó (túi) thừa hoặc thiếu thếp trong quá trình giao nhận thì xử lý thế nào?",o:["Hai bên lập biên bản tại chỗ dưới sự giám sát của công chức giám sát và giao sang Tổ 2 kiểm đếm tờ (miếng)","Trả lại Kho tiền Trung ương","Chuyển thẳng sang Tổ 3 cắt hủy","Niêm phong lại và báo Thống đốc"],c:"Điều 19 khoản 1",ex:"Trường hợp phát hiện bó (túi) tiền thừa hoặc thiếu thếp … hai bên giao nhận lập biên bản tại chỗ dưới sự giám sát của công chức giám sát và giao sang Tổ 2 để kiểm đếm tờ (miếng) …"},
+  {ch:"IV",q:"Ai quyết định thời điểm tiêu hủy trong năm đối với tiền lẫn loại không đủ tiêu chuẩn lưu thông, tiền đình chỉ lưu hành và tiền giả phát hiện qua kiểm đếm?",o:["Phó Chủ tịch phụ trách cụm tiêu hủy","Chủ tịch Hội đồng tiêu hủy","Thống đốc NHNN","Chủ tịch Hội đồng giám sát"],c:"Điều 20 khoản 1",ex:"Đối với tiền lẫn loại không đủ tiêu chuẩn lưu thông, tiền đình chỉ lưu hành và tiền giả phát hiện qua kiểm đếm, Phó Chủ tịch phụ trách cụm tiêu huỷ quyết định thời điểm tiêu huỷ trong năm.",am:1},
+  {ch:"IV",q:"Tiền đủ tiêu chuẩn lưu thông phát hiện qua kiểm đếm được xử lý thế nào?",o:["Nhập Quỹ dự trữ phát hành tại Kho tiền Trung ương vào cuối đợt tiêu hủy","Tiêu hủy cùng đợt","Trả lại tổ chức tín dụng đã nộp","Nhập Quỹ nghiệp vụ phát hành của NHNN chi nhánh Khu vực"],c:"Điều 20 khoản 2",ex:"Đối với tiền đủ tiêu chuẩn lưu thông phát hiện qua kiểm đếm được nhập Quỹ dự trữ phát hành tại Kho tiền Trung ương vào cuối đợt tiêu hủy."},
+  {ch:"IV",q:"Tiền tiêu hủy bảo quản trong kho được kiểm kê định kỳ như thế nào?",o:["Mỗi tháng 01 lần, vào cuối ngày làm việc cuối cùng của tháng","Mỗi quý 01 lần, vào ngày đầu quý","Mỗi tuần 01 lần, vào chiều thứ Sáu","Mỗi đợt tiêu hủy 01 lần"],c:"Điều 21 khoản 1",ex:"Tiền tiêu hủy bảo quản trong kho được kiểm kê định kỳ mỗi tháng 01 (một) lần vào thời điểm cuối ngày làm việc cuối cùng của tháng.",am:1},
+  {ch:"IV",q:"Khi Phó Chủ tịch phụ trách cụm vắng mặt, việc kiểm kê kho tiền tiêu hủy được ủy quyền cho ai?",o:["Một ủy viên Hội đồng tiêu hủy không phải là ủy viên quản lý kho tiền tiêu hủy","Ủy viên quản lý kho tiền tiêu hủy","Thủ kho tiền tiêu hủy","Trưởng phòng Tiêu hủy tiền"],c:"Điều 21 khoản 1",ex:"Trường hợp Phó Chủ tịch phụ trách cụm tiêu huỷ vắng mặt thì được uỷ quyền việc kiểm kê cho một uỷ viên Hội đồng tiêu huỷ (không phải là uỷ viên quản lý kho tiền tiêu huỷ).",am:1},
+  {ch:"IV",q:"Biên bản kiểm kê tiền tiêu hủy được lập thành mấy bản và phân phối thế nào?",o:["03 bản: Hội đồng tiêu hủy giữ 02 bản, 01 bản gửi Hội đồng giám sát","02 bản: mỗi Hội đồng giữ 01 bản","04 bản: thêm 01 bản gửi Vụ Tài chính - Kế toán và 01 bản gửi Cục PH&KQ","05 bản như biên bản kết quả cuối năm"],c:"Điều 21 khoản 3",ex:"Biên bản kiểm kê tiền tiêu huỷ được lập thành 03 (ba) bản: Hội đồng tiêu hủy giữ 02 (hai) bản, 01 (một) bản gửi Hội đồng giám sát.",am:1},
+  {ch:"IV",q:"Hằng năm, Cục Phát hành và Kho quỹ, Chi cục Phát hành và Kho quỹ gửi dự toán thu, chi phục vụ tiêu hủy tiền cho đơn vị nào?",o:["Vụ Tài chính - Kế toán","Thống đốc NHNN","Hội đồng giám sát","Vụ Tổ chức cán bộ"],c:"Điều 22 khoản 1",ex:"Hàng năm, Cục Phát hành và Kho quỹ, Chi cục Phát hành và Kho quỹ tổng hợp, lập dự toán thu, chi phục vụ tiêu hủy tiền gửi Vụ Tài chính - Kế toán theo quy định."},
+  {ch:"IV",q:"Tổ trưởng Tổ 2, Tổ 3 tổng hợp báo cáo kết quả kiểm đếm, cắt hủy theo những kỳ nào?",o:["Hằng tháng, 6 tháng, đợt tiêu hủy và hằng năm","Hằng ngày và hằng tuần","Hằng quý và hằng năm","Chỉ khi kết thúc đợt tiêu hủy"],c:"Điều 23 khoản 3",ex:"… tổng hợp báo cáo kết quả kiểm đếm, kết quả cắt huỷ hằng tháng, 6 tháng, đợt tiêu huỷ và hằng năm.",am:1},
+  {ch:"IV",q:"Hằng tháng, các cụm tiêu hủy tổng hợp số liệu, kết quả tiêu hủy tiền và báo cáo ai?",o:["Báo cáo Chủ tịch Hội đồng tiêu hủy và gửi Hội đồng giám sát","Báo cáo Thống đốc NHNN","Gửi Vụ Tài chính - Kế toán","Gửi Thanh tra NHNN"],c:"Điều 24 khoản 1",ex:"Hằng tháng, các cụm tiêu huỷ tổng hợp số liệu về tiêu huỷ tiền, kết quả tiêu huỷ tiền báo cáo Chủ tịch Hội đồng tiêu huỷ và gửi Hội đồng giám sát.",am:1},
+  {ch:"IV",q:"Biên bản kết quả tiêu hủy hoàn toàn khi kết thúc năm được lập thành mấy bản?",o:["05 bản","03 bản","04 bản","06 bản"],c:"Điều 24 khoản 2",ex:"Biên bản được lập thành 05 (năm) bản: 01 bản gửi Vụ Tài chính - Kế toán, 02 bản gửi Cục Phát hành và Kho quỹ, 01 bản gửi Hội đồng giám sát, 01 bản lưu tại cụm tiêu hủy."},
+  {ch:"IV",q:"Trong biên bản kết quả tiêu hủy hoàn toàn cuối năm, đơn vị nào nhận 02 bản?",o:["Cục Phát hành và Kho quỹ","Vụ Tài chính - Kế toán","Hội đồng giám sát","Cụm tiêu hủy lưu"],c:"Điều 24 khoản 2",ex:"… 02 (hai) bản gửi Cục Phát hành và Kho quỹ …"},
+  {ch:"IV",q:"Báo cáo sơ kết, tổng kết năm công tác tiêu hủy tiền trình Thống đốc do ai chủ trì?",o:["Hội đồng tiêu hủy chủ trì, phối hợp với Hội đồng giám sát","Hội đồng giám sát chủ trì","Vụ Tài chính - Kế toán chủ trì","Thanh tra NHNN chủ trì"],c:"Điều 24 khoản 3",ex:"Hội đồng tiêu huỷ chủ trì phối hợp với Hội đồng giám sát thực hiện báo cáo sơ kết, tổng kết năm công tác tiêu huỷ tiền và giám sát tiêu huỷ tiền trình Thống đốc …",am:1},
+
+  {ch:"V",q:"Cá nhân tham gia tiêu hủy tiền tham ô, lợi dụng lấy cắp tài sản phải chịu trách nhiệm gì?",o:["Bồi thường 100% giá trị tài sản thiếu và buộc thôi việc hoặc bị truy cứu trách nhiệm hình sự","Bồi thường 50% giá trị và bị khiển trách","Bồi thường 100% giá trị và bị hạ bậc lương","Chỉ bị truy cứu trách nhiệm hình sự"],c:"Điều 27 khoản 3",ex:"… nếu tham ô, lợi dụng lấy cắp tài sản thì phải bồi thường 100% giá trị tài sản thiếu và buộc thôi việc hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật."},
+  {ch:"V",q:"Ngoài tiền lương, phụ cấp, người tham gia tiêu hủy tiền được hưởng chế độ gì?",o:["Chế độ bồi dưỡng về tiêu hủy tiền và các chế độ khác theo hướng dẫn của NHNN","Phụ cấp độc hại 30% lương cơ bản","Thưởng theo tỷ lệ số tiền tiêu hủy","Không có chế độ riêng"],c:"Điều 26",ex:"… ngoài tiền lương, phụ cấp lương, tiền công được trả theo quy định, được hưởng chế độ bồi dưỡng về tiêu hủy tiền và các chế độ khác theo văn bản hướng dẫn hiện hành của Ngân hàng Nhà nước."},
+  {ch:"V",q:"Sau sửa đổi năm 2026, đơn vị nào chủ trì giám sát tiêu hủy tiền?",o:["Thanh tra Ngân hàng Nhà nước","Vụ Kiểm toán nội bộ","Cục Phát hành và Kho quỹ","Vụ Tài chính - Kế toán"],c:"Điều 29; khoản 3 Điều 13 TT 42/2026",ex:"Cụm từ “Vụ Kiểm toán nội bộ” được thay thế bởi cụm từ “Thanh tra Ngân hàng Nhà nước”. Thanh tra NHNN chủ trì, phối hợp với các đơn vị liên quan thực hiện giám sát tiêu hủy tiền.",am:1},
+  {ch:"V",q:"Đơn vị nào trình Thống đốc phương án bán phế liệu tiền tiêu hủy?",o:["Cục Phát hành và Kho quỹ","Vụ Tài chính - Kế toán","Hội đồng giám sát","Văn phòng NHNN"],c:"Điều 28 khoản 6",ex:"Trình Thống đốc Ngân hàng Nhà nước phương án bán phế liệu tiền tiêu hủy và phối hợp với các đơn vị liên quan tổ chức triển khai thực hiện."},
+  {ch:"V",q:"Đơn vị nào xây dựng, trình Thống đốc phê duyệt định mức giao nhận, kiểm đếm, cắt hủy và kế hoạch tiêu hủy tiền?",o:["Cục Phát hành và Kho quỹ","Vụ Tổ chức cán bộ","Thanh tra NHNN","Vụ Tài chính - Kế toán"],c:"Điều 28 khoản 1",ex:"Xây dựng, trình Thống đốc Ngân hàng Nhà nước phê duyệt định mức giao nhận, kiểm đếm, cắt huỷ và kế hoạch tiêu huỷ tiền.",am:1},
+  {ch:"V",q:"Trách nhiệm của Vụ Tài chính - Kế toán trong công tác tiêu hủy tiền là gì?",o:["Tổ chức thực hiện công tác kế toán và hướng dẫn nghiệp vụ hạch toán kế toán tiêu hủy tiền","Chủ trì giám sát tiêu hủy tiền","Tuyển dụng lao động hợp đồng","Trình phương án bán phế liệu"],c:"Điều 31",ex:"1. Tổ chức thực hiện công tác kế toán tiêu hủy tiền. 2. Hướng dẫn nghiệp vụ hạch toán kế toán trong công tác tiêu hủy tiền."},
+  {ch:"V",q:"Đơn vị nào là đầu mối tham mưu thủ tục tuyển dụng lao động hợp đồng tham gia tiêu hủy tiền?",o:["Vụ Tổ chức cán bộ","Cục Phát hành và Kho quỹ","Văn phòng NHNN","Vụ Tài chính - Kế toán"],c:"Điều 30",ex:"Đầu mối, phối hợp với Cục Phát hành và Kho quỹ tham mưu trình Thống đốc Ngân hàng Nhà nước thực hiện các thủ tục tuyển dụng lao động hợp đồng …"}
+  ]
+}];
+
+/* ---------- trạng thái ---------- */
+const $ = s => document.querySelector(s);
+const store = {
+  get(k,d){try{const v=localStorage.getItem("qnhnn:"+k);return v?JSON.parse(v):d}catch(e){return d}},
+  set(k,v){try{localStorage.setItem("qnhnn:"+k,JSON.stringify(v))}catch(e){}}
+};
+let doc = DOCS[0];
+let filter = "all";
+let S = null; // phiên làm bài
+let tick = null;
+
+function shuffle(a){a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
+function esc(s){return String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
+const L="ABCD";
+
+function renderStats(){
+  const h = store.get("hist_"+doc.id,[]);
+  const best = h.filter(x=>x.mode==="exam").reduce((m,x)=>Math.max(m,Math.round(x.ok/x.n*100)),0);
+  const wrong = store.get("wrong_"+doc.id,[]).length;
+  $("#stats").innerHTML = `<div><b>${doc.qs.length}</b>câu hỏi</div><div><b>${h.length}</b>lượt làm</div><div><b>${best?best+"%":"–"}</b>điểm thi cao nhất</div><div><b>${wrong}</b>câu cần ôn</div>`;
+}
+function renderDocs(){
+  $("#docs").innerHTML = DOCS.map(d=>`<button class="doc ${d.id===doc.id?"on":""}" type="button" data-id="${d.id}">
+    <div class="no">${d.no}</div><div class="tt">${esc(d.title)}</div>
+    <div class="meta"><span>Xác thực ngày ${d.date}</span><span>${esc(d.signer)}</span></div></button>
+    <div class="chain" style="margin-top:10px">${d.chain.map(c=>`<div><b>${c[0]}</b><br>${c[1]}</div>`).join("")}</div>`).join("");
+}
+
+/* ---------- màn hình chọn ---------- */
+function home(){
+  clearInterval(tick); S=null;
+  const counts = {}; doc.qs.forEach(q=>counts[q.ch]=(counts[q.ch]||0)+1);
+  const amCount = doc.qs.filter(q=>q.am).length;
+  const wrong = store.get("wrong_"+doc.id,[]);
+  const chips = [["all","Tất cả",doc.qs.length],["am","Điểm sửa đổi 2026",amCount],...Object.keys(doc.chapters).map(k=>[k,doc.chapters[k].split(" · ")[0],counts[k]||0])];
+  $("#desk").innerHTML = `
+    <h2>${esc(doc.title)}</h2>
+    <p class="lead">${doc.no} · ${doc.qs.length} câu hỏi trắc nghiệm, mỗi câu có trích dẫn điều, khoản. Câu có nhãn vàng là nội dung vừa được Thông tư 42/2026 sửa đổi.</p>
+    <label class="fl">Phạm vi câu hỏi</label>
+    <div class="chips" id="chips">${chips.map(c=>`<button type="button" class="chip ${filter===c[0]?"on":""}" data-f="${c[0]}">${c[1]}<i>${c[2]}</i></button>`).join("")}</div>
+    <label class="fl">Chế độ</label>
+    <div class="modes">
+      <button type="button" class="mode" data-m="practice"><span class="k">Luyện tập</span><b>Xem đáp án ngay</b><span>Làm lần lượt theo phạm vi đã chọn. Đọc căn cứ sau mỗi câu.</span></button>
+      <button type="button" class="mode" data-m="exam"><span class="k">Thi thử</span><b>20 câu · 15 phút</b><span>Chọn ngẫu nhiên, chấm điểm khi nộp bài. Đạt từ 80%.</span></button>
+      <button type="button" class="mode" data-m="wrong" ${wrong.length?"":"disabled"}><span class="k">Ôn câu sai</span><b>${wrong.length} câu</b><span>${wrong.length?"Những câu bạn trả lời sai gần đây.":"Chưa có câu sai nào được lưu."}</span></button>
+    </div>
+    <h3 class="sec">Cấu trúc văn bản</h3>
+    <div class="toc">${Object.keys(doc.chapters).map(k=>{const [a,b]=doc.chapters[k].split(" · ");return `<div><span class="c">${a}</span><span>${b}</span><span class="n">${counts[k]||0} câu</span></div>`}).join("")}</div>
+    <p class="note">Nguồn: Văn bản hợp nhất ${doc.no}, đăng trên Cổng Thông tin điện tử Chính phủ. Văn bản hợp nhất dùng để tra cứu; khi áp dụng, đối chiếu với Thông tư 03/2020/TT-NHNN và Thông tư 42/2026/TT-NHNN.</p>`;
+  $("#chips").onclick = e=>{const b=e.target.closest(".chip");if(!b)return;filter=b.dataset.f;home()};
+  $("#desk").querySelectorAll(".mode").forEach(b=>b.onclick=()=>start(b.dataset.m));
+}
+
+function pool(){
+  if(filter==="all") return doc.qs.map((q,i)=>i);
+  if(filter==="am") return doc.qs.map((q,i)=>q.am?i:-1).filter(i=>i>=0);
+  return doc.qs.map((q,i)=>q.ch===filter?i:-1).filter(i=>i>=0);
+}
+function start(mode){
+  let ids;
+  if(mode==="wrong") ids = shuffle(store.get("wrong_"+doc.id,[]).filter(i=>doc.qs[i]));
+  else if(mode==="exam") ids = shuffle(doc.qs.map((q,i)=>i)).slice(0,20);
+  else ids = pool();
+  if(!ids.length) return;
+  S = {mode, ids, i:0, ans:{}, order:{}, t0:Date.now(), limit: mode==="exam"?15*60:0, done:false};
+  ids.forEach(id=>S.order[id]=shuffle([0,1,2,3]));
+  clearInterval(tick);
+  if(S.limit){tick=setInterval(()=>{const el=$("#timer");if(!el||!S)return;const left=S.limit-Math.floor((Date.now()-S.t0)/1000);if(left<=0){finish();return}el.textContent=fmt(left);el.classList.toggle("low",left<120)},1000)}
+  question();
+}
+const fmt = s=>String(Math.floor(s/60)).padStart(2,"0")+":"+String(s%60).padStart(2,"0");
+
+function question(){
+  const id=S.ids[S.i], q=doc.qs[id], picked=S.ans[id], ord=S.order[id];
+  const reveal = S.mode!=="exam" && picked!==undefined;
+  const label = {practice:"Luyện tập",exam:"Thi thử",wrong:"Ôn câu sai"}[S.mode];
+  const answered = Object.keys(S.ans).length;
+  $("#desk").innerHTML = `
+    <div class="bar"><span>${label} · Câu ${S.i+1}/${S.ids.length}</span>
+      <span>${S.limit?`Còn lại <span class="timer" id="timer">${fmt(Math.max(0,S.limit-Math.floor((Date.now()-S.t0)/1000)))}</span> · `:""}Đã trả lời ${answered}</span></div>
+    <div class="prog"><i style="width:${(S.i+1)/S.ids.length*100}%"></i></div>
+    <div class="qtag"><span class="tag">${doc.chapters[q.ch].split(" · ")[0]}</span>${q.am?`<span class="tag am">Sửa đổi bởi TT 42/2026</span>`:""}</div>
+    <p class="q">${esc(q.q)}</p>
+    <div class="opts">${ord.map((oi,k)=>{
+      let cls=""; if(reveal){ if(oi===0) cls="ok"; else if(oi===picked) cls="bad"; } else if(picked===oi) cls="pick";
+      return `<button type="button" class="opt ${cls}" data-o="${oi}" ${reveal?"disabled":""}><span class="l">${L[k]}</span><span>${esc(q.o[oi])}</span></button>`}).join("")}</div>
+    ${reveal?`<div class="basis"><div class="hd ${picked===0?"ok":"bad"}">${picked===0?"Chính xác":"Chưa đúng · Đáp án "+L[ord.indexOf(0)]}<span>${esc(q.c)}</span></div><blockquote>${esc(q.ex)}</blockquote></div>`:""}
+    <div class="nav">
+      <button type="button" class="btn quiet" id="quit">Thoát</button>
+      <div style="display:flex;gap:10px;flex-wrap:wrap">
+        <button type="button" class="btn ghost" id="prev" ${S.i===0?"disabled":""}>Câu trước</button>
+        ${S.i<S.ids.length-1?`<button type="button" class="btn" id="next">Câu tiếp</button>`:`<button type="button" class="btn" id="end">${S.mode==="exam"?"Nộp bài":"Xem kết quả"}</button>`}
+      </div>
+    </div>`;
+  $("#desk").querySelectorAll(".opt").forEach(b=>b.onclick=()=>{
+    if(S.mode!=="exam" && S.ans[id]!==undefined) return;
+    S.ans[id]=+b.dataset.o; question();
+  });
+  $("#quit").onclick=home;
+  $("#prev").onclick=()=>{S.i--;question()};
+  if($("#next")) $("#next").onclick=()=>{S.i++;question()};
+  if($("#end")) $("#end").onclick=finish;
+}
+
+function finish(){
+  if(!S||S.done) return; S.done=true; clearInterval(tick);
+  const n=S.ids.length, okIds=S.ids.filter(id=>S.ans[id]===0), ok=okIds.length;
+  const pct=Math.round(ok/n*100), secs=Math.floor((Date.now()-S.t0)/1000);
+  // cập nhật danh sách câu sai
+  let wrong=new Set(store.get("wrong_"+doc.id,[]));
+  S.ids.forEach(id=>{ if(S.ans[id]===0) wrong.delete(id); else if(S.ans[id]!==undefined) wrong.add(id); });
+  store.set("wrong_"+doc.id,[...wrong]);
+  const h=store.get("hist_"+doc.id,[]); h.push({mode:S.mode,n,ok,at:Date.now()}); store.set("hist_"+doc.id,h.slice(-50));
+  renderStats();
+  const by={}; S.ids.forEach(id=>{const c=doc.qs[id].ch;by[c]=by[c]||{n:0,ok:0};by[c].n++;if(S.ans[id]===0)by[c].ok++});
+  const miss=S.ids.filter(id=>S.ans[id]!==0);
+  const pass=pct>=80;
+  const d=new Date();
+  $("#desk").innerHTML = `
+    <div class="seal">
+      <div class="sh"><span>Giấy niêm phong · Kết quả kiểm đếm</span><span>${doc.no}</span></div>
+      <span class="stamp">${pass?"ĐẠT":"CHƯA ĐẠT"}</span>
+      <dl>
+        <div><dt>Ngày kiểm đếm</dt><dd>${String(d.getDate()).padStart(2,"0")}/${String(d.getMonth()+1).padStart(2,"0")}/${d.getFullYear()}</dd></div>
+        <div><dt>Số câu (tờ)</dt><dd>${n}</dd></div>
+        <div><dt>Đúng</dt><dd>${ok}</dd></div>
+        <div><dt>Tỷ lệ</dt><dd>${pct}%</dd></div>
+        <div><dt>Thời gian</dt><dd>${fmt(secs)}</dd></div>
+      </dl>
+      <div class="verdict">${pass?"Bạn nắm vững nội dung trong phạm vi này.":"Ngưỡng đạt là 80%. Xem lại các câu sai bên dưới, chúng đã được lưu vào mục Ôn câu sai."}</div>
+    </div>
+    <h3 class="sec">Theo chương</h3>
+    <div class="brk">${Object.keys(by).map(c=>`<div><span>${doc.chapters[c]}</span><span class="m"><i style="width:${by[c].ok/by[c].n*100}%"></i></span><span class="v">${by[c].ok}/${by[c].n}</span></div>`).join("")}</div>
+    ${miss.length?`<h3 class="sec">Câu cần xem lại (${miss.length})</h3><div class="rev">${miss.map(id=>{const q=doc.qs[id],p=S.ans[id];return `<article><div class="rq">${esc(q.q)}</div><div class="ra">${p===undefined?`<span class="y">Bỏ trống</span>`:`<span class="y">Bạn chọn: ${esc(q.o[p])}</span>`}<span class="r">Đáp án: ${esc(q.o[0])}</span></div><div class="rc">${esc(q.c)} · “${esc(q.ex)}”</div></article>`}).join("")}</div>`:""}
+    <div class="nav"><button type="button" class="btn quiet" id="back">Về trang văn bản</button><button type="button" class="btn" id="again">Làm lại</button></div>`;
+  const m=S.mode;
+  $("#back").onclick=home; $("#again").onclick=()=>start(m==="wrong"&&!store.get("wrong_"+doc.id,[]).length?"practice":m);
+}
+
+$("#docs").addEventListener("click",e=>{const b=e.target.closest(".doc[data-id]");if(!b)return;doc=DOCS.find(d=>d.id===b.dataset.id);filter="all";renderDocs();renderStats();home()});
+renderDocs(); renderStats(); home();
+</script>
+</body>
+</html>
