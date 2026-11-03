@@ -12,7 +12,7 @@ Website trắc nghiệm và phản biện, ôn tập văn bản quy phạm pháp
 ## Tính năng
 
 - Lọc câu hỏi theo chương hoặc theo các điểm mới được sửa đổi, bổ sung.
-- Thẻ **Phản biện** cho từng văn bản: điểm hợp lý, điểm cần làm rõ, bất cập, kèm căn cứ điều khoản, hướng hoàn thiện và câu hỏi thảo luận (dữ liệu trong `CRIT`).
+- Thẻ **Phản biện** cho từng văn bản: điểm hợp lý, điểm cần làm rõ, bất cập, kèm căn cứ điều khoản, hướng hoàn thiện và câu hỏi thảo luận (dữ liệu trong `CRIT`). Phần phản biện cũng có quiz riêng (dữ liệu trong `CRITQ`), không tính vào chế độ Thi thử.
 - Ba chế độ: Luyện tập (xem đáp án ngay), Thi thử (20 câu, 15 phút, đạt từ 80%), Ôn câu sai.
 - Lưu điểm và câu sai trong trình duyệt (localStorage).
 
