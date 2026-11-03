@@ -1,0 +1,2273 @@
+{
+ "id": "vbhn118",
+ "no": "118/2026/VBHN-TT-NHNN",
+ "title": "Thông tư quy định về tiêu hủy tiền của Ngân hàng Nhà nước Việt Nam",
+ "date": "30/10/2026",
+ "signer": "Phó Thống đốc Đoàn Thái Sơn",
+ "amTag": "Sửa đổi bởi TT 42/2026",
+ "amChip": "Điểm sửa đổi 2026",
+ "amLead": "nội dung vừa được Thông tư 42/2026 sửa đổi",
+ "src": "đối chiếu với Thông tư 03/2020/TT-NHNN và Thông tư 42/2026/TT-NHNN",
+ "chain": [
+  [
+   "Thông tư 03/2020/TT-NHNN",
+   "ngày 31/3/2020, hiệu lực từ 15/5/2020"
+  ],
+  [
+   "Thông tư 42/2026/TT-NHNN",
+   "ngày 26/8/2026, sửa đổi, bổ sung, hiệu lực từ 10/10/2026"
+  ]
+ ],
+ "chapters": {
+  "I": "Chương I · Quy định chung",
+  "II": "Chương II · Hội đồng tiêu hủy",
+  "III": "Chương III · Quy định cụ thể về tiêu hủy",
+  "IV": "Chương IV · Thừa, thiếu, kiểm kê, báo cáo",
+  "V": "Chương V–VII · Trách nhiệm, quyền lợi, thi hành",
+  "X": "Thông tin văn bản hợp nhất",
+  "PB": "Phản biện · Câu hỏi phân tích"
+ },
+ "qs": [
+  {
+   "ty": "nho",
+   "ch": "X",
+   "q": "Văn bản hợp nhất 118/2026/VBHN-TT-NHNN hợp nhất những thông tư nào?",
+   "o": [
+    "Thông tư 03/2020/TT-NHNN và Thông tư 42/2026/TT-NHNN",
+    "Thông tư 27/2012/TT-NHNN và Thông tư 03/2020/TT-NHNN",
+    "Thông tư 27/2012/TT-NHNN và Thông tư 42/2026/TT-NHNN",
+    "Thông tư 03/2020/TT-NHNN và Nghị định 40/2012/NĐ-CP"
+   ],
+   "c": "Phần mở đầu VBHN",
+   "ex": "Thông tư số 03/2020/TT-NHNN ngày 31 tháng 3 năm 2020 … được sửa đổi, bổ sung bởi: Thông tư số 42/2026/TT-NHNN ngày 26 tháng 8 năm 2026."
+  },
+  {
+   "ty": "nho",
+   "ch": "X",
+   "q": "Thông tư 42/2026/TT-NHNN sửa đổi, bổ sung Thông tư 03/2020/TT-NHNN có hiệu lực từ ngày nào?",
+   "o": [
+    "10/10/2026",
+    "26/8/2026",
+    "30/10/2026",
+    "01/01/2027"
+   ],
+   "c": "Phần mở đầu VBHN; Điều 14 TT 42/2026",
+   "ex": "Thông tư này có hiệu lực thi hành kể từ ngày 10 tháng 10 năm 2026."
+  },
+  {
+   "ty": "nho",
+   "ch": "X",
+   "q": "Thông tư 03/2020/TT-NHNN về tiêu hủy tiền có hiệu lực thi hành từ ngày nào?",
+   "o": [
+    "15/5/2020",
+    "31/3/2020",
+    "01/7/2020",
+    "25/9/2020"
+   ],
+   "c": "Điều 32 khoản 1",
+   "ex": "Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 5 năm 2020."
+  },
+  {
+   "ty": "nho",
+   "ch": "X",
+   "q": "Thông tư 03/2020/TT-NHNN thay thế văn bản nào?",
+   "o": [
+    "Thông tư 27/2012/TT-NHNN ngày 25/9/2012",
+    "Nghị định 40/2012/NĐ-CP ngày 02/5/2012",
+    "Thông tư 42/2026/TT-NHNN ngày 26/8/2026",
+    "Nghị định 16/2017/NĐ-CP ngày 17/02/2017"
+   ],
+   "c": "Điều 32 khoản 2",
+   "ex": "Thông tư này thay thế Thông tư số 27/2012/TT-NHNN ngày 25/9/2012 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về tiêu hủy tiền."
+  },
+  {
+   "ty": "nho",
+   "ch": "X",
+   "q": "Ai ký xác thực Văn bản hợp nhất 118/2026/VBHN-TT-NHNN?",
+   "o": [
+    "Phó Thống đốc Đoàn Thái Sơn (KT. Thống đốc)",
+    "Cục trưởng Cục Phát hành và Kho quỹ",
+    "Vụ trưởng Vụ Pháp chế (TL. Thống đốc), theo ủy quyền",
+    "Chánh Văn phòng NHNN (TL. Thống đốc)"
+   ],
+   "c": "Phần xác thực VBHN",
+   "ex": "XÁC THỰC VĂN BẢN HỢP NHẤT · Hà Nội, ngày 30 tháng 10 năm 2026 · KT. THỐNG ĐỐC · PHÓ THỐNG ĐỐC · Đoàn Thái Sơn."
+  },
+  {
+   "ty": "nho",
+   "ch": "X",
+   "q": "Theo Thông tư 42/2026, cụm từ “Ngân hàng Nhà nước chi nhánh tỉnh, thành phố” được thay bằng cụm từ nào?",
+   "o": [
+    "Ngân hàng Nhà nước chi nhánh Khu vực",
+    "Sở Giao dịch Ngân hàng Nhà nước",
+    "Chi cục Phát hành và Kho quỹ",
+    "Ngân hàng Nhà nước chi nhánh vùng kinh tế trọng điểm"
+   ],
+   "c": "Khoản 1 Điều 13 TT 42/2026 (chú thích 11)",
+   "ex": "Cụm từ “Ngân hàng Nhà nước chi nhánh tỉnh, thành phố” được thay thế bởi cụm từ “Ngân hàng Nhà nước chi nhánh Khu vực”.",
+   "am": 1
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Thông tư quy định về tiêu hủy những loại tiền nào?",
+   "o": [
+    "Tiền giấy (cotton, polymer), tiền kim loại không đủ tiêu chuẩn lưu thông, tiền đình chỉ lưu hành",
+    "Chỉ tiền giấy polymer không đủ tiêu chuẩn lưu thông và tiền kim loại đã đình chỉ lưu hành",
+    "Tiền giả, tiền nghi giả bị thu giữ và tiền không đủ tiêu chuẩn lưu thông do dân nộp",
+    "Tiền mẫu, tiền lưu niệm, tiền in hỏng trong quá trình in đúc và tiền đình chỉ lưu hành"
+   ],
+   "c": "Điều 1",
+   "ex": "Thông tư này quy định về tiêu huỷ tiền giấy (cotton, polymer) và tiền kim loại không đủ tiêu chuẩn lưu thông, tiền đình chỉ lưu hành (sau đây gọi là tiền tiêu hủy)."
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Đối tượng nào KHÔNG được liệt kê là đối tượng áp dụng của Thông tư?",
+   "o": [
+    "Các tổ chức tín dụng nước ngoài không có hiện diện tại Việt Nam",
+    "Hội đồng tiêu hủy tiền của NHNN",
+    "Hội đồng giám sát tiêu hủy tiền của NHNN",
+    "Các đơn vị trực thuộc NHNN liên quan đến tiêu hủy, giám sát tiêu hủy tiền"
+   ],
+   "c": "Điều 2",
+   "ex": "1. Hội đồng tiêu hủy … 2. Hội đồng giám sát … 3. Các đơn vị trực thuộc NHNN và các tổ chức, cá nhân có liên quan đến công tác tiêu hủy tiền, giám sát tiêu hủy tiền."
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Ai trình Thống đốc phê duyệt kế hoạch tiêu hủy tiền?",
+   "o": [
+    "Cục trưởng Cục Phát hành và Kho quỹ",
+    "Chủ tịch Hội đồng giám sát",
+    "Vụ trưởng Vụ Tài chính - Kế toán, sau khi thống nhất với Cục",
+    "Chánh Thanh tra NHNN"
+   ],
+   "c": "Điều 3 khoản 1",
+   "ex": "… Cục trưởng Cục Phát hành và Kho quỹ trình Thống đốc Ngân hàng Nhà nước phê duyệt kế hoạch tiêu huỷ tiền, bao gồm thời gian tiêu huỷ tiền, số lượng, giá trị từng loại tiền tiêu huỷ.",
+   "am": 1
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Yếu tố nào KHÔNG thuộc căn cứ để lập kế hoạch tiêu hủy tiền theo Điều 3?",
+   "o": [
+    "Dự báo tốc độ tăng trưởng tín dụng",
+    "Số liệu tồn kho tiền không đủ tiêu chuẩn lưu thông, tiền đình chỉ lưu hành tại Quỹ Dự trữ phát hành",
+    "Số lượng lao động và công suất máy móc thiết bị",
+    "Định mức giao nhận, kiểm đếm, cắt hủy"
+   ],
+   "c": "Điều 3 khoản 1",
+   "ex": "Căn cứ số liệu tồn kho … tại Quỹ Dự trữ phát hành …; số lượng lao động; công suất máy móc thiết bị; định mức giao nhận, kiểm đếm, cắt huỷ …",
+   "am": 1
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Kế hoạch tiêu hủy tiền trình Thống đốc phê duyệt bao gồm những nội dung nào?",
+   "o": [
+    "Thời gian tiêu hủy, số lượng, giá trị từng loại tiền tiêu hủy",
+    "Danh sách nhân sự, mức bồi dưỡng và trang phục cho người tham gia",
+    "Phương án bán phế liệu và dự toán thu, chi phục vụ tiêu hủy tiền",
+    "Địa điểm tiêu hủy và thành phần Hội đồng giám sát tiêu hủy tiền"
+   ],
+   "c": "Điều 3 khoản 1",
+   "ex": "… kế hoạch tiêu huỷ tiền, bao gồm thời gian tiêu huỷ tiền, số lượng, giá trị từng loại tiền tiêu huỷ.",
+   "am": 1
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Cụm tiêu hủy phía Nam được tổ chức tại đâu?",
+   "o": [
+    "Chi cục Phát hành và Kho quỹ ở TP. Hồ Chí Minh",
+    "NHNN chi nhánh Khu vực tại TP. Hồ Chí Minh, cạnh Kho tiền Trung ương",
+    "Sở Giao dịch NHNN",
+    "Kho tiền Trung ương tại Đà Nẵng"
+   ],
+   "c": "Điều 3 khoản 2",
+   "ex": "Hội đồng tiêu huỷ tổ chức tiêu hủy tiền tại Cục Phát hành và Kho quỹ ở Hà Nội (Cụm tiêu hủy phía Bắc) và tại Chi cục Phát hành và Kho quỹ ở thành phố Hồ Chí Minh (Cụm tiêu hủy phía Nam)."
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Trường hợp cần tổ chức tiêu hủy tiền tại cơ sở khác ngoài hai cụm tiêu hủy, ai quyết định?",
+   "o": [
+    "Thống đốc NHNN",
+    "Chủ tịch Hội đồng tiêu hủy",
+    "Cục trưởng Cục Phát hành và Kho quỹ",
+    "Chủ tịch Hội đồng giám sát"
+   ],
+   "c": "Điều 3 khoản 2",
+   "ex": "Trường hợp cần thiết phải tổ chức tiêu hủy tiền tại cơ sở khác do Thống đốc Ngân hàng Nhà nước quyết định."
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Ai quyết định tỷ lệ kiểm đếm từng loại tiền trước khi tiêu hủy, và căn cứ vào đâu?",
+   "o": [
+    "Chủ tịch Hội đồng tiêu hủy, căn cứ kết quả thừa, thiếu qua kiểm đếm tiền tiêu hủy hằng năm",
+    "Thống đốc NHNN, căn cứ kế hoạch tiêu hủy tiền và đề nghị của Cục Phát hành và Kho quỹ",
+    "Chủ tịch Hội đồng giám sát, căn cứ kết quả kiểm kê kho tiền tiêu hủy hằng tháng",
+    "Phó Chủ tịch phụ trách cụm, căn cứ công suất máy móc và số lượng kiểm ngân hiện có"
+   ],
+   "c": "Điều 4 khoản 2",
+   "ex": "Căn cứ kết quả thừa, thiếu qua kiểm đếm tiền tiêu huỷ hằng năm, Chủ tịch Hội đồng tiêu huỷ quyết định tỷ lệ kiểm đếm từng loại tiền trước khi tiêu huỷ.",
+   "am": 1
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Theo nguyên tắc tiêu hủy, tiêu hủy theo số tiền nào?",
+   "o": [
+    "Số tiền thực tế nhận từ Kho tiền Trung ương, sau khi có kết quả kiểm đếm, phân loại",
+    "Số tiền ghi trên lệnh điều chuyển của Cục Phát hành và Kho quỹ gửi Kho tiền Trung ương",
+    "Số tiền ghi trong kế hoạch tiêu hủy đã được Thống đốc NHNN phê duyệt cho năm đó",
+    "Số tiền ghi trên niêm phong bó (túi) của tổ chức tín dụng, Kho bạc Nhà nước nộp về"
+   ],
+   "c": "Điều 4 khoản 3",
+   "ex": "Tiêu huỷ theo số tiền thực tế đã nhận từ Kho tiền Trung ương sau khi có kết quả kiểm đếm, phân loại của Hội đồng tiêu hủy."
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Yêu cầu đối với tiền sau khi đã tiêu hủy thành phế liệu là gì?",
+   "o": [
+    "Phải bảo đảm không thể khôi phục để sử dụng lại như tiền",
+    "Phải được nhập lại Quỹ Dự trữ phát hành dưới dạng phế liệu",
+    "Phải được lưu giữ tối thiểu 05 năm trước khi được bán ra",
+    "Phải được chuyển giao cho Thanh tra NHNN kiểm tra lại"
+   ],
+   "c": "Điều 4 khoản 4",
+   "ex": "Tiền sau khi đã tiêu hủy thành phế liệu phải bảo đảm không thể khôi phục để sử dụng lại như tiền."
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Tiền giấy được tiêu hủy bằng phương pháp nào?",
+   "o": [
+    "Hệ thống máy cắt hủy chuyên dùng",
+    "Đốt trong lò đốt chuyên dụng",
+    "Nghiền ướt rồi ép thành kiện",
+    "Nấu chảy hoặc máy hủy chuyên dùng"
+   ],
+   "c": "Điều 5 khoản 1",
+   "ex": "Tiền tiêu hủy là tiền giấy được tiêu hủy bằng hệ thống máy cắt hủy chuyên dùng."
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Tiền kim loại được tiêu hủy bằng phương pháp nào?",
+   "o": [
+    "Nấu chảy hoặc máy hủy tiền kim loại chuyên dùng",
+    "Chỉ bằng phương pháp nấu chảy",
+    "Hệ thống máy cắt hủy tiền giấy chuyên dùng, có bộ phận nghiền riêng",
+    "Dập biến dạng thủ công"
+   ],
+   "c": "Điều 5 khoản 2",
+   "ex": "Tiền tiêu hủy là tiền kim loại được tiêu hủy bằng phương pháp nấu chảy hoặc máy hủy tiền kim loại chuyên dùng."
+  },
+  {
+   "ty": "nho",
+   "ch": "II",
+   "q": "Hội đồng tiêu hủy được thành lập như thế nào?",
+   "o": [
+    "Hàng năm, do Thống đốc NHNN quyết định thành lập",
+    "Mỗi đợt tiêu hủy, do Cục trưởng Cục Phát hành và Kho quỹ quyết định",
+    "5 năm một lần, do Thống đốc quyết định",
+    "Hàng năm, do Chủ tịch Hội đồng giám sát quyết định"
+   ],
+   "c": "Điều 6 khoản 1",
+   "ex": "Hàng năm, Thống đốc Ngân hàng Nhà nước quyết định thành lập Hội đồng tiêu hủy …"
+  },
+  {
+   "ty": "nho",
+   "ch": "II",
+   "q": "Chủ tịch Hội đồng tiêu hủy là ai?",
+   "o": [
+    "Cục trưởng Cục Phát hành và Kho quỹ",
+    "Một Phó Thống đốc NHNN phụ trách công tác phát hành và kho quỹ",
+    "Vụ trưởng Vụ Tài chính - Kế toán",
+    "Chánh Thanh tra NHNN"
+   ],
+   "c": "Điều 6 khoản 1 điểm a",
+   "ex": "a) Chủ tịch: Cục trưởng Cục Phát hành và Kho quỹ."
+  },
+  {
+   "ty": "nho",
+   "ch": "II",
+   "q": "Phó Chủ tịch thường trực Hội đồng tiêu hủy là ai?",
+   "o": [
+    "Phó Cục trưởng Cục Phát hành và Kho quỹ trực tiếp phụ trách Cụm phía Bắc",
+    "Chi cục trưởng Chi cục Phát hành và Kho quỹ tại TP. Hồ Chí Minh",
+    "Phó Vụ trưởng Vụ Tài chính - Kế toán phụ trách công tác kế toán tiêu hủy",
+    "Phó Chánh Thanh tra NHNN phụ trách giám sát tiêu hủy tiền"
+   ],
+   "c": "Điều 6 khoản 1 điểm b",
+   "ex": "b) 01 (một) Phó Chủ tịch thường trực: Phó Cục trưởng Cục Phát hành và Kho quỹ trực tiếp phụ trách Cụm tiêu hủy phía Bắc."
+  },
+  {
+   "ty": "nho",
+   "ch": "II",
+   "q": "Hội đồng tiêu hủy có tổng cộng bao nhiêu Phó Chủ tịch?",
+   "o": [
+    "3",
+    "2",
+    "4",
+    "1"
+   ],
+   "c": "Điều 6 khoản 1 điểm b, c, d",
+   "ex": "01 Phó Chủ tịch thường trực (Phó Cục trưởng Cục PH&KQ); 01 Phó Chủ tịch là Phó Vụ trưởng Vụ Tài chính - Kế toán; 01 Phó Chủ tịch là Chi cục trưởng Chi cục PH&KQ tại TP. Hồ Chí Minh."
+  },
+  {
+   "ty": "nho",
+   "ch": "II",
+   "q": "Phó Chủ tịch Hội đồng tiêu hủy đến từ Vụ Tài chính - Kế toán giữ chức vụ gì?",
+   "o": [
+    "Phó Vụ trưởng",
+    "Vụ trưởng",
+    "Trưởng phòng",
+    "Kế toán trưởng"
+   ],
+   "c": "Điều 6 khoản 1 điểm c",
+   "ex": "c) 01 (một) Phó Chủ tịch là Phó Vụ trưởng Vụ Tài chính - Kế toán."
+  },
+  {
+   "ty": "nho",
+   "ch": "II",
+   "q": "Trong số ủy viên Hội đồng tiêu hủy, có bao nhiêu người kiêm nhiệm vụ thư ký?",
+   "o": [
+    "3 (một thư ký Hội đồng, hai thư ký tại hai cụm)",
+    "1 (thư ký chung của Hội đồng tiêu hủy)",
+    "2 (một thư ký tại mỗi cụm tiêu hủy)",
+    "4 (một thư ký tại mỗi tổ chuyên trách của Cụm phía Bắc)"
+   ],
+   "c": "Điều 6 khoản 1 điểm e",
+   "ex": "Trong đó có một ủy viên kiêm thư ký Hội đồng tiêu hủy và hai ủy viên kiêm thư ký tại Cụm tiêu hủy phía Bắc và Cụm tiêu hủy phía Nam."
+  },
+  {
+   "ty": "nho",
+   "ch": "II",
+   "q": "Tại mỗi cụm tiêu hủy, bộ phận giúp việc Hội đồng tiêu hủy được tổ chức thành bao nhiêu tổ chuyên trách?",
+   "o": [
+    "4",
+    "3",
+    "5",
+    "6"
+   ],
+   "c": "Điều 6 khoản 2",
+   "ex": "Giúp việc Hội đồng tiêu hủy gồm có các tổ chuyên trách; tại từng cụm tiêu hủy được tổ chức thành 04 (bốn) tổ."
+  },
+  {
+   "ty": "nho",
+   "ch": "II",
+   "q": "Ai ban hành nội quy, quy chế làm việc của Hội đồng tiêu hủy?",
+   "o": [
+    "Chủ tịch Hội đồng tiêu hủy",
+    "Thống đốc NHNN",
+    "Chủ tịch Hội đồng giám sát",
+    "Phó Chủ tịch thường trực"
+   ],
+   "c": "Điều 8 khoản 2",
+   "ex": "Ban hành nội quy, quy chế làm việc của Hội đồng tiêu hủy."
+  },
+  {
+   "ty": "nho",
+   "ch": "II",
+   "q": "Ai phê duyệt kế hoạch nhận tiền tiêu hủy từ Kho tiền Trung ương của một cụm tiêu hủy?",
+   "o": [
+    "Phó Chủ tịch phụ trách cụm tiêu hủy đó",
+    "Chủ tịch Hội đồng tiêu hủy tiền",
+    "Thống đốc NHNN, theo đề nghị của Cục Phát hành và Kho quỹ",
+    "Thủ kho tiền tiêu hủy của cụm đó"
+   ],
+   "c": "Điều 9 khoản 1 điểm d",
+   "ex": "Phó Chủ tịch phụ trách cụm tiêu hủy … phê duyệt kế hoạch nhận tiền tiêu hủy từ Kho tiền Trung ương của cụm tiêu hủy."
+  },
+  {
+   "ty": "nho",
+   "ch": "II",
+   "q": "Phó Chủ tịch thường trực thay mặt Chủ tịch chỉ đạo, điều hành công việc của Hội đồng tiêu hủy khi nào?",
+   "o": [
+    "Khi được ủy quyền",
+    "Khi Chủ tịch đi công tác trên 15 ngày",
+    "Bất cứ khi nào Chủ tịch vắng mặt",
+    "Khi được Hội đồng giám sát chấp thuận"
+   ],
+   "c": "Điều 9 khoản 1 điểm c",
+   "ex": "Phó Chủ tịch thường trực thay mặt Chủ tịch Hội đồng tiêu hủy chịu trách nhiệm chỉ đạo, điều hành công việc của Hội đồng tiêu hủy khi được ủy quyền."
+  },
+  {
+   "ty": "nho",
+   "ch": "II",
+   "q": "“Tổ 1” trong các tổ chuyên trách là tổ nào?",
+   "o": [
+    "Tổ giao nhận và bảo quản tiền tiêu hủy",
+    "Tổ kiểm đếm và phân loại tiền tiêu hủy",
+    "Tổ cắt hủy tiền và thu hồi phế liệu",
+    "Tổ tổng hợp, hành chính và kế toán"
+   ],
+   "c": "Điều 10 khoản 1",
+   "ex": "Tổ giao nhận và bảo quản tiền tiêu huỷ (sau đây gọi là Tổ 1) …"
+  },
+  {
+   "ty": "nho",
+   "ch": "II",
+   "q": "Tổ nào có nhiệm vụ nhập kho tiền đủ tiêu chuẩn lưu thông được chọn ra từ kiểm đếm tiền tiêu hủy?",
+   "o": [
+    "Tổ 1 – Tổ giao nhận và bảo quản",
+    "Tổ 2 – Tổ kiểm đếm tiền tiêu hủy",
+    "Tổ 3 – Tổ cắt hủy tiền",
+    "Tổ 4 – Tổ tổng hợp, kế toán"
+   ],
+   "c": "Điều 10 khoản 1",
+   "ex": "Tổ 1: … bảo quản tiền do các tổ chuyên trách gửi lại; nhập kho tiền đủ tiêu chuẩn lưu thông chọn ra từ kiểm đếm tiền tiêu hủy."
+  },
+  {
+   "ty": "nho",
+   "ch": "II",
+   "q": "Tổ 2 kiểm đếm tờ (miếng) đối với những bó (túi) nào phát hiện trong quá trình giao nhận?",
+   "o": [
+    "Bó (túi) thừa, thiếu thếp, niêm phong hoặc đóng gói không đúng quy cách",
+    "Mọi bó (túi) nhận từ Kho tiền Trung ương trong ngày làm việc đó",
+    "Chỉ bó (túi) có mệnh giá từ 100.000 đồng trở lên và tiền polymer",
+    "Bó (túi) do Hội đồng giám sát chỉ định ngẫu nhiên khi giao nhận, theo tỷ lệ cố định 10%"
+   ],
+   "c": "Điều 10 khoản 2",
+   "ex": "… kiểm đếm tờ (miếng) trong trường hợp bó (túi) tiền thừa hoặc thiếu thếp, các bó (túi) tiền niêm phong, đóng gói không đúng quy cách phát hiện trong quá trình giao nhận."
+  },
+  {
+   "ty": "nho",
+   "ch": "II",
+   "q": "Tổ 4 (Tổ tổng hợp) KHÔNG có nhiệm vụ nào sau đây?",
+   "o": [
+    "Cắt hủy tiền và thu hồi phế liệu",
+    "Thực hiện công việc hành chính, kế toán, thống kê",
+    "Theo dõi việc nhập, xuất phế liệu tiền tiêu hủy",
+    "Đề xuất nhu cầu mua sắm vật tư, vật liệu phục vụ tiêu hủy"
+   ],
+   "c": "Điều 10 khoản 3, 4",
+   "ex": "Tổ 3 thực hiện cắt huỷ … và thu hồi phế liệu. Tổ 4: Thực hiện các công việc hành chính, kế toán, thống kê; theo dõi việc nhập, xuất phế liệu tiền tiêu hủy; đề xuất nhu cầu mua sắm vật tư, vật liệu."
+  },
+  {
+   "ty": "nho",
+   "ch": "II",
+   "q": "Tổ trưởng và Tổ phó của mỗi tổ chuyên trách do ai xem xét, quyết định?",
+   "o": [
+    "Phó Chủ tịch phụ trách cụm tiêu hủy",
+    "Chủ tịch Hội đồng tiêu hủy tiền",
+    "Vụ trưởng Vụ Tổ chức cán bộ",
+    "Thống đốc NHNN theo đề nghị của Cục"
+   ],
+   "c": "Điều 10 khoản 5",
+   "ex": "Mỗi tổ chuyên trách có Tổ trưởng và Tổ phó giúp việc do Phó Chủ tịch phụ trách cụm tiêu hủy xem xét, quyết định."
+  },
+  {
+   "ty": "nho",
+   "ch": "II",
+   "q": "Khi phát hiện hành vi tham ô, lấy cắp tài sản, Tổ trưởng tổ chuyên trách phải làm gì?",
+   "o": [
+    "Phối hợp công chức giám sát lập biên bản, báo cáo Hội đồng tiêu hủy và Hội đồng giám sát",
+    "Báo ngay cho cơ quan công an, đồng thời tạm dừng toàn bộ hoạt động tiêu hủy của cụm",
+    "Tự lập biên bản, gửi Vụ Tổ chức cán bộ xử lý kỷ luật theo phân cấp quản lý",
+    "Báo cáo trực tiếp Thống đốc NHNN và Chánh Thanh tra NHNN trong ngày"
+   ],
+   "c": "Điều 11 khoản 3",
+   "ex": "Khi phát hiện các hành vi tham ô, lợi dụng lấy cắp tài sản, Tổ trưởng phối hợp với công chức giám sát lập biên bản báo cáo Hội đồng tiêu hủy và Hội đồng giám sát để xử lý kịp thời."
+  },
+  {
+   "ty": "nho",
+   "ch": "II",
+   "q": "Để trưng tập công chức, người lao động từ các đơn vị thuộc NHNN tham gia tiêu hủy tiền, Cục Phát hành và Kho quỹ phối hợp với đơn vị nào trình Thống đốc?",
+   "o": [
+    "Vụ Tổ chức cán bộ",
+    "Vụ Tài chính - Kế toán",
+    "Thanh tra NHNN",
+    "Văn phòng NHNN"
+   ],
+   "c": "Điều 12 khoản 2; Điều 30",
+   "ex": "Trường hợp cần thiết, Cục Phát hành và Kho quỹ phối hợp với Vụ Tổ chức cán bộ trình Thống đốc Ngân hàng Nhà nước trưng tập công chức, người lao động …"
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Tham gia quản lý kho tiền tiêu hủy tại mỗi cụm gồm những thành viên nào?",
+   "o": [
+    "Ủy viên Hội đồng tiêu hủy, nhân viên kế toán kho tiền tiêu hủy và thủ kho",
+    "Chủ tịch Hội đồng tiêu hủy, Tổ trưởng Tổ 1 và thủ kho tiền tiêu hủy",
+    "Phó Chủ tịch phụ trách cụm, công chức giám sát và thủ kho tiền tiêu hủy",
+    "Tổ trưởng Tổ 1, Tổ trưởng Tổ 2 và Tổ trưởng Tổ 3 của cụm tiêu hủy"
+   ],
+   "c": "Điều 13 khoản 2 điểm a",
+   "ex": "Tham gia quản lý kho tiền tiêu hủy tại mỗi cụm tiêu hủy gồm 03 (ba) thành viên: Ủy viên Hội đồng tiêu hủy, nhân viên thực hiện nhiệm vụ kế toán kho tiền tiêu hủy và thủ kho tiền tiêu hủy."
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Thành viên tham gia quản lý kho tiền tiêu hủy do ai xem xét, quyết định?",
+   "o": [
+    "Thống đốc NHNN",
+    "Chủ tịch Hội đồng tiêu hủy",
+    "Phó Chủ tịch phụ trách cụm tiêu hủy",
+    "Cục trưởng Cục Phát hành và Kho quỹ"
+   ],
+   "c": "Điều 13 khoản 2 điểm b",
+   "ex": "Thành viên tham gia quản lý kho tiền tiêu hủy do Thống đốc Ngân hàng Nhà nước xem xét, quyết định."
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Thủ kho tiền tiêu hủy giữ chìa khóa nào của cửa kho tiền?",
+   "o": [
+    "Một ổ khóa của lớp cánh trong cửa kho tiền",
+    "Một ổ khóa của lớp cánh ngoài cửa kho tiền",
+    "Toàn bộ chìa khóa dự phòng",
+    "Không giữ chìa khóa cửa kho"
+   ],
+   "c": "Điều 13 khoản 2 điểm c (iii)",
+   "ex": "Thủ kho tiền tiêu hủy … quản lý và giữ chìa khóa một ổ khóa của lớp cánh trong cửa kho tiền."
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Thành viên nào có nhiệm vụ kiểm tra, đối chiếu số liệu giữa sổ kế toán và sổ quỹ đảm bảo khớp đúng?",
+   "o": [
+    "Nhân viên thực hiện nhiệm vụ kế toán kho tiền tiêu hủy",
+    "Ủy viên Hội đồng tiêu hủy tham gia quản lý kho tiền",
+    "Thủ kho tiền tiêu hủy, người giữ chìa khóa cánh trong",
+    "Tổ trưởng Tổ 4 phụ trách hành chính, kế toán, thống kê"
+   ],
+   "c": "Điều 13 khoản 2 điểm c (ii)",
+   "ex": "Nhân viên thực hiện nhiệm vụ kế toán kho tiền tiêu hủy … kiểm tra, đối chiếu số liệu giữa sổ kế toán và sổ quỹ đảm bảo khớp đúng."
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Thành viên quản lý kho tiền tiêu hủy tại Cụm phía Nam nghỉ dưới 15 ngày làm việc thì ai quyết định cử người thay thế?",
+   "o": [
+    "Phó Chủ tịch phụ trách Cụm tiêu hủy phía Nam",
+    "Chủ tịch Hội đồng tiêu hủy",
+    "Thống đốc NHNN",
+    "Chi cục trưởng kiêm Chủ tịch Hội đồng giám sát"
+   ],
+   "c": "Điều 13 khoản 3",
+   "ex": "… ít hơn 15 ngày làm việc, Chủ tịch Hội đồng tiêu hủy (đối với Cụm tiêu hủy phía Bắc) và Phó Chủ tịch phụ trách Cụm tiêu hủy phía Nam (đối với Cụm tiêu hủy phía Nam) xem xét, quyết định cử người thay thế."
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Thành viên quản lý kho tiền tiêu hủy nghỉ từ 15 ngày làm việc trở lên thì ai quyết định người thay thế?",
+   "o": [
+    "Thống đốc NHNN",
+    "Chủ tịch Hội đồng tiêu hủy",
+    "Phó Chủ tịch phụ trách cụm",
+    "Vụ trưởng Vụ Tổ chức cán bộ"
+   ],
+   "c": "Điều 13 khoản 3",
+   "ex": "Trường hợp nghỉ từ 15 ngày làm việc trở lên do Thống đốc Ngân hàng Nhà nước xem xét, quyết định."
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Đối với Cụm tiêu hủy phía Nam, đơn vị nào lập phiếu xuất kho tiền tiêu hủy từ Kho tiền Trung ương?",
+   "o": [
+    "Phòng Kế toán - Tài vụ thuộc Chi cục Phát hành và Kho quỹ",
+    "Vụ Tài chính - Kế toán, theo lệnh điều chuyển của Cục Phát hành và Kho quỹ",
+    "Cục Phát hành và Kho quỹ, kèm lệnh điều chuyển",
+    "NHNN chi nhánh Khu vực tại TP. Hồ Chí Minh"
+   ],
+   "c": "Điều 14 khoản 1",
+   "ex": "… Cục Phát hành và Kho quỹ lập lệnh điều chuyển để Vụ Tài chính - Kế toán (đối với Cụm tiêu hủy phía Bắc) và Phòng Kế toán - Tài vụ thuộc Chi cục Phát hành và Kho quỹ (đối với Cụm tiêu hủy phía Nam) lập phiếu xuất kho …"
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Đơn vị nào lập lệnh điều chuyển tiền tiêu hủy từ Kho tiền Trung ương?",
+   "o": [
+    "Cục Phát hành và Kho quỹ",
+    "Vụ Tài chính - Kế toán, theo đề nghị của Hội đồng tiêu hủy",
+    "Hội đồng tiêu hủy",
+    "Thanh tra NHNN"
+   ],
+   "c": "Điều 14 khoản 1",
+   "ex": "… Cục Phát hành và Kho quỹ lập lệnh điều chuyển …"
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Khi thủ kho tiền tiêu hủy nhận tiền từ Kho tiền Trung ương, việc nhận phải có sự giám sát của ai?",
+   "o": [
+    "Công chức kiểm soát nội bộ Cục Phát hành và Kho quỹ, Chi cục Phát hành và Kho quỹ",
+    "Thanh tra viên NHNN và Tổ trưởng Tổ giám sát giao nhận của Hội đồng giám sát",
+    "Đại diện Vụ Tài chính - Kế toán và Phòng Kế toán - Tài vụ của Chi cục",
+    "Chủ tịch Hội đồng tiêu hủy hoặc Phó Chủ tịch phụ trách cụm tiêu hủy"
+   ],
+   "c": "Điều 15 khoản 1",
+   "ex": "Thủ kho tiền tiêu huỷ tổ chức nhận tiền … theo bao (thùng) nguyên niêm phong kẹp chì … có sự giám sát của công chức kiểm soát nội bộ Cục Phát hành và Kho quỹ, Chi cục Phát hành và Kho quỹ.",
+   "am": 1
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Số tiền không thuộc diện kiểm đếm tờ (miếng) theo tỷ lệ được xuất giao cho tổ nào?",
+   "o": [
+    "Tổ 3 để cắt hủy",
+    "Tổ 2 để kiểm đếm theo bó",
+    "Tổ 4 để hạch toán",
+    "Giữ lại tại kho tiền tiêu hủy đến cuối đợt"
+   ],
+   "c": "Điều 15 khoản 3",
+   "ex": "… Hội đồng tiêu huỷ thực hiện lấy ngẫu nhiên số tiền theo tỷ lệ kiểm đếm … để Tổ 1 xuất giao cho Tổ 2 kiểm đếm tờ (miếng); số tiền còn lại không phải kiểm đếm tờ (miếng) được xuất giao cho Tổ 3 để cắt hủy."
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Số tiền đưa vào kiểm đếm tờ (miếng) được chọn theo cách nào?",
+   "o": [
+    "Lấy ngẫu nhiên theo tỷ lệ kiểm đếm từng loại tiền do Chủ tịch Hội đồng tiêu hủy duyệt",
+    "Chọn các bao (thùng) có niêm phong lâu nhất hoặc có dấu hiệu đóng gói không đúng quy cách",
+    "Kiểm đếm toàn bộ 100% số tiền nhận về, sau đó mới chuyển sang Tổ 3 cắt hủy",
+    "Do Hội đồng giám sát chỉ định từng bao (thùng) dựa trên kết quả kiểm kê tháng trước"
+   ],
+   "c": "Điều 15 khoản 3",
+   "ex": "Hội đồng tiêu huỷ thực hiện lấy ngẫu nhiên số tiền theo tỷ lệ kiểm đếm từng loại tiền do Chủ tịch Hội đồng tiêu hủy phê duyệt …"
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Tổ trưởng Tổ 2 giao tiền cho từng kiểm ngân theo bó tiền giấy đủ bao nhiêu thếp?",
+   "o": [
+    "10 thếp",
+    "5 thếp",
+    "20 thếp",
+    "100 thếp"
+   ],
+   "c": "Điều 16 khoản 2 điểm a",
+   "ex": "Giao nhận theo bó đủ 10 thếp (tiền giấy), túi (tiền kim loại) nguyên niêm phong …",
+   "am": 1
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Việc Tổ trưởng Tổ 2 giao tiền cho từng kiểm ngân phải có sự giám sát của ai?",
+   "o": [
+    "Hội đồng giám sát",
+    "Phó Chủ tịch phụ trách cụm",
+    "Thủ kho tiền tiêu hủy",
+    "Tổ trưởng Tổ 1"
+   ],
+   "c": "Điều 16 khoản 2",
+   "ex": "Tổ trưởng Tổ 2 nhận theo bao (thùng) nguyên niêm phong kẹp chì … và tổ chức giao cho từng kiểm ngân có sự giám sát của Hội đồng giám sát.",
+   "am": 1
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Kiểm ngân kiểm đếm thấy bó (túi) tiền đủ số lượng tờ (miếng), đúng loại tiền ghi trên niêm phong thì xử lý thế nào?",
+   "o": [
+    "Hủy ngay giấy niêm phong và đóng bó (túi), niêm phong mới",
+    "Giữ nguyên niêm phong cũ và chuyển ngay sang Tổ 3 cắt hủy",
+    "Gửi lại kho tiền tiêu hủy để chờ kiểm kê cuối tháng",
+    "Lập biên bản gửi tổ chức tín dụng đã niêm phong bó tiền"
+   ],
+   "c": "Điều 16 khoản 3",
+   "ex": "Nếu bó (túi) tiền đủ số lượng tờ (miếng), đúng loại tiền ghi trên niêm phong thì hủy ngay giấy niêm phong và thực hiện đóng bó (túi), niêm phong mới.",
+   "am": 1
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Quy cách đóng bó tiền giấy sau kiểm đếm: buộc dây như thế nào?",
+   "o": [
+    "2 vòng ngang, 1 vòng dọc",
+    "1 vòng ngang, 1 vòng dọc",
+    "2 vòng ngang, 2 vòng dọc",
+    "3 vòng ngang"
+   ],
+   "c": "Điều 16 khoản 4 điểm a",
+   "ex": "… xếp 10 (mười) thếp tiền cùng loại thành 01 (một) bó, dùng dây (sợi se, nilon...) buộc chặt 02 (hai) vòng ngang, 01 (một) vòng dọc bó tiền, dán niêm phong lên mặt có nút buộc bó tiền."
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Tiền giấy biến dạng không thể đóng bó thông thường thì đóng gói thế nào?",
+   "o": [
+    "Đóng 01 túi vải đủ 1.000 tờ, buộc chặt miệng túi, dán niêm phong sát nút buộc",
+    "Đóng túi nilon 500 tờ, hàn kín miệng túi và dán niêm phong lên mặt túi",
+    "Gói giấy kraft theo từng thếp 100 tờ, xếp 10 thếp vào một hộp có niêm phong",
+    "Để rời trong thùng tôn có khóa, niêm phong nắp thùng có chữ ký kiểm ngân"
+   ],
+   "c": "Điều 16 khoản 4 điểm a",
+   "ex": "Đối với tiền giấy biến dạng không thể đóng bó như trên: đóng vào 01 (một) túi vải đủ 1.000 tờ, dùng dây … buộc thắt chặt miệng túi, dán niêm phong sát nút buộc miệng túi tiền."
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Mỗi túi vải tiền kim loại sau kiểm đếm phải đủ bao nhiêu miếng?",
+   "o": [
+    "1.000 miếng",
+    "500 miếng",
+    "2.000 miếng",
+    "100 miếng"
+   ],
+   "c": "Điều 16 khoản 4 điểm b",
+   "ex": "Đối với tiền kim loại, đóng vào túi vải đủ 1.000 miếng …"
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Một thùng tiền kim loại mệnh giá 5.000 đồng chứa bao nhiêu túi?",
+   "o": [
+    "50 túi",
+    "75 túi",
+    "100 túi",
+    "40 túi"
+   ],
+   "c": "Điều 16 khoản 4 điểm b (i)",
+   "ex": "01 thùng mệnh giá 5.000 đồng: 50 túi."
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Một thùng tiền kim loại mệnh giá 2.000 đồng, 1.000 đồng hoặc 500 đồng chứa bao nhiêu túi?",
+   "o": [
+    "75 túi",
+    "50 túi",
+    "100 túi",
+    "60 túi"
+   ],
+   "c": "Điều 16 khoản 4 điểm b (ii)",
+   "ex": "01 thùng mệnh giá 2.000 đồng, 1.000 đồng, 500 đồng: 75 túi."
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Một thùng tiền kim loại mệnh giá 200 đồng chứa bao nhiêu túi?",
+   "o": [
+    "100 túi",
+    "75 túi",
+    "50 túi",
+    "150 túi"
+   ],
+   "c": "Điều 16 khoản 4 điểm b (iii)",
+   "ex": "01 thùng mệnh giá 200 đồng: 100 túi."
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Thông tin nào KHÔNG thuộc các yếu tố bắt buộc ghi trên niêm phong bao (thùng), bó (túi) tiền sau kiểm đếm?",
+   "o": [
+    "Số seri của tờ tiền đầu tiên trong bó",
+    "Ngày, tháng, năm kiểm đếm và loại tiền",
+    "Số tờ (miếng) và thành tiền",
+    "Họ tên và chữ ký người kiểm đếm"
+   ],
+   "c": "Điều 16 khoản 4 điểm c",
+   "ex": "Trên niêm phong bao (thùng), bó (túi) tiền ghi đầy đủ các yếu tố ngày, tháng, năm kiểm đếm, loại tiền, số tờ (miếng), thành tiền, họ tên và chữ ký người kiểm đếm.",
+   "am": 1
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Số tiền tạm ứng (để bù vào bó thiếu tờ) còn lại được xử lý thế nào?",
+   "o": [
+    "Tiêu hủy vào ngày cuối cùng khi tiêu hủy loại tiền cùng mệnh giá",
+    "Nhập Quỹ Dự trữ phát hành tại Kho tiền Trung ương vào cuối năm",
+    "Hoàn trả Kho tiền Trung ương ngay trong ngày làm việc tạm ứng",
+    "Chuyển cho Tổ 4 hạch toán vào thu nhập khác của Cục cuối đợt"
+   ],
+   "c": "Điều 16 khoản 6",
+   "ex": "Số tiền tạm ứng còn lại được tiêu huỷ vào ngày cuối cùng khi tiêu huỷ loại tiền cùng mệnh giá."
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Trong giờ nghỉ trưa, cửa phòng kiểm đếm tiền được khóa và niêm phong với chữ ký của ai?",
+   "o": [
+    "Tổ trưởng Tổ 2 và công chức giám sát của Hội đồng giám sát",
+    "Thủ kho tiền tiêu hủy và nhân viên kế toán kho tiền tiêu hủy",
+    "Phó Chủ tịch phụ trách cụm và Tổ trưởng Tổ 2 của cụm đó",
+    "Kiểm ngân ra sau cùng và Tổ trưởng Tổ giám sát kiểm đếm"
+   ],
+   "c": "Điều 16 khoản 7",
+   "ex": "Cửa phòng kiểm đếm tiền phải được khóa và niêm phong có chữ ký của Tổ trưởng Tổ 2 và công chức giám sát của Hội đồng giám sát."
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Cuối ngày làm việc, biên bản thừa, thiếu trong các bó (túi) tiền tiêu hủy được lập và tổng hợp theo tiêu chí nào?",
+   "o": [
+    "Theo từng NHNN chi nhánh Khu vực, Sở Giao dịch, tổ chức tín dụng, Kho bạc Nhà nước",
+    "Theo từng kiểm ngân và từng ca làm việc, có xác nhận của Tổ trưởng Tổ 2 và công chức giám sát",
+    "Theo từng mệnh giá tiền và từng loại chất liệu (cotton, polymer, kim loại)",
+    "Theo từng bao (thùng) nhận từ Kho tiền Trung ương trong ngày làm việc"
+   ],
+   "c": "Điều 16 khoản 8 điểm b",
+   "ex": "Lập biên bản xác nhận và tổng hợp tiền thừa, thiếu trong các bó (túi) tiền tiêu hủy theo từng Ngân hàng Nhà nước chi nhánh Khu vực, Sở Giao dịch NHNN, từng tổ chức tín dụng, Kho bạc Nhà nước trên địa bàn …",
+   "am": 1
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Cuối mỗi ngày, ai lập Biên bản xác nhận kết quả tiêu hủy hoàn toàn?",
+   "o": [
+    "Tổ trưởng Tổ 3, có xác nhận của Tổ trưởng Tổ giám sát cắt hủy",
+    "Thủ kho tiền tiêu hủy, có xác nhận của kế toán kho tiền",
+    "Phó Chủ tịch phụ trách cụm, có xác nhận của Hội đồng giám sát",
+    "Tổ trưởng Tổ 4, có xác nhận của Tổ trưởng Tổ 3 và Tổ 2"
+   ],
+   "c": "Điều 17 khoản 4",
+   "ex": "Cuối mỗi ngày làm việc, Tổ trưởng Tổ 3 lập Biên bản xác nhận kết quả tiêu hủy hoàn toàn, có ký xác nhận của Tổ trưởng Tổ giám sát cắt huỷ tiền."
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Tổ trưởng Tổ 3 nhận tiền để cắt hủy từ những tổ nào?",
+   "o": [
+    "Tổ 1 và Tổ 2",
+    "Chỉ Tổ 1",
+    "Chỉ Tổ 2",
+    "Tổ 2 và Tổ 4"
+   ],
+   "c": "Điều 17 khoản 1",
+   "ex": "Căn cứ chứng từ xuất kho tiền tiêu hủy, Tổ trưởng Tổ 3 tổ chức thực hiện nhận tiền từ Tổ 1 và Tổ 2 theo phương thức giao nhận bó (túi) nguyên niêm phong …",
+   "am": 1
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Trong giờ nghỉ trưa, ai là người ra sau cùng khóa và niêm phong cửa nơi giao nhận, kiểm đếm, cắt hủy?",
+   "o": [
+    "Tổ trưởng",
+    "Công chức giám sát",
+    "Thủ kho",
+    "Nhân viên bảo vệ"
+   ],
+   "c": "Điều 18 khoản 1",
+   "ex": "… trong giờ giải lao, giờ nghỉ trưa công chức, người lao động không được ở lại nơi làm việc, Tổ trưởng là người ra sau cùng khoá và niêm phong cửa …"
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Người không có nhiệm vụ tiêu hủy tiền muốn vào kho tiền tiêu hủy, nơi kiểm đếm, cắt hủy cần điều kiện gì?",
+   "o": [
+    "Được Phó Chủ tịch phụ trách cụm tiêu hủy cho phép bằng văn bản",
+    "Được Tổ trưởng của khu vực đó đồng ý và ghi vào sổ theo dõi",
+    "Xuất trình thẻ ngành NHNN và đăng ký với công chức giám sát",
+    "Có công chức giám sát đi cùng trong suốt thời gian ở bên trong"
+   ],
+   "c": "Điều 18 khoản 3",
+   "ex": "Đối với những trường hợp không có nhiệm vụ thực hiện công tác tiêu hủy tiền, khi cần vào, ra … phải được sự cho phép bằng văn bản của Phó Chủ tịch phụ trách cụm tiêu hủy."
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Vật dụng nào bị cấm mang vào kho tiền tiêu hủy, nơi giao nhận, kiểm đếm và cắt hủy tiền?",
+   "o": [
+    "Thiết bị liên lạc, ghi hình, cặp, túi xách, tiền mặt",
+    "Thẻ nhân viên do Hội đồng cấp",
+    "Trang phục do Hội đồng tiêu hủy và Hội đồng giám sát trang cấp",
+    "Sổ theo dõi giao nhận nội bộ"
+   ],
+   "c": "Điều 18 khoản 3",
+   "ex": "… phải đeo thẻ, mặc trang phục do Hội đồng tiêu huỷ và Hội đồng giám sát trang cấp; không được mang thiết bị liên lạc, ghi hình, cặp, túi xách, tiền mặt, chất dễ cháy, nổ trái quy định vào nơi làm việc."
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "Định kỳ hàng tháng, Hội đồng tiêu hủy gửi bảng tổng hợp thừa, thiếu cho đơn vị nào để làm thủ tục báo Có hoặc báo Nợ?",
+   "o": [
+    "Vụ Tài chính - Kế toán",
+    "Cục Phát hành và Kho quỹ",
+    "Thanh tra NHNN",
+    "Kho bạc Nhà nước"
+   ],
+   "c": "Điều 19 khoản 2",
+   "ex": "… gửi Vụ Tài chính - Kế toán bảng tổng hợp số tiền thừa, thiếu, xác định số tiền chênh lệch thừa hoặc chênh lệch thiếu để làm thủ tục báo Có hoặc báo Nợ cho từng NHNN chi nhánh Khu vực, Sở Giao dịch NHNN.",
+   "am": 1
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "Phát hiện bó (túi) thừa hoặc thiếu thếp trong quá trình giao nhận thì xử lý thế nào?",
+   "o": [
+    "Lập biên bản tại chỗ dưới sự giám sát của công chức giám sát, giao Tổ 2 kiểm đếm tờ (miếng)",
+    "Lập biên bản, niêm phong nguyên trạng và trả lại Kho tiền Trung ương trong ngày",
+    "Ghi chú vào sổ giao nhận và chuyển thẳng sang Tổ 3 cắt hủy theo số ghi trên niêm phong",
+    "Niêm phong lại, báo cáo Thống đốc và chờ ý kiến chỉ đạo trước khi kiểm đếm"
+   ],
+   "c": "Điều 19 khoản 1",
+   "ex": "Trường hợp phát hiện bó (túi) tiền thừa hoặc thiếu thếp … hai bên giao nhận lập biên bản tại chỗ dưới sự giám sát của công chức giám sát và giao sang Tổ 2 để kiểm đếm tờ (miếng) …"
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "Ai quyết định thời điểm tiêu hủy trong năm đối với tiền lẫn loại không đủ tiêu chuẩn lưu thông, tiền đình chỉ lưu hành và tiền giả phát hiện qua kiểm đếm?",
+   "o": [
+    "Phó Chủ tịch phụ trách cụm tiêu hủy",
+    "Chủ tịch Hội đồng tiêu hủy tiền",
+    "Thống đốc NHNN theo đề nghị của Cục",
+    "Chủ tịch Hội đồng giám sát tiêu hủy"
+   ],
+   "c": "Điều 20 khoản 1",
+   "ex": "Đối với tiền lẫn loại không đủ tiêu chuẩn lưu thông, tiền đình chỉ lưu hành và tiền giả phát hiện qua kiểm đếm, Phó Chủ tịch phụ trách cụm tiêu huỷ quyết định thời điểm tiêu huỷ trong năm.",
+   "am": 1
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "Tiền đủ tiêu chuẩn lưu thông phát hiện qua kiểm đếm được xử lý thế nào?",
+   "o": [
+    "Nhập Quỹ dự trữ phát hành tại Kho tiền Trung ương vào cuối đợt tiêu hủy",
+    "Tiêu hủy cùng đợt với tiền không đủ tiêu chuẩn để bảo đảm khớp số liệu",
+    "Trả lại tổ chức tín dụng đã nộp, kèm biên bản và niêm phong bó tiền",
+    "Nhập Quỹ nghiệp vụ phát hành của NHNN chi nhánh Khu vực ngay trong ngày"
+   ],
+   "c": "Điều 20 khoản 2",
+   "ex": "Đối với tiền đủ tiêu chuẩn lưu thông phát hiện qua kiểm đếm được nhập Quỹ dự trữ phát hành tại Kho tiền Trung ương vào cuối đợt tiêu hủy."
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "Tiền tiêu hủy bảo quản trong kho được kiểm kê định kỳ như thế nào?",
+   "o": [
+    "Mỗi tháng 01 lần, cuối ngày làm việc cuối cùng của tháng",
+    "Mỗi quý 01 lần, vào ngày làm việc đầu tiên của quý sau",
+    "Mỗi tuần 01 lần, vào cuối ngày làm việc thứ Sáu",
+    "Mỗi đợt tiêu hủy 01 lần, vào ngày kết thúc đợt"
+   ],
+   "c": "Điều 21 khoản 1",
+   "ex": "Tiền tiêu hủy bảo quản trong kho được kiểm kê định kỳ mỗi tháng 01 (một) lần vào thời điểm cuối ngày làm việc cuối cùng của tháng.",
+   "am": 1
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "Khi Phó Chủ tịch phụ trách cụm vắng mặt, việc kiểm kê kho tiền tiêu hủy được ủy quyền cho ai?",
+   "o": [
+    "Một ủy viên Hội đồng tiêu hủy không phải là ủy viên quản lý kho tiền",
+    "Ủy viên Hội đồng tiêu hủy đang tham gia quản lý kho tiền tiêu hủy",
+    "Thủ kho tiền tiêu hủy, có sự chứng kiến của kế toán kho tiền",
+    "Trưởng phòng Tiêu hủy tiền, có sự giám sát của Hội đồng giám sát"
+   ],
+   "c": "Điều 21 khoản 1",
+   "ex": "Trường hợp Phó Chủ tịch phụ trách cụm tiêu huỷ vắng mặt thì được uỷ quyền việc kiểm kê cho một uỷ viên Hội đồng tiêu huỷ (không phải là uỷ viên quản lý kho tiền tiêu huỷ).",
+   "am": 1
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "Biên bản kiểm kê tiền tiêu hủy được lập thành mấy bản và phân phối thế nào?",
+   "o": [
+    "03 bản: Hội đồng tiêu hủy giữ 02 bản, 01 bản gửi Hội đồng giám sát",
+    "02 bản: mỗi Hội đồng giữ 01 bản",
+    "04 bản: thêm 01 bản gửi Vụ Tài chính - Kế toán và 01 bản gửi Cục PH&KQ",
+    "05 bản như biên bản kết quả cuối năm"
+   ],
+   "c": "Điều 21 khoản 3",
+   "ex": "Biên bản kiểm kê tiền tiêu huỷ được lập thành 03 (ba) bản: Hội đồng tiêu hủy giữ 02 (hai) bản, 01 (một) bản gửi Hội đồng giám sát.",
+   "am": 1
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "Hằng năm, Cục Phát hành và Kho quỹ, Chi cục Phát hành và Kho quỹ gửi dự toán thu, chi phục vụ tiêu hủy tiền cho đơn vị nào?",
+   "o": [
+    "Vụ Tài chính - Kế toán",
+    "Thống đốc NHNN",
+    "Hội đồng giám sát, để thẩm định trước khi trình Thống đốc",
+    "Vụ Tổ chức cán bộ"
+   ],
+   "c": "Điều 22 khoản 1",
+   "ex": "Hàng năm, Cục Phát hành và Kho quỹ, Chi cục Phát hành và Kho quỹ tổng hợp, lập dự toán thu, chi phục vụ tiêu hủy tiền gửi Vụ Tài chính - Kế toán theo quy định."
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "Tổ trưởng Tổ 2, Tổ 3 tổng hợp báo cáo kết quả kiểm đếm, cắt hủy theo những kỳ nào?",
+   "o": [
+    "Hằng tháng, 6 tháng, đợt tiêu hủy và hằng năm",
+    "Hằng ngày, hằng tuần, hằng tháng và hằng năm",
+    "Hằng quý, 6 tháng, 9 tháng và hằng năm",
+    "Hằng tuần, đợt tiêu hủy và khi có yêu cầu"
+   ],
+   "c": "Điều 23 khoản 3",
+   "ex": "… tổng hợp báo cáo kết quả kiểm đếm, kết quả cắt huỷ hằng tháng, 6 tháng, đợt tiêu huỷ và hằng năm.",
+   "am": 1
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "Hằng tháng, các cụm tiêu hủy tổng hợp số liệu, kết quả tiêu hủy tiền và báo cáo ai?",
+   "o": [
+    "Báo cáo Chủ tịch Hội đồng tiêu hủy và gửi Hội đồng giám sát",
+    "Báo cáo Thống đốc NHNN và gửi Cục Phát hành và Kho quỹ",
+    "Gửi Vụ Tài chính - Kế toán và Hội đồng giám sát",
+    "Báo cáo Chủ tịch Hội đồng giám sát và gửi Thanh tra NHNN"
+   ],
+   "c": "Điều 24 khoản 1",
+   "ex": "Hằng tháng, các cụm tiêu huỷ tổng hợp số liệu về tiêu huỷ tiền, kết quả tiêu huỷ tiền báo cáo Chủ tịch Hội đồng tiêu huỷ và gửi Hội đồng giám sát.",
+   "am": 1
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "Biên bản kết quả tiêu hủy hoàn toàn khi kết thúc năm được lập thành mấy bản?",
+   "o": [
+    "05 bản",
+    "03 bản",
+    "04 bản",
+    "06 bản"
+   ],
+   "c": "Điều 24 khoản 2",
+   "ex": "Biên bản được lập thành 05 (năm) bản: 01 bản gửi Vụ Tài chính - Kế toán, 02 bản gửi Cục Phát hành và Kho quỹ, 01 bản gửi Hội đồng giám sát, 01 bản lưu tại cụm tiêu hủy."
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "Trong biên bản kết quả tiêu hủy hoàn toàn cuối năm, đơn vị nào nhận 02 bản?",
+   "o": [
+    "Cục Phát hành và Kho quỹ",
+    "Vụ Tài chính - Kế toán, để hạch toán và lưu hồ sơ",
+    "Hội đồng giám sát",
+    "Cụm tiêu hủy lưu"
+   ],
+   "c": "Điều 24 khoản 2",
+   "ex": "… 02 (hai) bản gửi Cục Phát hành và Kho quỹ …"
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "Báo cáo sơ kết, tổng kết năm công tác tiêu hủy tiền trình Thống đốc do ai chủ trì?",
+   "o": [
+    "Hội đồng tiêu hủy chủ trì, phối hợp với Hội đồng giám sát",
+    "Hội đồng giám sát chủ trì, phối hợp với Hội đồng tiêu hủy",
+    "Vụ Tài chính - Kế toán chủ trì, phối hợp với Cục",
+    "Thanh tra NHNN chủ trì, phối hợp với Hội đồng tiêu hủy"
+   ],
+   "c": "Điều 24 khoản 3",
+   "ex": "Hội đồng tiêu huỷ chủ trì phối hợp với Hội đồng giám sát thực hiện báo cáo sơ kết, tổng kết năm công tác tiêu huỷ tiền và giám sát tiêu huỷ tiền trình Thống đốc …",
+   "am": 1
+  },
+  {
+   "ty": "nho",
+   "ch": "V",
+   "q": "Cá nhân tham gia tiêu hủy tiền tham ô, lợi dụng lấy cắp tài sản phải chịu trách nhiệm gì?",
+   "o": [
+    "Bồi thường 100% giá trị tài sản thiếu và buộc thôi việc hoặc bị truy cứu hình sự",
+    "Bồi thường 50% giá trị tài sản thiếu và bị kỷ luật khiển trách hoặc cảnh cáo",
+    "Bồi thường 100% giá trị tài sản thiếu và bị hạ một bậc lương trong 12 tháng",
+    "Bị truy cứu trách nhiệm hình sự, không phải bồi thường nếu đã chấp hành án"
+   ],
+   "c": "Điều 27 khoản 3",
+   "ex": "… nếu tham ô, lợi dụng lấy cắp tài sản thì phải bồi thường 100% giá trị tài sản thiếu và buộc thôi việc hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+  },
+  {
+   "ty": "nho",
+   "ch": "V",
+   "q": "Ngoài tiền lương, phụ cấp, người tham gia tiêu hủy tiền được hưởng chế độ gì?",
+   "o": [
+    "Chế độ bồi dưỡng về tiêu hủy tiền và chế độ khác theo hướng dẫn của NHNN",
+    "Phụ cấp độc hại bằng 30% lương cơ bản trong thời gian tham gia tiêu hủy",
+    "Tiền thưởng tính theo tỷ lệ trên tổng giá trị tiền đã tiêu hủy trong đợt",
+    "Không có chế độ riêng ngoài tiền lương, phụ cấp lương, tiền công"
+   ],
+   "c": "Điều 26",
+   "ex": "… ngoài tiền lương, phụ cấp lương, tiền công được trả theo quy định, được hưởng chế độ bồi dưỡng về tiêu hủy tiền và các chế độ khác theo văn bản hướng dẫn hiện hành của Ngân hàng Nhà nước."
+  },
+  {
+   "ty": "nho",
+   "ch": "V",
+   "q": "Sau sửa đổi năm 2026, đơn vị nào chủ trì giám sát tiêu hủy tiền?",
+   "o": [
+    "Thanh tra Ngân hàng Nhà nước",
+    "Vụ Kiểm toán nội bộ, phối hợp với Cục Phát hành và Kho quỹ",
+    "Cục Phát hành và Kho quỹ",
+    "Vụ Tài chính - Kế toán"
+   ],
+   "c": "Điều 29; khoản 3 Điều 13 TT 42/2026",
+   "ex": "Cụm từ “Vụ Kiểm toán nội bộ” được thay thế bởi cụm từ “Thanh tra Ngân hàng Nhà nước”. Thanh tra NHNN chủ trì, phối hợp với các đơn vị liên quan thực hiện giám sát tiêu hủy tiền.",
+   "am": 1
+  },
+  {
+   "ty": "nho",
+   "ch": "V",
+   "q": "Đơn vị nào trình Thống đốc phương án bán phế liệu tiền tiêu hủy?",
+   "o": [
+    "Cục Phát hành và Kho quỹ",
+    "Vụ Tài chính - Kế toán, sau khi có ý kiến Hội đồng giám sát",
+    "Hội đồng giám sát",
+    "Văn phòng NHNN"
+   ],
+   "c": "Điều 28 khoản 6",
+   "ex": "Trình Thống đốc Ngân hàng Nhà nước phương án bán phế liệu tiền tiêu hủy và phối hợp với các đơn vị liên quan tổ chức triển khai thực hiện."
+  },
+  {
+   "ty": "nho",
+   "ch": "V",
+   "q": "Đơn vị nào xây dựng, trình Thống đốc phê duyệt định mức giao nhận, kiểm đếm, cắt hủy và kế hoạch tiêu hủy tiền?",
+   "o": [
+    "Cục Phát hành và Kho quỹ",
+    "Vụ Tổ chức cán bộ",
+    "Thanh tra NHNN",
+    "Vụ Tài chính - Kế toán, phối hợp với Vụ Tổ chức cán bộ"
+   ],
+   "c": "Điều 28 khoản 1",
+   "ex": "Xây dựng, trình Thống đốc Ngân hàng Nhà nước phê duyệt định mức giao nhận, kiểm đếm, cắt huỷ và kế hoạch tiêu huỷ tiền.",
+   "am": 1
+  },
+  {
+   "ty": "nho",
+   "ch": "V",
+   "q": "Trách nhiệm của Vụ Tài chính - Kế toán trong công tác tiêu hủy tiền là gì?",
+   "o": [
+    "Tổ chức công tác kế toán và hướng dẫn hạch toán kế toán tiêu hủy tiền",
+    "Chủ trì giám sát tiêu hủy tiền theo quy định của Thống đốc NHNN",
+    "Tuyển dụng lao động hợp đồng và trưng tập công chức tham gia tiêu hủy",
+    "Trình Thống đốc phương án bán phế liệu và định mức cắt hủy tiền"
+   ],
+   "c": "Điều 31",
+   "ex": "1. Tổ chức thực hiện công tác kế toán tiêu hủy tiền. 2. Hướng dẫn nghiệp vụ hạch toán kế toán trong công tác tiêu hủy tiền."
+  },
+  {
+   "ty": "nho",
+   "ch": "V",
+   "q": "Đơn vị nào là đầu mối tham mưu thủ tục tuyển dụng lao động hợp đồng tham gia tiêu hủy tiền?",
+   "o": [
+    "Vụ Tổ chức cán bộ",
+    "Cục Phát hành và Kho quỹ",
+    "Văn phòng NHNN",
+    "Vụ Tài chính - Kế toán"
+   ],
+   "c": "Điều 30",
+   "ex": "Đầu mối, phối hợp với Cục Phát hành và Kho quỹ tham mưu trình Thống đốc Ngân hàng Nhà nước thực hiện các thủ tục tuyển dụng lao động hợp đồng …"
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Vì sao phân tích phản biện cho rằng quyền lực trong công tác tiêu hủy tiền bị tập trung?",
+   "o": [
+    "Cục trưởng vừa trình kế hoạch, làm Chủ tịch Hội đồng, ban hành nội quy, tự quyết tỷ lệ kiểm đếm",
+    "Thống đốc trực tiếp điều hành mọi tổ chuyên trách mà không qua Hội đồng tiêu hủy và Hội đồng giám sát",
+    "Hội đồng giám sát kiêm luôn việc cắt hủy tiền và lập biên bản kết quả tiêu hủy",
+    "Thủ kho giữ toàn bộ chìa khóa kho tiền, kể cả chìa khóa lớp cánh ngoài"
+   ],
+   "c": "Phản biện · Điều 3 khoản 1; Điều 4 khoản 2; Điều 6; Điều 8; Điều 28 khoản 1",
+   "ex": "Một người vừa tổ chức hoạt động vừa tự quyết định mức độ kiểm tra đối với chính hoạt động đó."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Hướng hoàn thiện nào được đề xuất để cân bằng thẩm quyền quyết định tỷ lệ kiểm đếm?",
+   "o": [
+    "Hội đồng giám sát có ý kiến trước khi quyết, hoặc báo cáo Thống đốc tỷ lệ kèm căn cứ",
+    "Bỏ hẳn việc kiểm đếm trước khi tiêu hủy để giảm chi phí và thời gian xử lý",
+    "Giao thủ kho tiền tiêu hủy quyết định tỷ lệ vì là người trực tiếp quản lý tiền",
+    "Kiểm đếm 100% mọi bó tiền, không phụ thuộc kết quả thừa thiếu các năm trước"
+   ],
+   "c": "Phản biện · Điều 4 khoản 2; Điều 8 khoản 3",
+   "ex": "Đề xuất: Hội đồng giám sát có ý kiến trước khi Chủ tịch quyết định tỷ lệ kiểm đếm, hoặc báo cáo Thống đốc tỷ lệ áp dụng kèm căn cứ."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Rủi ro nào phát sinh khi Thông tư không quy định tỷ lệ kiểm đếm tối thiểu?",
+   "o": [
+    "Tỷ lệ có thể bị đặt rất thấp, giảm khả năng phát hiện sai sót, mà tiền đã hủy không thể kiểm lại",
+    "Hội đồng tiêu hủy buộc phải kiểm đếm lại toàn bộ số tiền đã cắt hủy trong năm trước để đối chiếu số liệu",
+    "Hội đồng tiêu hủy không thể được thành lập vì thiếu căn cứ xác định nhân sự",
+    "Tiền giả phát hiện qua kiểm đếm được đưa trở lại lưu thông qua Quỹ dự trữ phát hành"
+   ],
+   "c": "Phản biện · Điều 4 khoản 2; Điều 8 khoản 3",
+   "ex": "Đề xuất: quy định tỷ lệ sàn cho từng loại tiền và công thức tham chiếu, ví dụ tăng tỷ lệ khi tỷ lệ thừa, thiếu vượt ngưỡng."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Vấn đề nào được chỉ ra đối với quỹ tạm ứng bù thiếu của Tổ 2?",
+   "o": [
+    "Không có hạn mức tạm ứng tối đa; số dư chỉ hủy cuối đợt nên tồn ngoài quy trình chính lâu",
+    "Quỹ tạm ứng được lấy từ ngân sách nhà nước nên phải quyết toán riêng với Bộ Tài chính",
+    "Quỹ tạm ứng không được kiểm kê và không có sự giám sát của Hội đồng giám sát",
+    "Quỹ tạm ứng do tổ chức tín dụng nộp nên phải hoàn trả sau mỗi đợt tiêu hủy"
+   ],
+   "c": "Phản biện · Điều 16 khoản 6",
+   "ex": "Đề xuất: đặt hạn mức tạm ứng theo mệnh giá và yêu cầu đối chiếu số dư tạm ứng trong biên bản cuối ngày."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Khoảng trống nào được chỉ ra về phế liệu tiền sau tiêu hủy?",
+   "o": [
+    "Chưa có tiêu chí kích thước mảnh cắt, cách kiểm tra, và yêu cầu môi trường với polymer, kim loại",
+    "Thông tư cấm bán phế liệu dưới mọi hình thức nên phát sinh chi phí lưu kho lớn",
+    "Phế liệu phải được lưu kho vĩnh viễn tại Kho tiền Trung ương để phục vụ thanh tra, kiểm toán sau tiêu hủy",
+    "Phế liệu được trả lại tổ chức tín dụng đã nộp tiền để tự xử lý theo quy định"
+   ],
+   "c": "Phản biện · Điều 4 khoản 4; Điều 5; Điều 28 khoản 6",
+   "ex": "Văn bản chỉ yêu cầu phế liệu “không thể khôi phục để sử dụng lại như tiền”. Đề xuất: tiêu chí kỹ thuật phế liệu và yêu cầu xử lý, tái chế phù hợp quy định bảo vệ môi trường."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Theo phân tích, công cụ nào chưa được Thông tư đề cập dù có thể tăng khả năng truy vết?",
+   "o": [
+    "Camera giám sát của đơn vị, máy phân loại tự động, sổ kế toán điện tử",
+    "Niêm phong có chữ ký của tổ trưởng và công chức giám sát",
+    "Biên bản giao nhận và sổ theo dõi giao nhận nội bộ giữa các tổ chuyên trách, có ký nhận đầy đủ",
+    "Thẻ nhân viên và trang phục do hai Hội đồng trang cấp"
+   ],
+   "c": "Phản biện · Điều 16; Điều 18; Điều 23",
+   "ex": "Toàn bộ quy trình dựa vào sổ sách, biên bản giấy và niêm phong. Điều 18 cấm cá nhân mang thiết bị ghi hình nhưng không quy định camera của đơn vị."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Vấn đề nào được nêu về thời gian lưu kho tiền trước khi tiêu hủy?",
+   "o": [
+    "Không có thời hạn tối đa từ khi nhận đến khi hủy; tiền giả, lẫn loại do Phó Chủ tịch chọn thời điểm",
+    "Tiền phải được cắt hủy ngay trong ngày nhận nên không đủ thời gian kiểm đếm theo tỷ lệ đã được phê duyệt",
+    "Thời hạn lưu kho tối đa là 15 ngày làm việc, quá ngắn so với công suất máy cắt hủy",
+    "Tiền chỉ được cắt hủy vào tháng 12 hằng năm nên tồn kho rất lớn trong các tháng khác"
+   ],
+   "c": "Phản biện · Điều 15; Điều 20 khoản 1",
+   "ex": "Tiền chờ hủy càng lâu thì rủi ro bảo quản càng cao. Đề xuất: quy định thời hạn lưu kho tối đa hoặc báo cáo Hội đồng giám sát số tồn chờ hủy theo tuổi kho."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Biểu hiện nào thể hiện nguyên tắc kiểm soát chéo nhiều lớp được đánh giá là điểm hợp lý?",
+   "o": [
+    "Bốn tổ độc lập; kho ba thành viên mỗi người một ổ khóa; cửa phòng niêm phong có hai chữ ký",
+    "Một cá nhân chịu trách nhiệm toàn bộ luồng tiền từ khi nhận đến khi cắt hủy để dễ quy trách nhiệm",
+    "Hội đồng tiêu hủy tự giám sát chính mình, không cần sự tham gia của Hội đồng giám sát",
+    "Chỉ thủ kho được ra vào khu vực cắt hủy và giữ toàn bộ chìa khóa phòng"
+   ],
+   "c": "Phản biện · Điều 10; Điều 13 khoản 2; Điều 16 khoản 7, 8",
+   "ex": "Không một cá nhân nào kiểm soát trọn vẹn một luồng tiền, giảm đáng kể rủi ro thông đồng."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Vì sao cơ chế kiểm đếm theo tỷ lệ được đánh giá là hợp lý?",
+   "o": [
+    "Tiết kiệm nguồn lực, tập trung vào rủi ro, dựa trên dữ liệu thừa thiếu và mẫu ngẫu nhiên",
+    "Vì cho phép bỏ qua hoàn toàn việc kiểm đếm đối với các loại tiền có mệnh giá nhỏ và tiền kim loại",
+    "Vì tỷ lệ được Thống đốc cố định cho mọi năm nên dễ lập kế hoạch nhân sự",
+    "Vì tổ chức tín dụng đã kiểm đếm trước khi nộp nên không cần kiểm lại"
+   ],
+   "c": "Phản biện · Điều 4 khoản 2; Điều 15 khoản 3",
+   "ex": "Thay vì kiểm đếm toàn bộ, tỷ lệ được quyết định theo kết quả thừa, thiếu của năm và mẫu được lấy ngẫu nhiên."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Việc chuyển chức năng chủ trì giám sát tiêu hủy tiền sang Thanh tra NHNN được đánh giá thế nào?",
+   "o": [
+    "Tách rõ bên thực hiện và bên giám sát, tăng tính độc lập",
+    "Làm giảm tính độc lập vì Thanh tra trực thuộc Cục Phát hành và Kho quỹ",
+    "Không có thay đổi gì so với trước",
+    "Khiến Hội đồng giám sát bị giải thể"
+   ],
+   "c": "Phản biện · Điều 29; khoản 3 Điều 13 TT 42/2026",
+   "ex": "Chức năng chủ trì giám sát chuyển từ Vụ Kiểm toán nội bộ sang Thanh tra NHNN, cùng với Hội đồng giám sát tách biệt khỏi Hội đồng tiêu hủy."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Việc nhiều nội dung kỹ thuật được giao cho văn bản hướng dẫn nội bộ có hệ quả gì?",
+   "o": [
+    "Hợp lý về bảo mật, nhưng Thông tư khó được đánh giá độc lập, phụ thuộc văn bản hướng dẫn",
+    "Khiến Thông tư không có hiệu lực cho đến khi toàn bộ văn bản hướng dẫn được đăng Công báo và Cổng thông tin",
+    "Buộc phải công bố quy trình máy hủy và trang thiết bị an ninh lên Công báo",
+    "Làm Hội đồng giám sát mất thẩm quyền giám sát đối với quy trình cắt hủy"
+   ],
+   "c": "Phản biện · Điều 17 khoản 5; Điều 18 khoản 4; Điều 21 khoản 2; Điều 28 khoản 4",
+   "ex": "Quy trình máy hủy, trang thiết bị, phương pháp kiểm kê, sổ sách đều do Cục trưởng hướng dẫn hoặc “theo quy định hiện hành”."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Bất tiện nào được chỉ ra ở cách văn bản hợp nhất thể hiện Điều 16 khoản 8 điểm đ?",
+   "o": [
+    "Chỉ ghi “(được bãi bỏ)” mà không nêu nội dung cũ, phải tra văn bản gốc",
+    "Điểm đ bị lặp lại hai lần ở Điều 16 và Điều 17 của văn bản hợp nhất",
+    "Điểm đ mâu thuẫn với phạm vi điều chỉnh tại Điều 1 của Thông tư",
+    "Điểm đ chưa có hiệu lực vì Thông tư 42/2026 chưa được đăng Công báo"
+   ],
+   "c": "Phản biện · Điều 16 khoản 8 điểm đ",
+   "ex": "Người học và người thực thi phải tra lại văn bản gốc mới hiểu được thay đổi."
+  },
+  {
+   "ch": "III",
+   "ty": "th",
+   "q": "Ai có thẩm quyền quyết định cử người thay thế?",
+   "o": [
+    "Chủ tịch Hội đồng tiêu hủy",
+    "Thống đốc NHNN",
+    "Phó Chủ tịch thường trực",
+    "Phó Chủ tịch phụ trách Cụm phía Nam"
+   ],
+   "c": "Điều 13 khoản 3",
+   "ex": "Nghỉ ít hơn 15 ngày làm việc: Chủ tịch Hội đồng tiêu hủy quyết định với Cụm phía Bắc; Phó Chủ tịch phụ trách Cụm phía Nam quyết định với Cụm phía Nam. Từ 15 ngày làm việc trở lên: Thống đốc quyết định.",
+   "sc": "Thủ kho tiền tiêu hủy tại Cụm tiêu hủy phía Bắc nghỉ phép 10 ngày làm việc."
+  },
+  {
+   "ch": "III",
+   "ty": "th",
+   "q": "Ai có thẩm quyền quyết định cử người thay thế?",
+   "o": [
+    "Thống đốc NHNN",
+    "Phó Chủ tịch phụ trách Cụm phía Nam",
+    "Chủ tịch Hội đồng tiêu hủy",
+    "Chi cục trưởng Chi cục Phát hành và Kho quỹ"
+   ],
+   "c": "Điều 13 khoản 3",
+   "ex": "Trường hợp thành viên quản lý kho nghỉ từ 15 ngày làm việc trở lên thì do Thống đốc NHNN xem xét, quyết định, không phân biệt cụm.",
+   "sc": "Ủy viên Hội đồng tiêu hủy tham gia quản lý kho tiền tiêu hủy tại Cụm phía Nam được cử đi học 20 ngày làm việc."
+  },
+  {
+   "ch": "III",
+   "ty": "th",
+   "q": "Ai có thẩm quyền quyết định cử người thay thế?",
+   "o": [
+    "Thống đốc NHNN, vì thời gian nghỉ từ 15 ngày làm việc trở lên",
+    "Chủ tịch Hội đồng tiêu hủy, vì thời gian nghỉ không vượt quá 15 ngày",
+    "Phó Chủ tịch phụ trách cụm, vì thời gian nghỉ chưa vượt 15 ngày",
+    "Chủ tịch Hội đồng tiêu hủy, sau khi báo cáo Thống đốc"
+   ],
+   "c": "Điều 13 khoản 3",
+   "ex": "Mốc phân định là “ít hơn 15 ngày làm việc” và “từ 15 ngày làm việc trở lên”. Nghỉ đúng 15 ngày thuộc nhóm thứ hai, do Thống đốc quyết định.",
+   "sc": "Nhân viên kế toán kho tiền tiêu hủy tại Cụm phía Bắc nghỉ chế độ đúng 15 ngày làm việc."
+  },
+  {
+   "ch": "IV",
+   "ty": "th",
+   "q": "Thủ kho và bên giao phải xử lý thế nào?",
+   "o": [
+    "Lập biên bản tại chỗ có công chức giám sát, xử lý thừa, thiếu theo quy định của NHNN",
+    "Lập biên bản tại chỗ và giao ngay bao tiền đó sang Tổ 2 để kiểm đếm tờ (miếng), xử lý thừa thiếu",
+    "Trả lại bao tiền cho Kho tiền Trung ương và yêu cầu giao bổ sung đủ số bó",
+    "Nhập kho theo số bó thực nhận, không cần lập biên bản vì sẽ kiểm kê cuối tháng"
+   ],
+   "c": "Điều 19 khoản 1",
+   "ex": "Thiếu bó (túi) trong bao (thùng): hai bên lập biên bản tại chỗ dưới sự giám sát của công chức giám sát và xử lý theo quy định hiện hành. Riêng bó (túi) thừa, thiếu thếp mới giao sang Tổ 2 kiểm đếm tờ (miếng).",
+   "sc": "Khi nhận tiền từ Kho tiền Trung ương, thủ kho tiền tiêu hủy phát hiện một bao tiền nguyên niêm phong nhưng thiếu 01 bó so với số ghi trên niêm phong."
+  },
+  {
+   "ch": "III",
+   "ty": "th",
+   "q": "Kiểm ngân phải làm gì?",
+   "o": [
+    "Báo công chức giám sát và Tổ trưởng kiểm tra lại, cùng ký vào tờ lót niêm phong và sổ theo dõi thừa thiếu",
+    "Tự lập biên bản thu giữ tiền giả rồi tiếp tục kiểm đếm, cuối ngày nộp biên bản cho Tổ trưởng Tổ 2",
+    "Dừng kiểm đếm, niêm phong cả bó tiền và chuyển ngay cho cơ quan công an để giám định",
+    "Rút tờ tiền giả ra, thay bằng tờ tiền lấy từ quỹ tạm ứng rồi đóng bó, niêm phong mới, cuối ngày báo cáo Tổ trưởng Tổ 2"
+   ],
+   "c": "Điều 16 khoản 5",
+   "ex": "Phát hiện thừa, thiếu, lẫn loại, tiền giả, tiền đủ tiêu chuẩn: kiểm ngân báo công chức giám sát kiểm đếm, Tổ trưởng hoặc nhân viên theo dõi thừa thiếu và người chứng kiến (nếu có) kiểm tra lại, ký xác nhận vào mặt sau tờ lót niêm phong và sổ theo dõi tiền thừa, thiếu.",
+   "sc": "Trong khi kiểm đếm một bó tiền polymer mệnh giá 200.000 đồng, kiểm ngân phát hiện 01 tờ tiền giả."
+  },
+  {
+   "ch": "III",
+   "ty": "th",
+   "q": "Việc xử lý đúng quy định trước giờ nghỉ trưa là gì?",
+   "o": [
+    "Đóng tạm bó đang đếm, xếp riêng bó đã/chưa kiểm; mọi người ra ngoài, cửa khóa, niêm phong có chữ ký Tổ trưởng Tổ 2 và giám sát",
+    "Kiểm ngân được ở lại phòng để trông giữ bó tiền đang đếm dở; Tổ trưởng khóa cửa ngoài, niêm phong và giữ chìa khóa đến hết giờ nghỉ",
+    "Nộp toàn bộ bó tiền, kể cả bó đang đếm dở, vào kho tiền tiêu hủy rồi mới nghỉ trưa",
+    "Để nguyên trên bàn, cửa phòng chỉ cần khóa và niêm phong có chữ ký của kiểm ngân ra sau cùng"
+   ],
+   "c": "Điều 16 khoản 7; Điều 18 khoản 1",
+   "ex": "Trước giờ nghỉ, bó tiền đang kiểm đếm được đóng tạm thời bằng dây; bó đã và chưa kiểm được xếp riêng. Không ai được ở lại nơi làm việc. Tổ trưởng ra sau cùng; cửa phòng kiểm đếm khóa và niêm phong có chữ ký của Tổ trưởng Tổ 2 và công chức giám sát của Hội đồng giám sát.",
+   "sc": "11 giờ 30, đến giờ nghỉ trưa, một kiểm ngân đang đếm dở một bó tiền."
+  },
+  {
+   "ch": "IV",
+   "ty": "th",
+   "q": "Số tiền này được xử lý cuối cùng như thế nào?",
+   "o": [
+    "Mở sổ theo dõi có giám sát, gửi kho tiền tiêu hủy, nhập Quỹ dự trữ phát hành tại Kho tiền Trung ương vào cuối đợt",
+    "Tiêu hủy luôn cùng bó tiền đang kiểm đếm để bảo đảm khớp số tờ ghi trên niêm phong, có xác nhận của Hội đồng giám sát",
+    "Trả lại NHNN chi nhánh Khu vực đã nộp bó tiền, kèm biên bản thừa, thiếu cuối tháng",
+    "Chuyển vào quỹ tạm ứng của Tổ 2 để bù cho các bó thiếu tờ trong những ngày tiếp theo"
+   ],
+   "c": "Điều 16 khoản 8 điểm d; Điều 20 khoản 2",
+   "ex": "Tiền đủ tiêu chuẩn lưu thông được mở sổ theo dõi có sự giám sát của Hội đồng giám sát và gửi vào kho tiền tiêu hủy; được nhập Quỹ dự trữ phát hành tại Kho tiền Trung ương vào cuối đợt tiêu hủy.",
+   "sc": "Qua kiểm đếm, kiểm ngân phát hiện 50 tờ tiền còn đủ tiêu chuẩn lưu thông lẫn trong các bó tiền tiêu hủy."
+  },
+  {
+   "ch": "III",
+   "ty": "th",
+   "q": "Chuyên viên này cần đáp ứng điều kiện gì để vào phòng cắt hủy?",
+   "o": [
+    "Có văn bản cho phép của Phó Chủ tịch phụ trách cụm; khi vào phải đeo thẻ, không mang thiết bị liên lạc, túi xách",
+    "Xuất trình thẻ ngành và được Tổ trưởng Tổ 3 đồng ý; được mang điện thoại nếu tắt nguồn",
+    "Có văn bản cử đi công tác của Vụ Pháp chế và có công chức giám sát của Hội đồng giám sát đi cùng suốt thời gian khảo sát",
+    "Được Chủ tịch Hội đồng giám sát cho phép bằng lời và ký vào sổ theo dõi ra vào"
+   ],
+   "c": "Điều 18 khoản 3",
+   "ex": "Người không có nhiệm vụ tiêu hủy tiền khi cần vào, ra kho tiền tiêu hủy, nơi giao nhận, kiểm đếm, cắt hủy phải được Phó Chủ tịch phụ trách cụm cho phép bằng văn bản. Mọi người vào khu vực phải đeo thẻ, mặc trang phục được cấp, không mang thiết bị liên lạc, ghi hình, cặp, túi xách, tiền mặt, chất dễ cháy nổ.",
+   "sc": "Một chuyên viên Vụ Pháp chế (không tham gia tiêu hủy tiền) cần vào phòng cắt hủy để khảo sát phục vụ sửa đổi Thông tư."
+  },
+  {
+   "ch": "III",
+   "ty": "th",
+   "q": "Số tiền chưa cắt hủy này được xử lý thế nào?",
+   "o": [
+    "Tổ trưởng Tổ 3 đóng bao hoặc xếp xe lưới có khóa, niêm phong có xác nhận Tổ trưởng Tổ giám sát cắt hủy, gửi kho",
+    "Để lại trong phòng cắt hủy đã khóa, niêm phong cửa có chữ ký của Tổ trưởng Tổ 3 và công chức giám sát, hôm sau tiếp tục cắt hủy",
+    "Giao lại cho Tổ 2 kiểm đếm lại toàn bộ trước khi được đưa vào cắt hủy trong ngày hôm sau",
+    "Lập biên bản trả về Kho tiền Trung ương và đề nghị xuất lại trong kế hoạch nhận tiền tuần sau"
+   ],
+   "c": "Điều 17 khoản 4",
+   "ex": "Số tiền chưa cắt hủy hết trong ngày được Tổ trưởng Tổ 3 tổ chức đóng bao (thùng), dán niêm phong hoặc xếp vào xe lưới có khóa, dán niêm phong có xác nhận của Tổ trưởng Tổ giám sát cắt hủy tiền để gửi vào kho tiền tiêu hủy.",
+   "sc": "Cuối ngày làm việc, Tổ 3 còn 30 bó tiền chưa cắt hủy hết."
+  },
+  {
+   "ch": "IV",
+   "ty": "th",
+   "q": "Ai có thể được ủy quyền thực hiện việc kiểm kê này?",
+   "o": [
+    "Một ủy viên Hội đồng tiêu hủy không tham gia quản lý kho tiền tiêu hủy",
+    "Ủy viên Hội đồng tiêu hủy đang tham gia quản lý kho tiền tiêu hủy",
+    "Thủ kho tiền tiêu hủy, có sự chứng kiến của kế toán kho tiền",
+    "Trưởng phòng Tiêu hủy tiền, có sự giám sát của Hội đồng giám sát"
+   ],
+   "c": "Điều 21 khoản 1",
+   "ex": "Trường hợp Phó Chủ tịch phụ trách cụm tiêu hủy vắng mặt thì được ủy quyền việc kiểm kê cho một ủy viên Hội đồng tiêu hủy (không phải là ủy viên quản lý kho tiền tiêu hủy).",
+   "sc": "Cuối tháng 6, Phó Chủ tịch phụ trách Cụm phía Nam đi công tác đúng ngày làm việc cuối cùng của tháng, là ngày kiểm kê kho tiền tiêu hủy.",
+   "am": "Sửa đổi bởi TT 42/2026"
+  },
+  {
+   "ch": "V",
+   "ty": "th",
+   "q": "Nhân viên này phải chịu trách nhiệm gì?",
+   "o": [
+    "Bồi thường 100% giá trị tài sản thiếu và buộc thôi việc hoặc bị truy cứu trách nhiệm hình sự",
+    "Bồi thường 100% giá trị tài sản thiếu và bị kỷ luật cảnh cáo nếu là vi phạm lần đầu, tái phạm thì buộc thôi việc",
+    "Bồi thường gấp đôi giá trị tài sản thiếu và bị điều chuyển khỏi khu vực tiêu hủy tiền",
+    "Không phải bồi thường vì số tiền đã thuộc diện tiêu hủy, chỉ bị xử lý kỷ luật"
+   ],
+   "c": "Điều 27 khoản 3",
+   "ex": "Công chức, người lao động tham gia tiêu hủy tiền nếu tham ô, lợi dụng lấy cắp tài sản thì phải bồi thường 100% giá trị tài sản thiếu và buộc thôi việc hoặc bị truy cứu trách nhiệm hình sự.",
+   "sc": "Qua camera an ninh và đối chiếu số liệu, xác định một nhân viên Tổ 3 đã lấy cắp 10 tờ tiền trước khi đưa vào máy cắt hủy."
+  },
+  {
+   "ch": "III",
+   "ty": "th",
+   "q": "Một thùng tiền kim loại mệnh giá 1.000 đồng đóng đúng quy cách sau kiểm đếm chứa bao nhiêu miếng?",
+   "o": [
+    "75 túi × 1.000 miếng = 75.000 miếng",
+    "50 túi × 1.000 miếng = 50.000 miếng",
+    "100 túi × 1.000 miếng = 100.000 miếng",
+    "75 túi × 500 miếng = 37.500 miếng"
+   ],
+   "c": "Điều 16 khoản 4 điểm b",
+   "ex": "Mỗi túi tiền kim loại đủ 1.000 miếng. Thùng mệnh giá 2.000, 1.000, 500 đồng đóng 75 túi.",
+   "sc": "Tổ 2 đóng thùng tiền kim loại sau khi kiểm đếm tờ (miếng) xong."
+  },
+  {
+   "ch": "III",
+   "ty": "th",
+   "q": "Giá trị một thùng tiền kim loại mệnh giá 5.000 đồng đóng đúng quy cách là bao nhiêu?",
+   "o": [
+    "250.000.000 đồng",
+    "375.000.000 đồng",
+    "500.000.000 đồng",
+    "25.000.000 đồng"
+   ],
+   "c": "Điều 16 khoản 4 điểm b",
+   "ex": "Thùng mệnh giá 5.000 đồng có 50 túi, mỗi túi 1.000 miếng: 50 × 1.000 × 5.000 = 250.000.000 đồng.",
+   "sc": "Kế toán cần ước tính giá trị các thùng tiền kim loại trong kho tiền tiêu hủy để đối chiếu với sổ quỹ."
+  },
+  {
+   "ch": "IV",
+   "ty": "th",
+   "q": "Đề xuất ủy quyền cho ông P có hợp lệ không?",
+   "o": [
+    "Không, vì người được ủy quyền kiểm kê không được là ủy viên quản lý kho tiền tiêu hủy",
+    "Có, vì ông P là ủy viên Hội đồng tiêu hủy nên đủ điều kiện được Phó Chủ tịch ủy quyền kiểm kê",
+    "Có, nếu Hội đồng giám sát đồng ý bằng văn bản trước ngày kiểm kê",
+    "Không, vì chỉ Chủ tịch Hội đồng tiêu hủy mới được thay Phó Chủ tịch kiểm kê"
+   ],
+   "c": "Điều 21 khoản 1",
+   "ex": "Khi Phó Chủ tịch phụ trách cụm vắng mặt, việc kiểm kê được ủy quyền cho một ủy viên Hội đồng tiêu hủy không phải là ủy viên quản lý kho tiền tiêu hủy, để tránh người quản lý kho tự kiểm kê kho của mình.",
+   "sc": "Ông P là ủy viên Hội đồng tiêu hủy, đồng thời là thành viên quản lý kho tiền tiêu hủy tại cụm. Phó Chủ tịch phụ trách cụm vắng mặt và đề xuất ủy quyền cho ông P chủ trì kiểm kê cuối tháng.",
+   "am": "Sửa đổi bởi TT 42/2026"
+  },
+  {
+   "ch": "III",
+   "ty": "th",
+   "q": "Bó tiền này có được đóng đúng quy cách không?",
+   "o": [
+    "Không, vì niêm phong thiếu họ tên và chữ ký người kiểm đếm",
+    "Có, vì đã đủ 10 thếp và buộc đúng 2 vòng ngang, 1 vòng dọc",
+    "Có, vì tên kiểm ngân đã được ghi trong sổ giao nhận nội bộ",
+    "Không, vì bó tiền phải buộc 2 vòng ngang và 2 vòng dọc"
+   ],
+   "c": "Điều 16 khoản 4 điểm a, c",
+   "ex": "Niêm phong bó (túi) phải ghi đầy đủ ngày, tháng, năm kiểm đếm, loại tiền, số tờ (miếng), thành tiền, họ tên và chữ ký người kiểm đếm.",
+   "sc": "Sau kiểm đếm, kiểm ngân xếp 10 thếp tiền cùng loại thành một bó, buộc 2 vòng ngang và 1 vòng dọc. Niêm phong ghi ngày kiểm đếm, loại tiền, số tờ và thành tiền.",
+   "am": "Sửa đổi bởi TT 42/2026"
+  },
+  {
+   "ch": "X",
+   "ty": "ss",
+   "q": "Trước khi Thông tư 42/2026 sửa đổi, Điều 29 giao đơn vị nào chủ trì giám sát tiêu hủy tiền?",
+   "o": [
+    "Vụ Kiểm toán nội bộ",
+    "Thanh tra Ngân hàng Nhà nước",
+    "Vụ Tài chính - Kế toán",
+    "Cục Phát hành và Kho quỹ"
+   ],
+   "c": "Chú thích 25",
+   "ex": "Cụm từ “Vụ Kiểm toán nội bộ” được thay thế bởi cụm từ “Thanh tra Ngân hàng Nhà nước” theo khoản 3 Điều 13 TT 42/2026.",
+   "am": "Sửa đổi bởi TT 42/2026"
+  },
+  {
+   "ch": "X",
+   "ty": "ss",
+   "q": "Cụm từ “địa bàn tỉnh, thành phố” tại Điều 19 khoản 2 được Thông tư 42/2026 thay bằng cụm từ nào?",
+   "o": [
+    "Địa bàn khu vực",
+    "Địa bàn vùng",
+    "Địa bàn liên tỉnh",
+    "Địa bàn cụm tiêu hủy"
+   ],
+   "c": "Chú thích 14 (khoản 2 Điều 13 TT 42/2026)",
+   "ex": "Cụm từ “địa bàn tỉnh, thành phố” được thay thế bởi cụm từ “địa bàn khu vực”.",
+   "am": "Sửa đổi bởi TT 42/2026"
+  },
+  {
+   "ch": "X",
+   "ty": "ss",
+   "q": "Điểm nào của Điều 16 khoản 8 bị Thông tư 42/2026 bãi bỏ?",
+   "o": [
+    "Điểm đ",
+    "Điểm a",
+    "Điểm b",
+    "Điểm d"
+   ],
+   "c": "Chú thích 12",
+   "ex": "Điểm đ khoản 8 Điều 16 được bãi bỏ theo khoản 6 Điều 5 TT 42/2026. Điểm a được sửa đổi; điểm b, d giữ nguyên.",
+   "am": "Sửa đổi bởi TT 42/2026"
+  },
+  {
+   "ch": "X",
+   "ty": "ss",
+   "q": "Nội dung nào của Điều 16 KHÔNG được Thông tư 42/2026 sửa đổi?",
+   "o": [
+    "Khoản 6 (tạm ứng tiền để bù bó thiếu)",
+    "Khoản 1 (xuất kho để Tổ 1 giao Tổ 2)",
+    "Khoản 3 (kiểm ngân ký nhận và kiểm đếm)",
+    "Điểm a khoản 8 (kiểm ngân giao lại cuối ngày)"
+   ],
+   "c": "Chú thích 6–10, 12",
+   "ex": "TT 42/2026 sửa khoản 1, 2, 3, điểm c khoản 4, điểm a khoản 8 và bãi bỏ điểm đ khoản 8. Khoản 6 về tạm ứng giữ nguyên.",
+   "am": "Sửa đổi bởi TT 42/2026"
+  },
+  {
+   "ch": "X",
+   "ty": "ss",
+   "q": "Những khoản nào của Điều 21 (kiểm kê) được Thông tư 42/2026 sửa đổi?",
+   "o": [
+    "Khoản 1 và khoản 3",
+    "Khoản 1 và khoản 2",
+    "Chỉ khoản 2",
+    "Khoản 2 và khoản 3"
+   ],
+   "c": "Chú thích 19, 20",
+   "ex": "Khoản 1 (thời điểm, thành phần kiểm kê) và khoản 3 (số bản biên bản kiểm kê) được sửa đổi theo khoản 1, 2 Điều 8 TT 42/2026. Khoản 2 (phương pháp kiểm kê) giữ nguyên.",
+   "am": "Sửa đổi bởi TT 42/2026"
+  },
+  {
+   "ch": "X",
+   "ty": "ss",
+   "q": "Căn cứ về chức năng, nhiệm vụ của NHNN được Thông tư 42/2026 viện dẫn là văn bản nào?",
+   "o": [
+    "Nghị định 26/2025/NĐ-CP, được sửa đổi bởi Nghị định 198/2026/NĐ-CP",
+    "Nghị định 16/2017/NĐ-CP ngày 17/02/2017",
+    "Nghị định 40/2012/NĐ-CP ngày 02/5/2012",
+    "Nghị định 16/2017/NĐ-CP, được sửa đổi, bổ sung bởi Nghị định 26/2025/NĐ-CP"
+   ],
+   "c": "Căn cứ ban hành TT 42/2026 (chú thích 1)",
+   "ex": "TT 03/2020 căn cứ NĐ 16/2017; TT 42/2026 căn cứ NĐ 26/2025/NĐ-CP được sửa đổi, bổ sung bởi NĐ 198/2026/NĐ-CP. NĐ 40/2012 là căn cứ về nghiệp vụ phát hành tiền.",
+   "am": "Sửa đổi bởi TT 42/2026"
+  },
+  {
+   "ch": "X",
+   "ty": "ss",
+   "q": "Thay đổi nào sau đây do Thông tư 42/2026 thực hiện?",
+   "o": [
+    "Chuyển đơn vị chủ trì giám sát tiêu hủy tiền sang Thanh tra NHNN",
+    "Tăng số tổ chuyên trách tại mỗi cụm từ 4 lên 5 tổ",
+    "Bỏ Cụm tiêu hủy phía Nam, tập trung toàn bộ công tác tiêu hủy tại Cục Phát hành và Kho quỹ ở Hà Nội",
+    "Giao Cục trưởng thẩm quyền thành lập Hội đồng tiêu hủy"
+   ],
+   "c": "Điều 29; chú thích 25",
+   "ex": "TT 42/2026 thay “Vụ Kiểm toán nội bộ” bằng “Thanh tra NHNN”. Số tổ (4), hai cụm tiêu hủy và thẩm quyền của Thống đốc thành lập Hội đồng giữ nguyên.",
+   "am": "Sửa đổi bởi TT 42/2026"
+  },
+  {
+   "ch": "X",
+   "ty": "ss",
+   "q": "Thông tư 42/2026 sửa đổi những khoản nào của Điều 24 (tổng hợp và báo cáo)?",
+   "o": [
+    "Khoản 1 và khoản 3",
+    "Khoản 2 và khoản 3",
+    "Chỉ khoản 2",
+    "Cả khoản 1, 2 và 3"
+   ],
+   "c": "Chú thích 22, 23",
+   "ex": "Khoản 1 (báo cáo hằng tháng) và khoản 3 (báo cáo sơ kết, tổng kết) được sửa đổi theo khoản 1, 2 Điều 10 TT 42/2026. Khoản 2 (biên bản cuối năm 5 bản) giữ nguyên.",
+   "am": "Sửa đổi bởi TT 42/2026"
+  },
+  {
+   "ch": "II",
+   "ty": "nd",
+   "q": "Những nhận định nào đúng về Hội đồng tiêu hủy?",
+   "o": [
+    "(1), (3) và (4)",
+    "(1), (2) và (3)",
+    "(2), (3) và (4)",
+    "(1) và (4)"
+   ],
+   "c": "Điều 6 khoản 1",
+   "ex": "Hội đồng tiêu hủy có 3 Phó Chủ tịch (thường trực; Phó Vụ trưởng Vụ Tài chính - Kế toán; Chi cục trưởng tại TP. Hồ Chí Minh), không phải 2.",
+   "st": [
+    "Chủ tịch là Cục trưởng Cục Phát hành và Kho quỹ",
+    "Hội đồng có 02 Phó Chủ tịch",
+    "Phó Chủ tịch thường trực trực tiếp phụ trách Cụm tiêu hủy phía Bắc",
+    "Thống đốc quyết định thành lập Hội đồng hằng năm"
+   ]
+  },
+  {
+   "ch": "III",
+   "ty": "nd",
+   "q": "Có bao nhiêu nhận định đúng về quản lý kho tiền tiêu hủy?",
+   "o": [
+    "3",
+    "2",
+    "4",
+    "1"
+   ],
+   "c": "Điều 13 khoản 2",
+   "ex": "Ủy viên Hội đồng tiêu hủy giữ chìa khóa một ổ khóa của lớp cánh ngoài, không phải cánh trong.",
+   "st": [
+    "Mỗi cụm có 03 thành viên quản lý kho tiền tiêu hủy",
+    "Ủy viên Hội đồng tiêu hủy giữ chìa khóa một ổ khóa lớp cánh trong",
+    "Nhân viên kế toán kho giữ chìa khóa một ổ khóa lớp cánh ngoài",
+    "Thủ kho giữ chìa khóa một ổ khóa lớp cánh trong"
+   ]
+  },
+  {
+   "ch": "III",
+   "ty": "nd",
+   "q": "Những nhận định nào đúng về quy cách đóng gói sau kiểm đếm?",
+   "o": [
+    "(1), (2) và (4)",
+    "(1), (2) và (3)",
+    "(2), (3) và (4)",
+    "Cả (1), (2), (3) và (4)"
+   ],
+   "c": "Điều 16 khoản 4",
+   "ex": "Thùng tiền kim loại mệnh giá 200 đồng đóng 100 túi, không phải 75 túi.",
+   "st": [
+    "Bó tiền giấy gồm 10 thếp cùng loại",
+    "Túi tiền kim loại đủ 1.000 miếng",
+    "Thùng tiền kim loại mệnh giá 200 đồng đóng 75 túi",
+    "Thùng tiền kim loại mệnh giá 5.000 đồng đóng 50 túi"
+   ]
+  },
+  {
+   "ch": "III",
+   "ty": "nd",
+   "q": "Những nhận định nào đúng về an ninh, an toàn khu vực tiêu hủy?",
+   "o": [
+    "(1) và (3)",
+    "(1), (2) và (3)",
+    "(3) và (4)",
+    "(1), (3) và (4)"
+   ],
+   "c": "Điều 18 khoản 1, 2, 3",
+   "ex": "Không được mang thiết bị liên lạc vào nơi làm việc (kể cả khi tắt nguồn). Trách nhiệm an toàn tài sản trong phạm vi được giao thuộc nhân viên Tổ 1, Tổ 2, Tổ 3, không phải Tổ 4.",
+   "st": [
+    "Giờ nghỉ trưa, công chức, người lao động không được ở lại nơi làm việc",
+    "Được mang điện thoại vào phòng kiểm đếm nếu đã tắt nguồn",
+    "Trong giờ làm việc, vào ra khu vực phải ký xác nhận vào sổ theo dõi",
+    "Nhân viên Tổ 4 chịu trách nhiệm an toàn tài sản trong phòng kiểm đếm"
+   ]
+  },
+  {
+   "ch": "IV",
+   "ty": "nd",
+   "q": "Trong các nhận định về kiểm kê và báo cáo, nhận định nào SAI?",
+   "o": [
+    "(3)",
+    "(1)",
+    "(2)",
+    "(4)"
+   ],
+   "c": "Điều 21; Điều 24",
+   "ex": "Biên bản kết quả tiêu hủy hoàn toàn cuối năm được lập thành 05 bản, không phải 04 bản.",
+   "st": [
+    "Kho tiền tiêu hủy được kiểm kê mỗi tháng 01 lần",
+    "Biên bản kiểm kê được lập thành 03 bản",
+    "Biên bản kết quả tiêu hủy hoàn toàn cuối năm được lập thành 04 bản",
+    "Báo cáo hằng tháng gửi Chủ tịch Hội đồng tiêu hủy và Hội đồng giám sát"
+   ],
+   "am": "Sửa đổi bởi TT 42/2026"
+  },
+  {
+   "ch": "IV",
+   "ty": "nd",
+   "q": "Những nhận định nào đúng về xử lý tiền phát hiện qua kiểm đếm?",
+   "o": [
+    "(1), (2) và (4)",
+    "(1) và (2)",
+    "(2), (3) và (4)",
+    "(1), (3) và (4)"
+   ],
+   "c": "Điều 16 khoản 8 điểm b; Điều 20",
+   "ex": "Tiền lẫn loại không đủ tiêu chuẩn được tiêu hủy theo thời điểm do Phó Chủ tịch phụ trách cụm quyết định, không trả lại tổ chức tín dụng.",
+   "st": [
+    "Thời điểm tiêu hủy tiền giả phát hiện qua kiểm đếm do Phó Chủ tịch phụ trách cụm quyết định",
+    "Tiền đủ tiêu chuẩn lưu thông được nhập Quỹ dự trữ phát hành vào cuối đợt",
+    "Tiền lẫn loại không đủ tiêu chuẩn được trả lại tổ chức tín dụng đã nộp",
+    "Tiền giả lẫn trong tiền đang kiểm đếm được lập biên bản riêng"
+   ],
+   "am": "Sửa đổi bởi TT 42/2026"
+  },
+  {
+   "ch": "V",
+   "ty": "nd",
+   "q": "Có bao nhiêu nhận định đúng về trách nhiệm các đơn vị?",
+   "o": [
+    "3",
+    "4",
+    "2",
+    "1"
+   ],
+   "c": "Điều 28; Điều 29; Điều 30; Điều 31",
+   "ex": "Vụ Tài chính - Kế toán không chủ trì giám sát. Đơn vị chủ trì giám sát là Thanh tra NHNN.",
+   "st": [
+    "Cục Phát hành và Kho quỹ trình phương án bán phế liệu tiền tiêu hủy",
+    "Vụ Tổ chức cán bộ là đầu mối tham mưu tuyển dụng lao động hợp đồng",
+    "Vụ Tài chính - Kế toán chủ trì giám sát tiêu hủy tiền",
+    "Thanh tra NHNN chủ trì giám sát tiêu hủy tiền"
+   ],
+   "am": "Sửa đổi bởi TT 42/2026"
+  },
+  {
+   "ch": "I",
+   "ty": "nd",
+   "q": "Những nhận định nào đúng về nguyên tắc tiêu hủy tiền?",
+   "o": [
+    "(1) và (3)",
+    "(1), (2) và (3)",
+    "(2) và (4)",
+    "(1), (3) và (4)"
+   ],
+   "c": "Điều 4",
+   "ex": "Tiêu hủy theo số tiền thực tế đã nhận sau khi có kết quả kiểm đếm, phân loại (không theo kế hoạch). Tỷ lệ kiểm đếm do Chủ tịch Hội đồng tiêu hủy quyết định, không phải Thống đốc.",
+   "st": [
+    "Bảo đảm an toàn tuyệt đối về tài sản và bí mật Nhà nước",
+    "Tiêu hủy theo số tiền ghi trong kế hoạch đã được phê duyệt",
+    "Phế liệu sau tiêu hủy không thể khôi phục để sử dụng lại như tiền",
+    "Thống đốc quyết định tỷ lệ kiểm đếm từng loại tiền"
+   ],
+   "am": "Sửa đổi bởi TT 42/2026"
+  },
+  {
+   "ch": "I",
+   "ty": "nd",
+   "q": "Có bao nhiêu nhận định đúng về phương pháp tiêu hủy tiền?",
+   "o": [
+    "4",
+    "3",
+    "2",
+    "1"
+   ],
+   "c": "Điều 5; Điều 17 khoản 5",
+   "ex": "Cả bốn nhận định đều đúng.",
+   "st": [
+    "Tiền giấy cotton và polymer đều được tiêu hủy bằng hệ thống máy cắt hủy chuyên dùng",
+    "Tiền kim loại có thể được tiêu hủy bằng phương pháp nấu chảy",
+    "Tiền kim loại có thể được tiêu hủy bằng máy hủy tiền kim loại chuyên dùng",
+    "Cục trưởng Cục Phát hành và Kho quỹ hướng dẫn quy trình tiêu hủy bằng máy hủy"
+   ]
+  },
+  {
+   "ch": "III",
+   "ty": "nd",
+   "q": "Những nhận định nào đúng về thẩm quyền liên quan đến kho tiền tiêu hủy?",
+   "o": [
+    "(2), (3) và (4)",
+    "(1), (2) và (3)",
+    "(1) và (4)",
+    "(1), (3) và (4)"
+   ],
+   "c": "Điều 13 khoản 2 điểm b; Điều 28 khoản 2",
+   "ex": "Thành viên quản lý kho do Thống đốc xem xét, quyết định, không phải Chủ tịch Hội đồng tiêu hủy. Cục Phát hành và Kho quỹ trình Thống đốc.",
+   "st": [
+    "Chủ tịch Hội đồng tiêu hủy quyết định thành viên quản lý kho tiền tiêu hủy",
+    "Cục Phát hành và Kho quỹ trình Thống đốc quyết định thành lập Hội đồng tiêu hủy",
+    "Cục Phát hành và Kho quỹ trình Thống đốc cử thành viên quản lý kho",
+    "Thống đốc xem xét, quyết định thành viên quản lý kho tiền tiêu hủy"
+   ]
+  },
+  {
+   "ch": "IV",
+   "ty": "so",
+   "q": "Phân biệt số bản của hai loại biên bản:",
+   "o": [
+    "Biên bản kiểm kê: 03 bản; biên bản kết quả tiêu hủy hoàn toàn cuối năm: 05 bản",
+    "Biên bản kiểm kê: 05 bản; biên bản kết quả tiêu hủy hoàn toàn cuối năm: 03 bản",
+    "Biên bản kiểm kê: 02 bản; biên bản kết quả tiêu hủy hoàn toàn cuối năm: 04 bản",
+    "Cả hai loại biên bản đều lập thành 03 bản"
+   ],
+   "c": "Điều 21 khoản 3; Điều 24 khoản 2",
+   "ex": "Biên bản kiểm kê: 03 bản (Hội đồng tiêu hủy 02, Hội đồng giám sát 01). Biên bản cuối năm: 05 bản (Vụ Tài chính - Kế toán 01, Cục 02, Hội đồng giám sát 01, lưu cụm 01).",
+   "am": "Sửa đổi bởi TT 42/2026"
+  },
+  {
+   "ch": "III",
+   "ty": "so",
+   "q": "Các mức 50 – 75 – 100 túi/thùng lần lượt tương ứng với mệnh giá tiền kim loại nào?",
+   "o": [
+    "5.000 đồng – 2.000/1.000/500 đồng – 200 đồng",
+    "200 đồng – 2.000/1.000/500 đồng – 5.000 đồng",
+    "5.000 đồng – 200 đồng – 2.000/1.000/500 đồng",
+    "2.000/1.000/500 đồng – 5.000 đồng – 200 đồng"
+   ],
+   "c": "Điều 16 khoản 4 điểm b",
+   "ex": "Mệnh giá càng lớn (miếng càng nặng) thì thùng chứa càng ít túi: 5.000 đồng: 50 túi; 2.000, 1.000, 500 đồng: 75 túi; 200 đồng: 100 túi."
+  },
+  {
+   "ch": "III",
+   "ty": "so",
+   "q": "Mốc “15 ngày làm việc” tại Điều 13 dùng để làm gì?",
+   "o": [
+    "Phân định thẩm quyền cử người thay thế thành viên quản lý kho nghỉ làm việc",
+    "Thời hạn tối đa lưu kho tiền trước khi cắt hủy",
+    "Thời hạn gửi biên bản thừa, thiếu cho NHNN chi nhánh Khu vực, Sở Giao dịch NHNN kể từ ngày kiểm đếm",
+    "Thời hạn Hội đồng giám sát xác nhận biên bản kiểm kê"
+   ],
+   "c": "Điều 13 khoản 3",
+   "ex": "Nghỉ ít hơn 15 ngày làm việc: Chủ tịch Hội đồng tiêu hủy (Cụm Bắc) hoặc Phó Chủ tịch phụ trách Cụm Nam quyết định người thay thế. Từ 15 ngày làm việc trở lên: Thống đốc quyết định."
+  },
+  {
+   "ch": "II",
+   "ty": "so",
+   "q": "Con số nào KHÁC với các con số còn lại?",
+   "o": [
+    "Số tổ chuyên trách tại mỗi cụm tiêu hủy",
+    "Số Phó Chủ tịch Hội đồng tiêu hủy",
+    "Số thành viên quản lý kho tiền tiêu hủy tại mỗi cụm",
+    "Số ủy viên kiêm thư ký trong Hội đồng tiêu hủy"
+   ],
+   "c": "Điều 6; Điều 13 khoản 2",
+   "ex": "Mỗi cụm có 04 tổ chuyên trách. Ba con số còn lại đều bằng 3: 3 Phó Chủ tịch, 3 thành viên quản lý kho, 3 ủy viên kiêm thư ký."
+  },
+  {
+   "ch": "III",
+   "ty": "so",
+   "q": "Mô tả nào đúng về quy cách bó (túi) tiền giấy sau kiểm đếm?",
+   "o": [
+    "Bó 10 thếp, buộc 2 vòng ngang 1 vòng dọc; tiền biến dạng đóng túi vải 1.000 tờ",
+    "Bó 10 thếp, buộc 1 vòng ngang 2 vòng dọc; tiền biến dạng đóng túi vải 500 tờ",
+    "Bó 5 thếp, buộc 2 vòng ngang 1 vòng dọc; tiền biến dạng đóng túi vải 1.000 tờ",
+    "Bó 10 thếp, buộc 2 vòng ngang 2 vòng dọc; tiền biến dạng đóng túi nilon 1.000 tờ"
+   ],
+   "c": "Điều 16 khoản 4 điểm a",
+   "ex": "Xếp 10 thếp cùng loại thành 01 bó, buộc chặt 02 vòng ngang, 01 vòng dọc. Tiền giấy biến dạng đóng vào 01 túi vải đủ 1.000 tờ."
+  },
+  {
+   "ch": "X",
+   "ty": "so",
+   "q": "Ngày 15/5/2020 gắn với sự kiện nào?",
+   "o": [
+    "Thông tư 03/2020/TT-NHNN có hiệu lực",
+    "Thông tư 03/2020/TT-NHNN được ký ban hành",
+    "Thông tư 27/2012/TT-NHNN có hiệu lực",
+    "Thông tư 42/2026/TT-NHNN được ký ban hành"
+   ],
+   "c": "Phần mở đầu VBHN; Điều 32",
+   "ex": "TT 03/2020 ký ngày 31/3/2020, có hiệu lực từ 15/5/2020. TT 42/2026 ký ngày 26/8/2026, hiệu lực từ 10/10/2026."
+  },
+  {
+   "ch": "IV",
+   "ty": "so",
+   "q": "Biên bản kết quả tiêu hủy hoàn toàn cuối năm (05 bản) được phân phối như thế nào?",
+   "o": [
+    "Vụ Tài chính - Kế toán 01; Cục Phát hành và Kho quỹ 02; Hội đồng giám sát 01; lưu cụm 01",
+    "Vụ Tài chính - Kế toán 02; Cục Phát hành và Kho quỹ 01; Hội đồng giám sát 01; lưu cụm 01",
+    "Cục Phát hành và Kho quỹ 02; Hội đồng giám sát 02; lưu cụm 01",
+    "Thống đốc 01; Cục Phát hành và Kho quỹ 02; Hội đồng giám sát 01; lưu cụm 01"
+   ],
+   "c": "Điều 24 khoản 2",
+   "ex": "Biên bản được lập thành 05 bản: 01 bản gửi Vụ Tài chính - Kế toán, 02 bản gửi Cục Phát hành và Kho quỹ, 01 bản gửi Hội đồng giám sát, 01 bản lưu tại cụm tiêu hủy."
+  },
+  {
+   "ch": "II",
+   "ty": "nho",
+   "q": "Nhiệm vụ nào sau đây thuộc Hội đồng tiêu hủy theo Điều 7?",
+   "o": [
+    "Tổ chức tổng kết, đánh giá và đề xuất khen thưởng, xử lý vi phạm trong tiêu hủy tiền",
+    "Phê duyệt kế hoạch tiêu hủy tiền hằng năm của NHNN",
+    "Chủ trì giám sát tiêu hủy tiền tại hai cụm tiêu hủy",
+    "Quyết định thành viên tham gia quản lý kho tiền tiêu hủy và cử người thay thế khi thành viên nghỉ làm việc"
+   ],
+   "c": "Điều 7",
+   "ex": "Hội đồng tiêu hủy: chỉ đạo, tổ chức tiêu hủy dưới sự giám sát của Hội đồng giám sát; xử lý kịp thời tồn tại, thiếu sót; tổ chức tổng kết, đánh giá, đề xuất khen thưởng, xử lý vi phạm; bảo quản hồ sơ, tài liệu."
+  },
+  {
+   "ch": "II",
+   "ty": "nho",
+   "q": "Hội đồng tiêu hủy chỉ đạo và tổ chức tiêu hủy tiền dưới sự giám sát của ai?",
+   "o": [
+    "Hội đồng giám sát tiêu hủy tiền",
+    "Vụ Tài chính - Kế toán và Thanh tra NHNN",
+    "Thống đốc NHNN trực tiếp",
+    "Cơ quan công an"
+   ],
+   "c": "Điều 7 khoản 1",
+   "ex": "Hội đồng tiêu hủy chỉ đạo và tổ chức thực hiện công tác tiêu hủy tiền tại các cụm tiêu hủy … dưới sự giám sát của Hội đồng giám sát, đảm bảo an toàn tuyệt đối."
+  },
+  {
+   "ch": "II",
+   "ty": "nho",
+   "q": "Tổ trưởng tổ chuyên trách chấp hành sự phân công của ai?",
+   "o": [
+    "Phó Chủ tịch phụ trách cụm tiêu hủy",
+    "Chủ tịch Hội đồng giám sát",
+    "Chủ tịch Hội đồng giám sát tiêu hủy tiền",
+    "Ủy viên kiêm thư ký Hội đồng"
+   ],
+   "c": "Điều 11 khoản 1",
+   "ex": "Tổ trưởng chấp hành sự phân công của Phó Chủ tịch phụ trách cụm tiêu hủy và chịu trách nhiệm trước Hội đồng tiêu hủy về nhiệm vụ được giao."
+  },
+  {
+   "ch": "II",
+   "ty": "nho",
+   "q": "Công chức, người lao động tham gia tiêu hủy tiền được quản lý theo những quy định nào?",
+   "o": [
+    "Quy chế phân cấp quản lý công chức, viên chức, người lao động của NHNN và Bộ luật Lao động",
+    "Quy chế riêng do Chủ tịch Hội đồng tiêu hủy ban hành cho từng đợt tiêu hủy, có ý kiến của Hội đồng giám sát",
+    "Quy định của Hội đồng giám sát về tiêu chuẩn kiểm ngân",
+    "Hợp đồng dịch vụ ký với Cục Phát hành và Kho quỹ"
+   ],
+   "c": "Điều 12 khoản 1",
+   "ex": "Phải đủ tiêu chuẩn chức danh theo quy định và được quản lý theo Quy chế phân cấp quản lý công chức, viên chức và người lao động thuộc NHNN, Bộ luật Lao động và các văn bản liên quan."
+  },
+  {
+   "ch": "III",
+   "ty": "nho",
+   "q": "Căn cứ chứng từ xuất kho tiền tiêu hủy, Kho tiền Trung ương làm gì?",
+   "o": [
+    "Lập Biên bản giao nhận tiền và giao tiền tiêu hủy cho từng cụm",
+    "Lập lệnh điều chuyển gửi Cục Phát hành và Kho quỹ và Vụ Tài chính - Kế toán",
+    "Kiểm đếm tờ (miếng) toàn bộ trước khi giao",
+    "Niêm phong lại toàn bộ bao (thùng) tiền tiêu hủy"
+   ],
+   "c": "Điều 14 khoản 2",
+   "ex": "Căn cứ chứng từ xuất kho tiền tiêu hủy, Kho tiền Trung ương lập Biên bản giao nhận tiền và tiến hành giao tiền tiêu hủy cho từng cụm tiêu hủy."
+  },
+  {
+   "ch": "IV",
+   "ty": "nho",
+   "q": "Thủ kho tiền tiêu hủy phải mở những sổ sách nào theo Điều 23?",
+   "o": [
+    "Sổ tổng hợp, sổ chi tiết theo dõi nhập, xuất các loại tiền và thẻ kho từng loại tiền",
+    "Chỉ sổ quỹ tổng hợp theo dõi giá trị tồn kho cuối ngày",
+    "Sổ theo dõi tiền thừa, thiếu, sổ theo dõi tạm ứng của Tổ 2 và sổ theo dõi tiền giả phát hiện qua kiểm đếm",
+    "Sổ theo dõi phế liệu và sổ kế toán thu, chi tiêu hủy"
+   ],
+   "c": "Điều 23 khoản 2",
+   "ex": "Thủ kho tiền tiêu hủy mở sổ tổng hợp và sổ chi tiết theo dõi nhập, xuất các loại tiền; mở thẻ kho theo dõi từng loại tiền bảo quản trong kho."
+  },
+  {
+   "ch": "V",
+   "ty": "nho",
+   "q": "Khi làm việc trong khu vực tiêu hủy, công chức, người lao động phải thực hiện nội quy, quy chế do ai quy định?",
+   "o": [
+    "Chủ tịch Hội đồng tiêu hủy",
+    "Chủ tịch Hội đồng giám sát",
+    "Thống đốc NHNN",
+    "Tổ trưởng tổ chuyên trách"
+   ],
+   "c": "Điều 25 khoản 1; Điều 8 khoản 2",
+   "ex": "Công chức, người lao động có trách nhiệm thực hiện đúng nội quy, quy chế làm việc do Chủ tịch Hội đồng tiêu hủy quy định và các quy định tại Thông tư."
+  },
+  {
+   "ch": "V",
+   "ty": "nho",
+   "q": "Tập thể, cá nhân có thành tích xuất sắc trong công tác tiêu hủy tiền được khen thưởng theo quy định nào?",
+   "o": [
+    "Quy định hiện hành của NHNN về công tác thi đua, khen thưởng",
+    "Mức thưởng tính theo tỷ lệ giá trị tiền đã tiêu hủy",
+    "Quyết định riêng của Chủ tịch Hội đồng giám sát",
+    "Quy chế khen thưởng do Hội đồng tiêu hủy ban hành cho mỗi đợt tiêu hủy tiền"
+   ],
+   "c": "Điều 27 khoản 1",
+   "ex": "Tập thể, cá nhân có thành tích xuất sắc trong công tác tiêu hủy tiền được khen thưởng theo quy định hiện hành của NHNN về công tác thi đua, khen thưởng."
+  },
+  {
+   "ch": "V",
+   "ty": "nho",
+   "q": "Ai chịu trách nhiệm tổ chức thực hiện Thông tư về tiêu hủy tiền?",
+   "o": [
+    "Thủ trưởng các đơn vị thuộc NHNN",
+    "Chủ tịch Hội đồng tiêu hủy",
+    "Chánh Thanh tra NHNN và Chủ tịch Hội đồng giám sát",
+    "Giám đốc NHNN chi nhánh Khu vực"
+   ],
+   "c": "Điều 33",
+   "ex": "Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam chịu trách nhiệm tổ chức thực hiện Thông tư này.",
+   "am": "Sửa đổi bởi TT 42/2026"
+  },
+  {
+   "ch": "III",
+   "ty": "nho",
+   "q": "Theo Điều 15 khoản 1 (đã sửa đổi), trường hợp Tổ trưởng kiêm Thủ kho tiền tiêu hủy thì thực hiện như thế nào?",
+   "o": [
+    "Thực hiện nhiệm vụ như Thủ kho",
+    "Phải cử người khác làm Thủ kho",
+    "Phải được Thống đốc chấp thuận bằng văn bản",
+    "Chỉ thực hiện nhiệm vụ của Tổ trưởng"
+   ],
+   "c": "Điều 15 khoản 1",
+   "ex": "Trường hợp Tổ trưởng kiêm Thủ kho tiền tiêu hủy thì thực hiện nhiệm vụ như Thủ kho.",
+   "am": "Sửa đổi bởi TT 42/2026"
+  },
+  {
+   "ch": "III",
+   "ty": "order",
+   "k": "order",
+   "q": "Sắp xếp các bước từ khi có kế hoạch đến khi tiền được cắt hủy.",
+   "items": [
+    "Thống đốc phê duyệt kế hoạch tiêu hủy tiền",
+    "Cục Phát hành và Kho quỹ lập lệnh điều chuyển",
+    "Vụ Tài chính - Kế toán (Cụm Bắc) lập phiếu xuất kho",
+    "Kho tiền Trung ương lập biên bản giao nhận, giao tiền cho cụm",
+    "Thủ kho tiền tiêu hủy nhận nguyên niêm phong, nhập kho tiền tiêu hủy",
+    "Lấy ngẫu nhiên theo tỷ lệ, Tổ 1 giao Tổ 2 kiểm đếm tờ (miếng)",
+    "Tổ 3 cắt hủy và thu hồi phế liệu"
+   ],
+   "c": "Điều 3; Điều 14; Điều 15; Điều 16; Điều 17",
+   "ex": "Kế hoạch được duyệt → lệnh điều chuyển → phiếu xuất kho → Kho tiền Trung ương giao → nhập kho tiền tiêu hủy → kiểm đếm mẫu theo tỷ lệ → cắt hủy.",
+   "am": "Sửa đổi bởi TT 42/2026"
+  },
+  {
+   "ch": "III",
+   "ty": "order",
+   "k": "order",
+   "q": "Sắp xếp các bước kiểm ngân thực hiện với một bó tiền được giao kiểm đếm.",
+   "items": [
+    "Nhận đủ số bó (túi) được giao và ký nhận trên sổ giao nhận nội bộ",
+    "Kiểm đếm xác định số tờ, phát hiện thừa thiếu, lẫn loại, tiền giả",
+    "Hủy giấy niêm phong cũ của bó (túi) đủ số, đúng loại",
+    "Đóng bó (túi) và dán niêm phong mới ghi đủ các yếu tố",
+    "Cuối ngày giao lại Tổ trưởng Tổ 2 và ký nhận trên sổ giao nhận"
+   ],
+   "c": "Điều 16 khoản 3, 4, 8",
+   "ex": "Kiểm ngân nhận đủ số bó và ký nhận → kiểm đếm → bó đủ, đúng thì hủy niêm phong cũ → đóng bó, niêm phong mới → cuối ngày giao lại Tổ trưởng Tổ 2.",
+   "am": "Sửa đổi bởi TT 42/2026"
+  },
+  {
+   "ch": "IV",
+   "ty": "order",
+   "k": "order",
+   "q": "Sắp xếp các bước tổng hợp, báo cáo kết quả tiêu hủy tiền trong năm.",
+   "items": [
+    "Hằng tháng, cụm tiêu hủy báo cáo Chủ tịch Hội đồng tiêu hủy và gửi Hội đồng giám sát",
+    "Kết thúc năm, cụm lập biên bản kết quả tiêu hủy hoàn toàn có xác nhận của Hội đồng giám sát",
+    "Hội đồng tiêu hủy chủ trì cùng Hội đồng giám sát báo cáo tổng kết trình Thống đốc"
+   ],
+   "c": "Điều 24",
+   "ex": "Báo cáo hằng tháng → biên bản kết quả tiêu hủy hoàn toàn cuối năm → báo cáo sơ kết, tổng kết trình Thống đốc.",
+   "am": "Sửa đổi bởi TT 42/2026"
+  },
+  {
+   "ch": "II",
+   "ty": "match",
+   "k": "match",
+   "q": "Nối mỗi tổ chuyên trách với nhiệm vụ chính của tổ.",
+   "pairs": [
+    [
+     "Tổ 1",
+     "Giao nhận và bảo quản tiền trong kho tiền tiêu hủy"
+    ],
+    [
+     "Tổ 2",
+     "Kiểm đếm tờ (miếng), xử lý thừa, thiếu, lẫn loại, tiền giả"
+    ],
+    [
+     "Tổ 3",
+     "Cắt hủy tiền bằng thiết bị chuyên dùng, thu hồi phế liệu"
+    ],
+    [
+     "Tổ 4",
+     "Hành chính, kế toán, thống kê, theo dõi xuất nhập phế liệu"
+    ]
+   ],
+   "c": "Điều 10",
+   "ex": "Tổ 1 giao nhận, bảo quản; Tổ 2 kiểm đếm; Tổ 3 cắt hủy; Tổ 4 tổng hợp."
+  },
+  {
+   "ch": "III",
+   "ty": "match",
+   "k": "match",
+   "q": "Nối mỗi thành viên quản lý kho với chìa khóa và trách nhiệm đặc trưng.",
+   "pairs": [
+    [
+     "Ủy viên Hội đồng tiêu hủy",
+     "Một ổ khóa cánh ngoài; chịu trách nhiệm tổ chức quản lý, an toàn kho"
+    ],
+    [
+     "Nhân viên kế toán kho tiền",
+     "Một ổ khóa cánh ngoài; đối chiếu sổ kế toán với sổ quỹ"
+    ],
+    [
+     "Thủ kho tiền tiêu hủy",
+     "Một ổ khóa cánh trong; xuất, nhập tiền theo chứng từ hợp lệ"
+    ]
+   ],
+   "c": "Điều 13 khoản 2 điểm c",
+   "ex": "Ủy viên và kế toán kho mỗi người giữ một ổ khóa lớp cánh ngoài; thủ kho giữ một ổ khóa lớp cánh trong."
+  },
+  {
+   "ch": "V",
+   "ty": "match",
+   "k": "match",
+   "q": "Nối mỗi đơn vị với trách nhiệm trong công tác tiêu hủy tiền.",
+   "pairs": [
+    [
+     "Cục Phát hành và Kho quỹ",
+     "Trình phương án bán phế liệu tiền tiêu hủy"
+    ],
+    [
+     "Thanh tra NHNN",
+     "Chủ trì giám sát tiêu hủy tiền"
+    ],
+    [
+     "Vụ Tổ chức cán bộ",
+     "Đầu mối tuyển dụng lao động hợp đồng, trưng tập công chức"
+    ],
+    [
+     "Vụ Tài chính - Kế toán",
+     "Tổ chức công tác kế toán tiêu hủy tiền"
+    ]
+   ],
+   "c": "Điều 28–31",
+   "ex": "Phân công trách nhiệm theo Chương VI Thông tư.",
+   "am": "Sửa đổi bởi TT 42/2026"
+  },
+  {
+   "ch": "III",
+   "ty": "match",
+   "k": "match",
+   "q": "Nối mỗi mệnh giá tiền kim loại với số túi trong một thùng.",
+   "pairs": [
+    [
+     "5.000 đồng",
+     "50 túi"
+    ],
+    [
+     "1.000 đồng",
+     "75 túi"
+    ],
+    [
+     "200 đồng",
+     "100 túi"
+    ]
+   ],
+   "c": "Điều 16 khoản 4 điểm b",
+   "ex": "5.000 đồng: 50 túi; 2.000, 1.000, 500 đồng: 75 túi; 200 đồng: 100 túi."
+  }
+ ],
+ "crit": {
+  "sum": "Thông tư thiết kế quy trình tiêu hủy tiền theo nguyên tắc kiểm soát chéo chặt chẽ. Lần sửa đổi 2026 chủ yếu cập nhật tên đơn vị, chuyển chức năng giám sát sang Thanh tra NHNN và điều chỉnh một số bước kiểm đếm, báo cáo. Phần còn bỏ ngỏ nằm ở cân bằng quyền lực trong Hội đồng tiêu hủy, các tiêu chí kỹ thuật và việc ứng dụng công nghệ.",
+  "items": [
+   {
+    "t": "plus",
+    "title": "Phân tách nhiệm vụ và kiểm soát chéo nhiều lớp",
+    "cite": "Điều 10; Điều 13 khoản 2; Điều 16 khoản 7, 8",
+    "body": "Bốn tổ chuyên trách độc lập (giao nhận, kiểm đếm, cắt hủy, tổng hợp). Kho tiền ba thành viên, mỗi người giữ một ổ khóa. Mọi lần giao nhận đều lập biên bản, cửa phòng niêm phong có chữ ký của tổ trưởng và công chức giám sát. Không một cá nhân nào kiểm soát trọn vẹn một luồng tiền, giảm đáng kể rủi ro thông đồng."
+   },
+   {
+    "t": "plus",
+    "title": "Kiểm đếm theo tỷ lệ dựa trên dữ liệu rủi ro",
+    "cite": "Điều 4 khoản 2; Điều 15 khoản 3",
+    "body": "Thay vì kiểm đếm toàn bộ, tỷ lệ kiểm đếm từng loại tiền được quyết định căn cứ kết quả thừa, thiếu của năm, và mẫu được lấy ngẫu nhiên. Cách tiếp cận này tiết kiệm nguồn lực và tập trung vào nơi có rủi ro."
+   },
+   {
+    "t": "plus",
+    "title": "Giám sát độc lập hơn",
+    "cite": "Điều 29; khoản 3 Điều 13 TT 42/2026",
+    "body": "Chức năng chủ trì giám sát chuyển từ Vụ Kiểm toán nội bộ sang Thanh tra NHNN, cùng với Hội đồng giám sát tách biệt khỏi Hội đồng tiêu hủy. Bên thực hiện và bên giám sát được tách rõ."
+   },
+   {
+    "t": "issue",
+    "title": "Quyền lực tập trung ở một đơn vị",
+    "cite": "Điều 3 khoản 1; Điều 4 khoản 2; Điều 6 khoản 1 điểm a; Điều 8; Điều 28 khoản 1",
+    "body": "Cục Phát hành và Kho quỹ xây dựng định mức và kế hoạch tiêu hủy. Cục trưởng vừa trình kế hoạch, vừa làm Chủ tịch Hội đồng tiêu hủy, vừa ban hành nội quy, vừa tự quyết định tỷ lệ kiểm đếm, tức mức độ kiểm tra đối với chính hoạt động do mình tổ chức.",
+    "rec": "Yêu cầu Hội đồng giám sát có ý kiến trước khi Chủ tịch quyết định tỷ lệ kiểm đếm, hoặc báo cáo Thống đốc tỷ lệ áp dụng kèm căn cứ."
+   },
+   {
+    "t": "gap",
+    "title": "Không có sàn tối thiểu cho tỷ lệ kiểm đếm",
+    "cite": "Điều 4 khoản 2; Điều 8 khoản 3",
+    "body": "Thông tư không quy định tỷ lệ kiểm đếm tối thiểu hay phương pháp xác định tỷ lệ từ kết quả thừa, thiếu. Về lý thuyết, tỷ lệ có thể được đặt rất thấp nếu năm trước ít sai lệch. Khi đó khả năng phát hiện sai sót giảm, trong khi tiền đã cắt hủy thì không thể kiểm tra lại.",
+    "rec": "Quy định tỷ lệ sàn cho từng loại tiền và công thức tham chiếu, ví dụ tăng tỷ lệ khi tỷ lệ thừa, thiếu vượt ngưỡng."
+   },
+   {
+    "t": "gap",
+    "title": "Dùng chính tiền tiêu hủy làm quỹ tạm ứng bù thiếu",
+    "cite": "Điều 16 khoản 6",
+    "body": "Tổ 2 được tạm ứng tiền tiêu hủy để bù vào bó thiếu tờ, lẫn loại, tiền giả. Thông tư không quy định hạn mức tạm ứng tối đa và không quy định thời điểm đối chiếu ngoài kiểm kê hằng ngày. Số tạm ứng còn lại chỉ bị tiêu hủy vào cuối đợt, nên có một lượng tiền thật tồn tại ngoài quy trình chính trong thời gian dài.",
+    "rec": "Đặt hạn mức tạm ứng theo mệnh giá và yêu cầu đối chiếu số dư tạm ứng trong biên bản cuối ngày."
+   },
+   {
+    "t": "gap",
+    "title": "Thiếu tiêu chuẩn kỹ thuật cho phế liệu và yêu cầu môi trường",
+    "cite": "Điều 4 khoản 4; Điều 5; Điều 28 khoản 6",
+    "body": "Văn bản chỉ yêu cầu phế liệu “không thể khôi phục để sử dụng lại như tiền”, không quy định kích thước mảnh cắt hay phương pháp kiểm tra. Phế liệu được bán theo phương án do Cục trình. Tiền polymer và kim loại có đặc điểm xử lý môi trường riêng nhưng không được đề cập.",
+    "rec": "Ban hành tiêu chí kỹ thuật phế liệu (kích thước tối đa, kiểm tra mẫu) và yêu cầu xử lý, tái chế phù hợp quy định bảo vệ môi trường."
+   },
+   {
+    "t": "gap",
+    "title": "Nhiều nội dung kỹ thuật giao văn bản hướng dẫn nội bộ",
+    "cite": "Điều 17 khoản 5; Điều 18 khoản 4; Điều 21 khoản 2; Điều 28 khoản 4",
+    "body": "Quy trình máy hủy, yêu cầu trang thiết bị, phương pháp kiểm kê, sổ sách và báo cáo đều do Cục trưởng hướng dẫn hoặc “theo quy định hiện hành”. Điều này hợp lý về mặt bảo mật (Điều 4 khoản 1), nhưng khiến Thông tư khó được đánh giá độc lập và phụ thuộc vào chất lượng văn bản hướng dẫn."
+   },
+   {
+    "t": "issue",
+    "title": "Quy trình chủ yếu thủ công, chưa tính đến công nghệ giám sát",
+    "cite": "Điều 16; Điều 18; Điều 23",
+    "body": "Toàn bộ quy trình dựa vào sổ sách, biên bản giấy và niêm phong có chữ ký. Điều 18 cấm cá nhân mang thiết bị ghi hình nhưng không quy định hệ thống camera giám sát của đơn vị, máy đếm và phân loại tự động hay sổ kế toán điện tử, là các công cụ có thể tăng mạnh khả năng truy vết.",
+    "rec": "Bổ sung yêu cầu camera giám sát liên tục khu vực kiểm đếm, cắt hủy, lưu trữ có thời hạn, và lộ trình số hóa sổ sách."
+   },
+   {
+    "t": "gap",
+    "title": "Không có giới hạn thời gian lưu kho trước khi hủy",
+    "cite": "Điều 15; Điều 20 khoản 1",
+    "body": "Thông tư không quy định thời gian tối đa từ khi nhận tiền từ Kho tiền Trung ương đến khi cắt hủy. Với tiền lẫn loại, tiền giả, Phó Chủ tịch phụ trách cụm tự quyết định “thời điểm tiêu hủy trong năm”. Tiền chờ hủy càng lâu thì rủi ro bảo quản càng cao.",
+    "rec": "Quy định thời hạn lưu kho tối đa hoặc yêu cầu báo cáo Hội đồng giám sát số tồn chờ hủy theo tuổi kho."
+   },
+   {
+    "t": "gap",
+    "title": "Văn bản hợp nhất không cho thấy nội dung đã bị bãi bỏ",
+    "cite": "Điều 16 khoản 8 điểm đ",
+    "body": "Điểm đ chỉ ghi “(được bãi bỏ)” mà không nêu nội dung cũ. Người học và người thực thi phải tra lại văn bản gốc mới hiểu được thay đổi."
+   }
+  ],
+  "discuss": [
+   "Có nên để Chủ tịch Hội đồng tiêu hủy tự quyết định tỷ lệ kiểm đếm, hay quyền này nên thuộc về Hội đồng giám sát hoặc Thống đốc?",
+   "Chuyển giám sát từ Vụ Kiểm toán nội bộ sang Thanh tra NHNN thay đổi bản chất giám sát như thế nào (kiểm toán nội bộ hay thanh tra hành chính)?",
+   "Công nghệ nào (camera, máy phân loại, sổ điện tử) có thể thay thế một phần quy trình niêm phong, chữ ký mà không làm giảm an toàn?",
+   "Phế liệu tiền polymer nên được bán, tái chế hay tiêu hủy hoàn toàn?"
+  ]
+ }
+}

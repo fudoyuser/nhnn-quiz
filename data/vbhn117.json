@@ -1,0 +1,2010 @@
+{
+ "id": "vbhn117",
+ "no": "117/2026/VBHN-NĐ-NHNN",
+ "title": "Nghị định về quản lý hoạt động kinh doanh vàng",
+ "date": "28/10/2026",
+ "signer": "Phó Thống đốc Đoàn Thái Sơn",
+ "amTag": "Sửa đổi 2025–2026",
+ "amChip": "Điểm sửa đổi 2025–2026",
+ "amLead": "nội dung được Nghị định 232/2025 hoặc Nghị định 390/2026 sửa đổi, bổ sung",
+ "src": "đối chiếu với Nghị định 24/2012/NĐ-CP, Nghị định 232/2025/NĐ-CP và Nghị định 390/2026/NĐ-CP",
+ "chain": [
+  [
+   "Nghị định 24/2012/NĐ-CP",
+   "ngày 03/4/2012, hiệu lực từ 25/5/2012"
+  ],
+  [
+   "Nghị định 232/2025/NĐ-CP",
+   "ngày 26/8/2025, hiệu lực từ 10/10/2025"
+  ],
+  [
+   "Nghị định 390/2026/NĐ-CP",
+   "ngày 16/10/2026, hiệu lực từ 16/10/2026"
+  ]
+ ],
+ "chapters": {
+  "I": "Chương I · Những quy định chung",
+  "III": "Chương III · Sản xuất, mua, bán vàng miếng",
+  "IV": "Chương IV · Xuất khẩu, nhập khẩu vàng",
+  "V": "Chương V · Quản lý nhà nước",
+  "VI": "Chương VI–VII · Vi phạm, thi hành",
+  "X": "Thông tin văn bản hợp nhất",
+  "PB": "Phản biện · Câu hỏi phân tích"
+ },
+ "qs": [
+  {
+   "ty": "nho",
+   "ch": "X",
+   "q": "Văn bản hợp nhất 117/2026/VBHN-NĐ-NHNN hợp nhất những nghị định nào?",
+   "o": [
+    "Nghị định 24/2012/NĐ-CP, Nghị định 232/2025/NĐ-CP và Nghị định 390/2026/NĐ-CP",
+    "Nghị định 174/1999/NĐ-CP, Nghị định 64/2003/NĐ-CP và Nghị định 24/2012/NĐ-CP",
+    "Nghị định 24/2012/NĐ-CP và Nghị định 232/2025/NĐ-CP",
+    "Nghị định 64/2003/NĐ-CP và Nghị định 390/2026/NĐ-CP"
+   ],
+   "c": "Phần mở đầu VBHN",
+   "ex": "Nghị định số 24/2012/NĐ-CP ngày 03 tháng 4 năm 2012 … được sửa đổi, bổ sung bởi: 1. Nghị định số 232/2025/NĐ-CP … 2. Nghị định số 390/2026/NĐ-CP …"
+  },
+  {
+   "ty": "nho",
+   "ch": "X",
+   "q": "Nghị định 24/2012/NĐ-CP về quản lý hoạt động kinh doanh vàng có hiệu lực từ ngày nào?",
+   "o": [
+    "25/5/2012",
+    "03/4/2012",
+    "01/7/2012",
+    "09/12/2012"
+   ],
+   "c": "Điều 22",
+   "ex": "Nghị định này có hiệu lực thi hành kể từ ngày 25 tháng 5 năm 2012 …"
+  },
+  {
+   "ty": "nho",
+   "ch": "X",
+   "q": "Nghị định 232/2025/NĐ-CP sửa đổi Nghị định 24/2012 có hiệu lực từ ngày nào?",
+   "o": [
+    "10/10/2025",
+    "26/8/2025",
+    "01/01/2026",
+    "16/10/2025"
+   ],
+   "c": "Điều 3 khoản 1 NĐ 232/2025",
+   "ex": "Nghị định này có hiệu lực thi hành từ ngày 10 tháng 10 năm 2025."
+  },
+  {
+   "ty": "nho",
+   "ch": "X",
+   "q": "Nghị định 390/2026/NĐ-CP sửa đổi Nghị định 24/2012 có hiệu lực từ ngày nào?",
+   "o": [
+    "16/10/2026",
+    "10/10/2026",
+    "28/10/2026",
+    "01/12/2026"
+   ],
+   "c": "Điều 7 khoản 1 NĐ 390/2026",
+   "ex": "Nghị định này có hiệu lực thi hành từ ngày 16 tháng 10 năm 2026."
+  },
+  {
+   "ty": "nho",
+   "ch": "X",
+   "q": "Nghị định 24/2012/NĐ-CP thay thế những văn bản nào?",
+   "o": [
+    "Nghị định 174/1999/NĐ-CP và Nghị định 64/2003/NĐ-CP",
+    "Nghị định 64/2003/NĐ-CP và Quyết định 3/2006/QĐ-NHNN",
+    "Chỉ Nghị định 174/1999/NĐ-CP",
+    "Nghị định 161/2006/NĐ-CP"
+   ],
+   "c": "Điều 22",
+   "ex": "… thay thế Nghị định số 174/1999/NĐ-CP ngày 09 tháng 12 năm 1999 của Chính phủ về quản lý hoạt động kinh doanh vàng và Nghị định số 64/2003/NĐ-CP ngày 11 tháng 6 năm 2003 …"
+  },
+  {
+   "ty": "nho",
+   "ch": "X",
+   "q": "Theo Nghị định 232/2025, Công ty SJC được phép gia công lại loại vàng miếng nào?",
+   "o": [
+    "Vàng miếng SJC do chính Công ty SJC sản xuất trước ngày NĐ có hiệu lực, bị trầy xước hoặc bị đóng thêm ký hiệu lạ",
+    "Vàng miếng của mọi thương hiệu trong nước bị trầy xước, nếu khách hàng đề nghị và có hóa đơn mua hợp lệ",
+    "Vàng miếng SJC sản xuất sau ngày NĐ có hiệu lực, khi bị lỗi kỹ thuật được phát hiện trong quá trình lưu thông",
+    "Vàng nguyên liệu nhập khẩu có hàm lượng từ 99,5% trở lên, để chuyển thành vàng miếng mang thương hiệu SJC"
+   ],
+   "c": "Điều 3 khoản 2 NĐ 232/2025",
+   "ex": "Công ty SJC được phép gia công lại vàng miếng từ vàng miếng SJC do Công ty SJC đã sản xuất, gia công trước ngày Nghị định này có hiệu lực thi hành, có ít nhất một trong các đặc điểm: bị trầy xước; bị đóng thêm các dấu hiệu, ký hiệu không phải của Công ty SJC.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ty": "nho",
+   "ch": "X",
+   "q": "Từ ngày Nghị định 390/2026 có hiệu lực, Giấy chứng nhận đủ điều kiện sản xuất vàng trang sức, mỹ nghệ đã cấp trước đó có giá trị thế nào?",
+   "o": [
+    "Không còn là điều kiện để thực hiện hoạt động sản xuất vàng trang sức, mỹ nghệ",
+    "Tiếp tục có hiệu lực đến hết thời hạn ghi trên Giấy chứng nhận, sau đó phải cấp lại",
+    "Được chuyển đổi tự động thành Giấy phép sản xuất vàng miếng nếu đủ vốn điều lệ",
+    "Hết hiệu lực, cơ sở phải ngừng sản xuất cho đến khi được Bộ Công Thương cấp phép"
+   ],
+   "c": "Điều 7 khoản 2 NĐ 390/2026",
+   "ex": "Giấy chứng nhận đủ điều kiện sản xuất vàng trang sức, mỹ nghệ do Ngân hàng Nhà nước cấp trước ngày Nghị định này có hiệu lực thi hành không còn là điều kiện để tổ chức, cá nhân thực hiện hoạt động sản xuất vàng trang sức, mỹ nghệ.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ty": "nho",
+   "ch": "X",
+   "q": "Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện sản xuất vàng trang sức, mỹ nghệ nộp trước ngày NĐ 390/2026 có hiệu lực mà chưa giải quyết thì xử lý thế nào?",
+   "o": [
+    "NHNN chấm dứt việc giải quyết và thông báo cho người nộp hồ sơ",
+    "NHNN tiếp tục giải quyết theo quy định trước ngày NĐ có hiệu lực",
+    "NHNN chuyển hồ sơ sang Bộ Công Thương để tiếp tục giải quyết",
+    "Hồ sơ được coi là đã chấp thuận, NHNN cấp Giấy chứng nhận ngay"
+   ],
+   "c": "Điều 7 khoản 3 NĐ 390/2026",
+   "ex": "… chưa được giải quyết thì Ngân hàng Nhà nước chấm dứt việc giải quyết và thông báo cho tổ chức, cá nhân nộp hồ sơ. Phí, lệ phí đã nộp, nếu có, được xử lý theo quy định của pháp luật về phí, lệ phí.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ty": "nho",
+   "ch": "X",
+   "q": "Giấy phép xuất khẩu, nhập khẩu vàng và hạn mức đã được NHNN cấp trước ngày NĐ 390/2026 có hiệu lực được xử lý thế nào?",
+   "o": [
+    "Tiếp tục thực hiện theo nội dung, thời hạn ghi tại giấy phép, hạn mức, trừ khi bị điều chỉnh, thu hồi",
+    "Hết hiệu lực từ ngày 16/10/2026, đơn vị phải nộp hồ sơ xin cấp mới theo quy định của Nghị định 390",
+    "Tiếp tục thực hiện nhưng phải làm thủ tục xác nhận lại với NHNN trong thời hạn 12 tháng",
+    "Được tự động gia hạn thêm 01 năm kể từ ngày hết hạn ghi trên giấy phép hoặc văn bản cấp hạn mức"
+   ],
+   "c": "Điều 7 khoản 4 NĐ 390/2026",
+   "ex": "… được tiếp tục thực hiện theo nội dung, thời hạn ghi tại giấy phép, hạn mức, trừ trường hợp bị điều chỉnh, thu hồi theo quy định của pháp luật.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Nghị định về quản lý hoạt động kinh doanh vàng KHÔNG áp dụng đối với hoạt động nào?",
+   "o": [
+    "Khai thác và tinh luyện vàng của doanh nghiệp khai thác vàng",
+    "Sản xuất vàng miếng của ngân hàng thương mại được cấp phép",
+    "Kinh doanh vàng trên tài khoản và hoạt động phái sinh về vàng",
+    "Xuất khẩu, nhập khẩu vàng nguyên liệu của doanh nghiệp"
+   ],
+   "c": "Điều 1 khoản 2",
+   "ex": "Các quy định của Nghị định này không áp dụng đối với hoạt động khai thác và tinh luyện vàng của doanh nghiệp khai thác vàng."
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Phạm vi điều chỉnh nêu rõ “các hoạt động kinh doanh vàng khác” bao gồm cả những hoạt động nào?",
+   "o": [
+    "Kinh doanh vàng trên tài khoản và hoạt động phái sinh về vàng",
+    "Cầm đồ bằng vàng và cho vay, huy động vốn bằng vàng",
+    "Khai thác, tinh luyện vàng của doanh nghiệp và chế tác vàng trang sức, mỹ nghệ",
+    "Ký gửi vàng và mua bán vàng qua đại lý ủy nhiệm"
+   ],
+   "c": "Điều 1 khoản 1",
+   "ex": "… các hoạt động kinh doanh vàng khác, bao gồm cả hoạt động kinh doanh vàng trên tài khoản và hoạt động phái sinh về vàng.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Vàng trang sức, mỹ nghệ là sản phẩm vàng có hàm lượng tối thiểu bao nhiêu?",
+   "o": [
+    "Từ 8 Kara (tương đương 33,33%) trở lên",
+    "Từ 10 Kara (tương đương 41,67%) trở lên",
+    "Từ 14 Kara (tương đương 58,33%) trở lên",
+    "Từ 18 Kara (tương đương 75%) trở lên"
+   ],
+   "c": "Điều 3 khoản 1",
+   "ex": "Vàng trang sức, mỹ nghệ là các sản phẩm vàng có hàm lượng từ 8 Kara (tương đương 33,33%) trở lên, đã qua gia công, chế tác để phục vụ nhu cầu trang sức, trang trí mỹ thuật."
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Theo định nghĩa sau sửa đổi, vàng miếng có ký mã hiệu của ai?",
+   "o": [
+    "Doanh nghiệp và ngân hàng thương mại được NHNN cho phép sản xuất",
+    "Riêng Công ty SJC, là thương hiệu vàng miếng quốc gia duy nhất",
+    "Mọi doanh nghiệp có Giấy phép kinh doanh mua, bán vàng miếng",
+    "Tổ chức tín dụng có vốn điều lệ từ 3.000 tỷ đồng trở lên"
+   ],
+   "c": "Điều 3 khoản 2",
+   "ex": "Vàng miếng là sản phẩm vàng được dập thành miếng, có đóng chữ, số chỉ khối lượng, chất lượng, có ký mã hiệu của doanh nghiệp và ngân hàng thương mại được Ngân hàng Nhà nước cho phép sản xuất; vàng miếng do Ngân hàng Nhà nước tổ chức sản xuất trong từng thời kỳ.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Vàng nguyên liệu được định nghĩa là gì?",
+   "o": [
+    "Vàng dưới dạng khối, thỏi, hạt, miếng và các loại vàng khác",
+    "Vàng có hàm lượng từ 99,99% trở lên, chưa qua gia công chế tác",
+    "Vàng chưa qua tinh luyện, được khai thác trực tiếp tại mỏ vàng",
+    "Vàng trang sức dạng bán thành phẩm và vàng dưới dạng muối vàng"
+   ],
+   "c": "Điều 3 khoản 3",
+   "ex": "Vàng nguyên liệu là vàng dưới dạng khối, thỏi, hạt, miếng và các loại vàng khác."
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Hoạt động kinh doanh vàng trên tài khoản được hiểu là gì?",
+   "o": [
+    "Kinh doanh vàng qua tài khoản, giao dịch ký quỹ, giá trị ròng định giá lại liên tục theo giá vàng",
+    "Gửi vàng vào tài khoản tiết kiệm tại ngân hàng, hưởng lãi theo giá trị vàng tại ngày đáo hạn",
+    "Mua bán vàng miếng qua ứng dụng ngân hàng, có giao nhận vàng vật chất tại quầy giao dịch",
+    "Thanh toán mua bán vàng bằng chuyển khoản qua tài khoản thanh toán của khách hàng"
+   ],
+   "c": "Điều 3 khoản 4",
+   "ex": "Hoạt động kinh doanh vàng trên tài khoản là hoạt động kinh doanh vàng qua tài khoản, dưới hình thức giao dịch ký quỹ và giá trị ròng được định giá lại liên tục theo biến động của giá vàng."
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Cơ quan nào thay mặt Chính phủ thống nhất quản lý các hoạt động kinh doanh vàng?",
+   "o": [
+    "Ngân hàng Nhà nước",
+    "Bộ Công Thương",
+    "Bộ Tài chính",
+    "Bộ Khoa học và Công nghệ"
+   ],
+   "c": "Điều 4 khoản 2",
+   "ex": "Ngân hàng Nhà nước là cơ quan thay mặt Chính phủ thống nhất quản lý các hoạt động kinh doanh vàng theo quy định tại Nghị định này."
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Sau sửa đổi bởi NĐ 390/2026, quản lý hoạt động kinh doanh vàng nhằm mục tiêu gì?",
+   "o": [
+    "Phát triển ổn định và bền vững thị trường vàng",
+    "Chống vàng hóa nền kinh tế và ổn định tỷ giá",
+    "Huy động nguồn lực vàng trong dân vào sản xuất",
+    "Tăng quy mô dự trữ ngoại hối nhà nước bằng vàng"
+   ],
+   "c": "Điều 4 khoản 4",
+   "ex": "Quản lý hoạt động kinh doanh vàng nhằm phát triển ổn định và bền vững thị trường vàng.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Hoạt động sản xuất vàng miếng, kinh doanh mua, bán vàng miếng được xác định là gì?",
+   "o": [
+    "Kinh doanh có điều kiện, phải được NHNN cấp Giấy phép",
+    "Độc quyền nhà nước, chỉ NHNN được tổ chức thực hiện",
+    "Kinh doanh tự do, chỉ cần Giấy chứng nhận đăng ký doanh nghiệp",
+    "Thuộc danh mục hạn chế kinh doanh, cần Thủ tướng cho phép"
+   ],
+   "c": "Điều 4 khoản 6",
+   "ex": "Hoạt động sản xuất vàng miếng, kinh doanh mua, bán vàng miếng là hoạt động kinh doanh có điều kiện và phải được Ngân hàng Nhà nước cấp Giấy phép sản xuất vàng miếng, Giấy phép kinh doanh mua, bán vàng miếng.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Theo NĐ 390/2026, hoạt động sản xuất, gia công, kinh doanh mua, bán vàng trang sức, mỹ nghệ có phải là ngành, nghề đầu tư kinh doanh có điều kiện không?",
+   "o": [
+    "Không phải ngành, nghề đầu tư kinh doanh có điều kiện",
+    "Có, phải có Giấy chứng nhận đủ điều kiện sản xuất do NHNN cấp trước khi hoạt động",
+    "Có, phải có Giấy phép của Bộ Công Thương",
+    "Là hoạt động thuộc danh mục hạn chế kinh doanh"
+   ],
+   "c": "Điều 4 khoản 7",
+   "ex": "Hoạt động sản xuất, gia công, kinh doanh mua, bán vàng trang sức, mỹ nghệ không phải là ngành, nghề đầu tư kinh doanh có điều kiện.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Hoạt động phái sinh về vàng của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài thực hiện theo quy định nào?",
+   "o": [
+    "Điều 112 Luật Các tổ chức tín dụng",
+    "Điều 11a Nghị định 24/2012",
+    "Luật Chứng khoán",
+    "Quyết định riêng của Thủ tướng Chính phủ"
+   ],
+   "c": "Điều 4 khoản 8",
+   "ex": "Hoạt động phái sinh về vàng của các ngân hàng thương mại, chi nhánh ngân hàng nước ngoài thực hiện theo Điều 112 Luật Các tổ chức tín dụng.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Tổ chức, cá nhân chỉ được thực hiện “các hoạt động kinh doanh vàng khác” khi nào?",
+   "o": [
+    "Sau khi được Thủ tướng Chính phủ cho phép và NHNN cấp Giấy phép",
+    "Sau khi được NHNN cấp Giấy phép, không cần ý kiến Thủ tướng",
+    "Sau khi đăng ký với Bộ Công Thương và được NHNN chấp thuận",
+    "Sau khi có Giấy chứng nhận đăng ký doanh nghiệp phù hợp"
+   ],
+   "c": "Điều 4 khoản 9",
+   "ex": "Tổ chức, cá nhân chỉ được thực hiện các hoạt động kinh doanh vàng khác sau khi được Thủ tướng Chính phủ cho phép và được Ngân hàng Nhà nước cấp Giấy phép."
+  },
+  {
+   "ty": "nho",
+   "ch": "I",
+   "q": "Mua, bán vàng có giá trị từ bao nhiêu trong ngày của một khách hàng thì phải thanh toán không dùng tiền mặt?",
+   "o": [
+    "Từ 05 triệu đồng trở lên",
+    "Từ 20 triệu đồng trở lên",
+    "Từ 100 triệu đồng trở lên",
+    "Từ 300 triệu đồng trở lên"
+   ],
+   "c": "Điều 4 khoản 10",
+   "ex": "Việc thanh toán mua, bán vàng có giá trị từ 05 triệu đồng trong ngày trở lên của một khách hàng phải được thực hiện bằng phương tiện thanh toán không dùng tiền mặt.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Hoạt động mua, bán vàng miếng của tổ chức, cá nhân chỉ được thực hiện tại đâu?",
+   "o": [
+    "Tổ chức tín dụng và doanh nghiệp được NHNN cấp Giấy phép kinh doanh mua, bán vàng miếng",
+    "Mọi cửa hàng vàng bạc có Giấy chứng nhận đăng ký doanh nghiệp và niêm yết giá công khai",
+    "Doanh nghiệp có Giấy phép sản xuất vàng miếng, kể cả khi chưa có Giấy phép kinh doanh mua, bán",
+    "Sàn giao dịch vàng do NHNN tổ chức và các đại lý ủy nhiệm của tổ chức tín dụng"
+   ],
+   "c": "Điều 10",
+   "ex": "Hoạt động mua, bán vàng miếng của các tổ chức, cá nhân chỉ được thực hiện tại các tổ chức tín dụng và doanh nghiệp được Ngân hàng Nhà nước cấp Giấy phép kinh doanh mua, bán vàng miếng."
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Doanh nghiệp xin Giấy phép kinh doanh mua, bán vàng miếng phải có vốn điều lệ tối thiểu bao nhiêu?",
+   "o": [
+    "100 tỷ đồng",
+    "50 tỷ đồng",
+    "500 tỷ đồng",
+    "1.000 tỷ đồng"
+   ],
+   "c": "Điều 11 khoản 1 điểm b",
+   "ex": "b) Có vốn điều lệ từ 100 tỷ đồng trở lên."
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Doanh nghiệp xin Giấy phép kinh doanh mua, bán vàng miếng phải có kinh nghiệm trong lĩnh vực mua, bán vàng tối thiểu bao lâu?",
+   "o": [
+    "2 năm",
+    "1 năm",
+    "3 năm",
+    "5 năm"
+   ],
+   "c": "Điều 11 khoản 1 điểm c",
+   "ex": "c) Có kinh nghiệm hoạt động trong lĩnh vực kinh doanh mua, bán vàng từ 2 (hai) năm trở lên."
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Điều kiện về số thuế đã nộp của doanh nghiệp xin Giấy phép kinh doanh mua, bán vàng miếng là gì?",
+   "o": [
+    "Từ 500 triệu đồng/năm trở lên trong 2 năm liên tiếp gần nhất, có xác nhận cơ quan thuế",
+    "Từ 1 tỷ đồng/năm trở lên trong 3 năm liên tiếp gần nhất, có xác nhận cơ quan thuế",
+    "Từ 500 triệu đồng trở lên trong năm gần nhất, có báo cáo tài chính đã kiểm toán",
+    "Từ 200 triệu đồng/năm trở lên trong 2 năm liên tiếp gần nhất, có xác nhận cơ quan thuế"
+   ],
+   "c": "Điều 11 khoản 1 điểm d",
+   "ex": "d) Có số thuế đã nộp của hoạt động kinh doanh vàng từ 500 (năm trăm) triệu đồng/năm trở lên trong 2 (hai) năm liên tiếp gần nhất (có xác nhận của cơ quan thuế)."
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Doanh nghiệp xin Giấy phép kinh doanh mua, bán vàng miếng phải có mạng lưới chi nhánh, địa điểm bán hàng tại tối thiểu bao nhiêu tỉnh, thành phố trực thuộc Trung ương?",
+   "o": [
+    "3",
+    "2",
+    "5",
+    "10"
+   ],
+   "c": "Điều 11 khoản 1 điểm đ",
+   "ex": "đ) Có mạng lưới chi nhánh, địa điểm bán hàng tại Việt Nam từ 3 (ba) tỉnh, thành phố trực thuộc Trung ương trở lên."
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Tổ chức tín dụng xin Giấy phép kinh doanh mua, bán vàng miếng phải có vốn điều lệ tối thiểu bao nhiêu?",
+   "o": [
+    "3.000 tỷ đồng",
+    "1.000 tỷ đồng",
+    "5.000 tỷ đồng",
+    "50.000 tỷ đồng"
+   ],
+   "c": "Điều 11 khoản 2 điểm a",
+   "ex": "a) Có vốn điều lệ từ 3.000 (ba nghìn) tỷ đồng trở lên."
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Tổ chức tín dụng xin Giấy phép kinh doanh mua, bán vàng miếng phải có mạng lưới chi nhánh tại tối thiểu bao nhiêu tỉnh, thành phố?",
+   "o": [
+    "5",
+    "3",
+    "10",
+    "63"
+   ],
+   "c": "Điều 11 khoản 2 điểm c",
+   "ex": "c) Có mạng lưới chi nhánh tại Việt Nam từ 5 (năm) tỉnh, thành phố trực thuộc Trung ương trở lên."
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Doanh nghiệp xin Giấy phép sản xuất vàng miếng phải có vốn điều lệ tối thiểu bao nhiêu?",
+   "o": [
+    "1.000 tỷ đồng",
+    "100 tỷ đồng",
+    "3.000 tỷ đồng",
+    "50.000 tỷ đồng"
+   ],
+   "c": "Điều 11a khoản 1 điểm b",
+   "ex": "b) Có vốn điều lệ từ 1.000 tỷ đồng trở lên.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Ngân hàng thương mại xin Giấy phép sản xuất vàng miếng phải có vốn điều lệ tối thiểu bao nhiêu?",
+   "o": [
+    "50.000 tỷ đồng",
+    "3.000 tỷ đồng",
+    "10.000 tỷ đồng",
+    "1.000 tỷ đồng"
+   ],
+   "c": "Điều 11a khoản 2 điểm b",
+   "ex": "b) Có vốn điều lệ từ 50.000 tỷ đồng trở lên.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Để được cấp Giấy phép sản xuất vàng miếng, doanh nghiệp và ngân hàng thương mại trước hết phải có loại giấy phép nào?",
+   "o": [
+    "Giấy phép kinh doanh mua, bán vàng miếng",
+    "Giấy phép khai thác vàng",
+    "Giấy chứng nhận đủ điều kiện sản xuất vàng trang sức, mỹ nghệ",
+    "Giấy phép nhập khẩu vàng nguyên liệu"
+   ],
+   "c": "Điều 11a khoản 1, 2 điểm a",
+   "ex": "a) Có Giấy phép kinh doanh mua, bán vàng miếng.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Đơn vị từng bị xử phạt vi phạm hành chính về kinh doanh vàng có được cấp Giấy phép sản xuất vàng miếng không?",
+   "o": [
+    "Được, nếu đã khắc phục xong hậu quả và thực hiện các kiến nghị có thời hạn của thanh tra, kiểm tra",
+    "Không, đơn vị từng bị xử phạt về kinh doanh vàng thì không đủ điều kiện được cấp Giấy phép",
+    "Được, nhưng chỉ sau 05 năm kể từ ngày chấp hành xong quyết định xử phạt vi phạm hành chính",
+    "Được, nếu có văn bản cam kết không tái phạm và được Thanh tra Chính phủ xác nhận đã nộp đủ tiền phạt"
+   ],
+   "c": "Điều 11a khoản 1 điểm c",
+   "ex": "Không bị xử phạt vi phạm hành chính về hoạt động kinh doanh vàng hoặc bị xử phạt … nhưng đã thực hiện xong các biện pháp khắc phục hậu quả theo Quyết định xử phạt vi phạm hành chính, các kiến nghị có thời hạn thực hiện tại Kết luận thanh tra, kiểm tra …",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Nội dung nào KHÔNG thuộc nội dung cơ bản của quy định nội bộ về sản xuất vàng miếng?",
+   "o": [
+    "Quy trình phân phối vàng miếng qua đại lý",
+    "Quy trình nhập nguyên liệu",
+    "Quy trình giám sát sản xuất",
+    "Quy trình kiểm soát chất lượng sản phẩm"
+   ],
+   "c": "Điều 11a khoản 1 điểm d",
+   "ex": "Có quy định nội bộ quy định về sản xuất vàng miếng bao gồm những nội dung cơ bản như quy trình nhập nguyên liệu; quy trình sản xuất vàng miếng; quy trình giám sát sản xuất; quy trình kiểm soát chất lượng sản phẩm.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Ai quy định hồ sơ, thủ tục cấp Giấy phép sản xuất vàng miếng?",
+   "o": [
+    "Thống đốc NHNN",
+    "Thủ tướng Chính phủ",
+    "Bộ trưởng Bộ Công Thương",
+    "Bộ trưởng Bộ Tài chính"
+   ],
+   "c": "Điều 11a khoản 3",
+   "ex": "Thống đốc Ngân hàng Nhà nước quy định hồ sơ, thủ tục cấp Giấy phép sản xuất vàng miếng.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Doanh nghiệp, tổ chức tín dụng kinh doanh mua, bán vàng miếng có được kinh doanh thông qua đại lý ủy nhiệm không?",
+   "o": [
+    "Không được phép",
+    "Được, nếu đăng ký với NHNN",
+    "Được, tối đa 10 đại lý",
+    "Được, nếu đại lý có Giấy chứng nhận đăng ký doanh nghiệp"
+   ],
+   "c": "Điều 12 khoản 4 điểm b",
+   "ex": "b) Không được phép thực hiện kinh doanh vàng miếng thông qua các đại lý ủy nhiệm.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Đơn vị kinh doanh mua, bán vàng miếng phải niêm yết giá mua, giá bán ở đâu?",
+   "o": [
+    "Tại địa điểm giao dịch hoặc trên trang thông tin điện tử, và kết nối giá niêm yết cho NHNN",
+    "Chỉ trên trang thông tin điện tử của NHNN, đơn vị không được tự niêm yết tại quầy",
+    "Tại trụ sở chính và gửi bảng giá cho Sở Công Thương nơi đặt trụ sở trước 9 giờ hằng ngày",
+    "Tại địa điểm giao dịch, và đăng ký trước với NHNN khung giá mua bán trong tháng"
+   ],
+   "c": "Điều 12 khoản 4 điểm a",
+   "ex": "a) Niêm yết công khai giá mua, giá bán vàng miếng tại địa điểm giao dịch hoặc trên trang thông tin điện tử và kết nối cung cấp thông tin về mức giá niêm yết cho Ngân hàng Nhà nước.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Hệ thống thông tin lưu trữ dữ liệu giao dịch mua bán vàng miếng phải có nội dung cơ bản nào?",
+   "o": [
+    "Thông tin căn cước (cá nhân), mã số thuế (doanh nghiệp), khối lượng và giá trị giao dịch",
+    "Số hóa đơn, tổng giá trị giao dịch trong ngày và số dư tài khoản thanh toán của khách hàng",
+    "Họ tên, số điện thoại, địa chỉ email và nguồn gốc tiền mua vàng của khách hàng",
+    "Nghề nghiệp, thu nhập bình quân và mục đích mua vàng của từng khách hàng"
+   ],
+   "c": "Điều 12 khoản 4 điểm đ",
+   "ex": "… có những nội dung cơ bản bao gồm thông tin căn cước đối với cá nhân, mã số thuế doanh nghiệp đối với doanh nghiệp, khối lượng và giá trị giao dịch của bên mua, bán.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ty": "nho",
+   "ch": "III",
+   "q": "Hệ thống thông tin dữ liệu vàng miếng được sản xuất phải có những nội dung cơ bản nào?",
+   "o": [
+    "Thông tin nguyên liệu đầu vào, thời gian sản xuất, sản phẩm đầu ra",
+    "Danh sách khách hàng mua vàng miếng và giá bán theo từng lô sản xuất",
+    "Giá thành, lợi nhuận và số thuế phải nộp của từng lô sản xuất",
+    "Số lượng nhân công, công suất máy móc và định mức hao hụt"
+   ],
+   "c": "Điều 12 khoản 3 điểm c",
+   "ex": "Xây dựng hệ thống thông tin xử lý, lưu trữ dữ liệu vàng miếng được sản xuất có những nội dung cơ bản bao gồm thông tin nguyên liệu đầu vào, thời gian sản xuất, sản phẩm đầu ra.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "Xuất khẩu, nhập khẩu vàng trang sức, mỹ nghệ được thực hiện theo căn cứ nào?",
+   "o": [
+    "Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp",
+    "Giấy phép từng lần do NHNN cấp cho mỗi lô hàng xuất khẩu, nhập khẩu",
+    "Hạn mức hằng năm do NHNN cấp, phân bổ theo quy mô vốn điều lệ và năng lực sản xuất của doanh nghiệp",
+    "Quyết định của Thủ tướng Chính phủ cho phép từng doanh nghiệp cụ thể"
+   ],
+   "c": "Điều 13 khoản 1",
+   "ex": "Việc xuất khẩu, nhập khẩu vàng trang sức, mỹ nghệ được thực hiện theo Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp."
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "NHNN cấp hạn mức hằng năm và Giấy phép từng lần để xuất khẩu, nhập khẩu vàng miếng cho đối tượng nào?",
+   "o": [
+    "Doanh nghiệp, ngân hàng thương mại được cấp Giấy phép sản xuất vàng miếng",
+    "Mọi doanh nghiệp, tổ chức tín dụng có Giấy phép kinh doanh mua, bán vàng miếng",
+    "Tổ chức tín dụng có vốn điều lệ từ 3.000 tỷ đồng và mạng lưới từ 5 tỉnh",
+    "Doanh nghiệp có vốn đầu tư nước ngoài có đăng ký sản xuất vàng trang sức"
+   ],
+   "c": "Điều 14 khoản 1",
+   "ex": "Ngân hàng Nhà nước cấp hạn mức hàng năm và Giấy phép từng lần cho doanh nghiệp, ngân hàng thương mại quy định tại Điều 11a Nghị định này để xuất khẩu, nhập khẩu vàng miếng …",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "Doanh nghiệp, ngân hàng được cấp phép chỉ được nhập khẩu vàng miếng, vàng nguyên liệu có hàm lượng từ bao nhiêu trở lên?",
+   "o": [
+    "99,5%",
+    "99,99%",
+    "99,0%",
+    "95%"
+   ],
+   "c": "Điều 14 khoản 10 điểm a",
+   "ex": "a) Chỉ được phép nhập khẩu vàng miếng, vàng nguyên liệu có hàm lượng từ 99,5% trở lên.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "Hoạt động xuất khẩu, nhập khẩu vàng nguyên liệu của NHNN được hưởng ưu đãi gì?",
+   "o": [
+    "Miễn thuế xuất khẩu, thuế nhập khẩu theo quyết định của Thủ tướng Chính phủ",
+    "Giảm 50% thuế nhập khẩu theo quyết định của Bộ trưởng Bộ Tài chính",
+    "Không phải làm thủ tục hải quan, không chịu thuế giá trị gia tăng và thuế thu nhập doanh nghiệp",
+    "Không có ưu đãi riêng, nộp thuế như doanh nghiệp được cấp phép"
+   ],
+   "c": "Điều 14 khoản 3",
+   "ex": "Hoạt động xuất khẩu, nhập khẩu vàng nguyên liệu của Ngân hàng Nhà nước được miễn thuế xuất khẩu, thuế nhập khẩu theo quyết định của Thủ tướng Chính phủ."
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "Giấy phép xuất khẩu vàng nguyên liệu do doanh nghiệp khai thác được cấp cho đối tượng nào?",
+   "o": [
+    "Doanh nghiệp có vốn đầu tư nước ngoài có Giấy phép khai thác vàng, vàng khai thác trong nước",
+    "Mọi doanh nghiệp khai thác vàng trong nước, kể cả doanh nghiệp không có vốn nước ngoài",
+    "Doanh nghiệp đầu tư khai thác vàng ở nước ngoài, với vàng được phân chia theo thỏa thuận",
+    "Ngân hàng thương mại sản xuất vàng miếng mua vàng từ doanh nghiệp khai thác trong nước"
+   ],
+   "c": "Điều 14 khoản 7",
+   "ex": "a) Là doanh nghiệp có vốn đầu tư nước ngoài có Giấy phép khai thác vàng; b) Vàng nguyên liệu dự kiến xuất khẩu là do doanh nghiệp khai thác ở trong nước."
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "Doanh nghiệp đầu tư khai thác vàng ở nước ngoài được xem xét cấp Giấy phép nhập khẩu vàng nguyên liệu khi nào?",
+   "o": [
+    "Có đăng ký khai thác vàng trong Giấy chứng nhận đầu tư; vàng do mình khai thác hoặc được chia ở nước ngoài",
+    "Có vốn điều lệ từ 1.000 tỷ đồng, có Giấy phép sản xuất vàng miếng do NHNN cấp còn hiệu lực và hạn mức nhập khẩu",
+    "Có Giấy phép kinh doanh mua, bán vàng miếng và có hợp đồng bán lại toàn bộ số vàng cho NHNN",
+    "Có Giấy phép khai thác vàng trong nước và có vốn đầu tư nước ngoài từ 51% trở lên"
+   ],
+   "c": "Điều 14 khoản 6",
+   "ex": "a) Là doanh nghiệp có đăng ký hoạt động khai thác vàng trong Giấy chứng nhận đầu tư; b) Vàng nguyên liệu dự kiến nhập khẩu là do doanh nghiệp khai thác ở nước ngoài hoặc được phân chia sản phẩm theo thỏa thuận khai thác vàng ở nước ngoài."
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "Vàng nguyên liệu dạng bột, dung dịch, vẩy hàn, muối vàng, dây, ống được xuất khẩu, nhập khẩu theo căn cứ nào?",
+   "o": [
+    "Giấy chứng nhận đăng ký doanh nghiệp, pháp luật hải quan và pháp luật chuyên ngành",
+    "Giấy phép từng lần của NHNN, trong phạm vi hạn mức nhập khẩu vàng nguyên liệu hằng năm",
+    "Hạn mức hằng năm do NHNN cấp theo năng lực sản xuất của doanh nghiệp",
+    "Quyết định của Thủ tướng Chính phủ và Giấy phép của Bộ Công Thương"
+   ],
+   "c": "Điều 14 khoản 8",
+   "ex": "Việc xuất khẩu, nhập khẩu các loại vàng sau đây được thực hiện theo Giấy chứng nhận đăng ký doanh nghiệp, pháp luật về hải quan và các quy định pháp luật chuyên ngành có liên quan: a) Vàng nguyên liệu dưới dạng bột, dung dịch, vẩy hàn, muối vàng, dây, ống …",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "Vàng dùng làm nguyên liệu sản xuất loại sản phẩm nào được xuất khẩu, nhập khẩu theo Giấy chứng nhận đăng ký doanh nghiệp mà không cần giấy phép của NHNN?",
+   "o": [
+    "Linh kiện điện tử, thiết bị điện tử, thiết bị y tế, dụng cụ y tế",
+    "Vàng miếng của ngân hàng thương mại được cấp Giấy phép sản xuất",
+    "Vàng trang sức, mỹ nghệ thành phẩm để bán tại thị trường trong nước",
+    "Đồ mỹ nghệ xuất khẩu và vàng miếng phục vụ hội chợ, triển lãm"
+   ],
+   "c": "Điều 14 khoản 8 điểm b",
+   "ex": "b) Vàng sử dụng làm nguyên liệu để sản xuất linh kiện điện tử, thiết bị điện tử, thiết bị y tế, dụng cụ y tế.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "Mục đích nào KHÔNG thuộc các mục đích được phép sử dụng vàng nguyên liệu nhập khẩu?",
+   "o": [
+    "Bán cho cá nhân để tích trữ",
+    "Sản xuất vàng miếng",
+    "Bán cho doanh nghiệp, ngân hàng thương mại được cấp Giấy phép sản xuất vàng miếng",
+    "Bán cho doanh nghiệp có đăng ký sản xuất vàng trang sức, mỹ nghệ"
+   ],
+   "c": "Điều 14 khoản 10 điểm đ",
+   "ex": "đ.1) Sản xuất vàng miếng; đ.2) Sản xuất vàng trang sức, mỹ nghệ; đ.3) Bán cho doanh nghiệp, ngân hàng thương mại được cấp Giấy phép sản xuất vàng miếng; đ.4) Bán cho doanh nghiệp có đăng ký hoạt động sản xuất vàng trang sức, mỹ nghệ.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "Hằng năm, NHNN xem xét cấp Giấy phép nhập khẩu vàng nguyên liệu cho doanh nghiệp có vốn đầu tư nước ngoài căn cứ vào đâu?",
+   "o": [
+    "Năng lực sản xuất, việc thực hiện hợp đồng gia công/xuất khẩu và báo cáo xuất khẩu năm trước",
+    "Vốn điều lệ, số thuế đã nộp trong 2 năm gần nhất và mạng lưới chi nhánh tại Việt Nam",
+    "Tổng hạn mức nhập khẩu vàng của cả nước và thứ tự nộp hồ sơ của doanh nghiệp",
+    "Giá vàng thế giới năm trước và tỷ lệ sở hữu của nhà đầu tư nước ngoài trong doanh nghiệp"
+   ],
+   "c": "Điều 14 khoản 5",
+   "ex": "Hằng năm, Ngân hàng Nhà nước xem xét cấp Giấy phép nhập khẩu vàng nguyên liệu cho doanh nghiệp có vốn đầu tư nước ngoài căn cứ vào năng lực sản xuất, tình hình thực hiện hợp đồng gia công hoặc hợp đồng xuất khẩu vàng trang sức, mỹ nghệ và báo cáo tình hình xuất khẩu vàng trang sức, mỹ nghệ của năm trước, nếu có …",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ty": "nho",
+   "ch": "IV",
+   "q": "Người Việt Nam và người nước ngoài khi xuất cảnh, nhập cảnh được mang theo vàng theo quy định của cơ quan nào?",
+   "o": [
+    "Ngân hàng Nhà nước",
+    "Tổng cục Hải quan",
+    "Bộ Công an",
+    "Bộ Tài chính"
+   ],
+   "c": "Điều 15",
+   "ex": "Người Việt Nam và người nước ngoài khi xuất cảnh, nhập cảnh qua các cửa khẩu quốc tế được mang theo vàng theo quy định của Ngân hàng Nhà nước."
+  },
+  {
+   "ty": "nho",
+   "ch": "V",
+   "q": "NHNN xây dựng chiến lược, kế hoạch phát triển thị trường vàng theo hướng nào?",
+   "o": [
+    "Thị trường hóa",
+    "Độc quyền nhà nước",
+    "Hạn chế giao dịch vàng",
+    "Chống vàng hóa"
+   ],
+   "c": "Điều 16 khoản 1",
+   "ex": "Xây dựng, trình cấp có thẩm quyền ban hành chiến lược, kế hoạch về phát triển thị trường vàng theo hướng thị trường hóa.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ty": "nho",
+   "ch": "V",
+   "q": "Yếu tố nào KHÔNG phải căn cứ để NHNN xây dựng, điều chỉnh tổng hạn mức xuất khẩu, nhập khẩu vàng hằng năm?",
+   "o": [
+    "Giá vàng thế giới bình quân năm trước",
+    "Tình hình kinh tế vĩ mô và mục tiêu điều hành chính sách tiền tệ",
+    "Quy mô dự trữ ngoại hối nhà nước",
+    "Tình hình thực hiện xuất khẩu, nhập khẩu vàng miếng, vàng nguyên liệu"
+   ],
+   "c": "Điều 16 khoản 2",
+   "ex": "a) Tình hình kinh tế vĩ mô và mục tiêu điều hành chính sách tiền tệ; b) Quy mô dự trữ ngoại hối nhà nước; c) Tình hình thực hiện hoạt động xuất khẩu, nhập khẩu vàng miếng, vàng nguyên liệu.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ty": "nho",
+   "ch": "V",
+   "q": "NHNN cấp hạn mức hằng năm cho từng doanh nghiệp, ngân hàng thương mại dựa trên những yếu tố nào?",
+   "o": [
+    "Quy mô vốn điều lệ, tình hình xuất nhập khẩu các năm trước và nhu cầu của đơn vị",
+    "Thứ tự nộp hồ sơ và số lượng chi nhánh, điểm bán hàng của doanh nghiệp",
+    "Thị phần vàng trang sức và số thuế nộp ngân sách của năm trước",
+    "Chia đều tổng hạn mức cho các đơn vị được cấp Giấy phép sản xuất vàng miếng"
+   ],
+   "c": "Điều 16 khoản 2",
+   "ex": "… cấp hạn mức hàng năm cho doanh nghiệp, ngân hàng thương mại theo quy mô vốn điều lệ …; tình hình xuất khẩu, nhập khẩu vàng miếng, vàng nguyên liệu của các năm trước (nếu có) và nhu cầu của doanh nghiệp, ngân hàng thương mại.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ty": "nho",
+   "ch": "V",
+   "q": "NHNN đăng tải giá vàng nào trên trang thông tin điện tử của mình?",
+   "o": [
+    "Giá mua, bán vàng miếng do doanh nghiệp, tổ chức tín dụng được cấp phép cung cấp",
+    "Giá vàng thế giới quy đổi theo tỷ giá trung tâm, cập nhật hằng ngày làm căn cứ tham chiếu cho thị trường",
+    "Giá trần và giá sàn vàng miếng do NHNN tự xác định cho từng tháng",
+    "Giá vàng trang sức bình quân do Hiệp hội Kinh doanh vàng tổng hợp"
+   ],
+   "c": "Điều 16 khoản 6",
+   "ex": "Ngân hàng Nhà nước đăng tải trên trang thông tin điện tử Ngân hàng Nhà nước giá mua, giá bán vàng miếng do doanh nghiệp, tổ chức tín dụng được Ngân hàng Nhà nước cấp Giấy phép kinh doanh mua, bán vàng miếng cung cấp.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ty": "nho",
+   "ch": "V",
+   "q": "Bộ nào chủ trì quản lý, kiểm tra hoạt động sản xuất, gia công và mua, bán vàng trang sức, mỹ nghệ?",
+   "o": [
+    "Bộ Công Thương",
+    "Ngân hàng Nhà nước",
+    "Bộ Tài chính",
+    "Bộ Khoa học và Công nghệ"
+   ],
+   "c": "Điều 17 khoản 1",
+   "ex": "Bộ Công Thương chủ trì, phối hợp với các cơ quan có liên quan thực hiện chức năng quản lý, kiểm tra hoạt động sản xuất, gia công vàng trang sức, mỹ nghệ; hoạt động kinh doanh mua, bán vàng trang sức, mỹ nghệ …",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ty": "nho",
+   "ch": "V",
+   "q": "Bộ nào chủ trì xây dựng, công bố tiêu chuẩn quốc gia đối với vàng trang sức, mỹ nghệ và vàng miếng?",
+   "o": [
+    "Bộ Khoa học và Công nghệ",
+    "Bộ Công Thương, phối hợp với Ngân hàng Nhà nước",
+    "Ngân hàng Nhà nước",
+    "Bộ Tài chính"
+   ],
+   "c": "Điều 17 khoản 3",
+   "ex": "Bộ Khoa học và Công nghệ chủ trì, phối hợp với Ngân hàng Nhà nước và các cơ quan liên quan có trách nhiệm xây dựng, công bố tiêu chuẩn quốc gia đối với vàng trang sức, mỹ nghệ và vàng miếng …",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ty": "nho",
+   "ch": "V",
+   "q": "Bộ Tài chính chủ trì nội dung nào trong quản lý kinh doanh vàng?",
+   "o": [
+    "Chính sách thuế với kinh doanh vàng; hướng dẫn cấp Giấy chứng nhận đăng ký doanh nghiệp",
+    "Cấp Giấy phép sản xuất vàng miếng và phân bổ hạn mức nhập khẩu vàng nguyên liệu hằng năm cho doanh nghiệp",
+    "Kiểm định phương tiện đo lường và quản lý chất lượng vàng trong lưu thông",
+    "Thanh tra hoạt động sản xuất, kinh doanh vàng trang sức, mỹ nghệ trên cả nước"
+   ],
+   "c": "Điều 17 khoản 2",
+   "ex": "Bộ Tài chính chủ trì … chính sách thuế xuất khẩu, thuế nhập khẩu vàng, thuế giá trị gia tăng, thuế tiêu thụ đặc biệt và thuế thu nhập …; quy định, hướng dẫn thực hiện cấp Giấy chứng nhận đăng ký doanh nghiệp cho các doanh nghiệp kinh doanh vàng …",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ty": "nho",
+   "ch": "V",
+   "q": "Ai chỉ đạo công tác thanh tra, kiểm tra hoạt động kinh doanh vàng tại địa phương?",
+   "o": [
+    "Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương",
+    "Giám đốc NHNN chi nhánh Khu vực nơi có hoạt động kinh doanh vàng",
+    "Giám đốc Sở Công Thương, phối hợp với Thanh tra tỉnh",
+    "Chánh Thanh tra Chính phủ, thông qua Thanh tra tỉnh"
+   ],
+   "c": "Điều 17 khoản 6",
+   "ex": "Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương chỉ đạo việc thực hiện công tác thanh tra, kiểm tra hoạt động kinh doanh vàng tại địa phương.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ty": "nho",
+   "ch": "VI",
+   "q": "Hành vi nào sau đây là hành vi vi phạm trong hoạt động kinh doanh vàng?",
+   "o": [
+    "Sử dụng vàng làm phương tiện thanh toán",
+    "Mua vàng trang sức tại cửa hàng có đăng ký kinh doanh",
+    "Nhập khẩu vàng nguyên liệu dạng muối vàng theo Giấy chứng nhận đăng ký doanh nghiệp",
+    "Bán vàng miếng cho tổ chức tín dụng được cấp phép"
+   ],
+   "c": "Điều 19 khoản 4",
+   "ex": "4. Sử dụng vàng làm phương tiện thanh toán."
+  },
+  {
+   "ty": "nho",
+   "ch": "VI",
+   "q": "Cá nhân mang vàng khi xuất cảnh, nhập cảnh vượt mức quy định bị coi là vi phạm khi nào?",
+   "o": [
+    "Khi không có giấy phép do NHNN cấp",
+    "Trong mọi trường hợp",
+    "Khi không khai báo với hãng hàng không",
+    "Khi mang trên 1 kg"
+   ],
+   "c": "Điều 19 khoản 3",
+   "ex": "3. Mang theo vàng khi xuất cảnh, nhập cảnh của cá nhân vượt mức quy định không có giấy phép do Ngân hàng Nhà nước cấp."
+  },
+  {
+   "ty": "nho",
+   "ch": "VI",
+   "q": "Nội dung nào thuộc chế độ báo cáo của doanh nghiệp, ngân hàng thương mại kinh doanh vàng sau sửa đổi?",
+   "o": [
+    "Tình hình mua, bán, sử dụng, tồn kho và bán vàng nguyên liệu nhập khẩu",
+    "Danh sách khách hàng mua vàng trang sức có giá trị từ 05 triệu đồng",
+    "Lương bình quân và số lượng lao động của bộ phận kinh doanh vàng",
+    "Kế hoạch mở chi nhánh, điểm bán hàng mới trong năm tiếp theo"
+   ],
+   "c": "Điều 20",
+   "ex": "… báo cáo tình hình sản xuất, mua, bán vàng miếng; tình hình xuất khẩu, nhập khẩu vàng; tình hình mua, bán, sử dụng, tồn kho vàng nguyên liệu nhập khẩu; … tình hình bán vàng nguyên liệu nhập khẩu …",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ty": "nho",
+   "ch": "VI",
+   "q": "Ai có trách nhiệm hướng dẫn và tổ chức thực hiện Nghị định về quản lý hoạt động kinh doanh vàng?",
+   "o": [
+    "Thống đốc NHNN",
+    "Bộ trưởng Bộ Công Thương",
+    "Bộ trưởng Bộ Tài chính",
+    "Chánh Thanh tra Chính phủ"
+   ],
+   "c": "Điều 23 khoản 1",
+   "ex": "Thống đốc Ngân hàng Nhà nước Việt Nam có trách nhiệm hướng dẫn và tổ chức thực hiện Nghị định này."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Vì sao phân tích phản biện cho rằng ngưỡng vốn sản xuất vàng miếng có nguy cơ tạo ra “độc quyền nhóm”?",
+   "o": [
+    "Ngưỡng 50.000 tỷ (ngân hàng) và 1.000 tỷ đồng (doanh nghiệp) chỉ ít chủ thể lớn đáp ứng",
+    "Nghị định chỉ cho phép một doanh nghiệp nhà nước được sản xuất vàng miếng như trước đây",
+    "Vàng miếng của mọi đơn vị sản xuất vẫn bắt buộc phải mang thương hiệu SJC",
+    "NHNN đã ngừng cấp Giấy phép sản xuất vàng miếng mới kể từ năm 2025"
+   ],
+   "c": "Phản biện · Điều 11a khoản 1 điểm b, khoản 2 điểm b",
+   "ex": "Chỉ một số ít chủ thể lớn đáp ứng được ngưỡng vốn. Văn bản không nêu cơ sở định lượng cho các mức này, và ngưỡng cho ngân hàng gấp 50 lần ngưỡng cho doanh nghiệp."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Theo phân tích, chỉ tiêu nào nên được theo dõi công khai để đánh giá hiệu quả việc xóa độc quyền sản xuất vàng miếng?",
+   "o": [
+    "Chênh lệch giá vàng miếng trong nước so với giá thế giới",
+    "Số lượng cửa hàng vàng trang sức trên địa bàn cả nước",
+    "Tổng vốn điều lệ của các ngân hàng thương mại sản xuất vàng",
+    "Số thuế thu được từ hoạt động kinh doanh vàng trang sức"
+   ],
+   "c": "Phản biện · Điều 3 khoản 2; Điều 11a; Điều 16 khoản 1",
+   "ex": "Nguồn cung tăng là điều kiện để thu hẹp chênh lệch giá trong nước và thế giới. Hướng hoàn thiện: đặt chỉ tiêu theo dõi công khai chênh lệch này để đánh giá chính sách sau 1–2 năm."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Mâu thuẫn nào được chỉ ra tại Điều 21 (điều khoản chuyển tiếp) của văn bản hợp nhất?",
+   "o": [
+    "Vẫn yêu cầu xin Giấy chứng nhận đủ điều kiện sản xuất vàng trang sức, dù NĐ 390 đã bỏ",
+    "Quy định ngày hiệu lực của Nghị định sớm hơn ngày ký ban hành văn bản hợp nhất",
+    "Cho phép doanh nghiệp kinh doanh vàng miếng thông qua đại lý ủy nhiệm trong 12 tháng",
+    "Trái với Điều 112 Luật Các tổ chức tín dụng về hoạt động phái sinh vàng"
+   ],
+   "c": "Phản biện · Điều 21 khoản 1 điểm a",
+   "ex": "Điều 21 vẫn yêu cầu “hoàn tất thủ tục xin cấp Giấy chứng nhận đủ điều kiện sản xuất vàng trang sức, mỹ nghệ”, trong khi NĐ 390/2026 đã bỏ điều kiện này. Văn bản hợp nhất không có chú thích."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Câu “các giấy phép sản xuất vàng miếng hết hiệu lực” tại Điều 21 khoản 3 có thể gây hiểu nhầm thế nào?",
+   "o": [
+    "Dễ bị hiểu là áp dụng cho Giấy phép sản xuất vàng miếng mới cấp theo Điều 11a",
+    "Dễ bị hiểu là cấm mọi hoạt động mua bán vàng miếng kể từ ngày Nghị định có hiệu lực",
+    "Dễ bị hiểu là bãi bỏ Giấy phép kinh doanh mua, bán vàng miếng của tổ chức tín dụng",
+    "Dễ bị hiểu là NHNN không còn được tổ chức sản xuất vàng miếng trong từng thời kỳ"
+   ],
+   "c": "Phản biện · Điều 21 khoản 3",
+   "ex": "Khoản 3 nói về các giấy phép cấp trước năm 2012, nhưng được giữ nguyên mà không chú thích nên dễ bị hiểu nhầm là áp dụng cho Giấy phép sản xuất mới theo Điều 11a. Hướng hoàn thiện: bãi bỏ hoặc chú thích rõ các khoản chuyển tiếp đã hết tác dụng."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Vì sao cách phân bổ hạn mức xuất nhập khẩu vàng được đánh giá là chưa thúc đẩy cạnh tranh?",
+   "o": [
+    "Phân bổ theo vốn điều lệ và lịch sử xuất nhập khẩu, có lợi cho đơn vị lớn, đơn vị đã có mặt",
+    "Hạn mức được đấu giá công khai nên chỉ đơn vị trả giá cao nhất mới được phân bổ",
+    "Hạn mức được chia đều cho mọi doanh nghiệp được cấp phép, không tính đến năng lực sản xuất và nhu cầu thực tế",
+    "Nghị định giao Bộ Công Thương phân bổ hạn mức mà không có tiêu chí cụ thể"
+   ],
+   "c": "Phản biện · Điều 16 khoản 2",
+   "ex": "Hai tiêu chí quy mô vốn điều lệ và tình hình xuất nhập khẩu các năm trước có lợi cho đơn vị lớn và đơn vị đã tham gia thị trường, bất lợi cho đơn vị mới."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Hướng hoàn thiện nào được đề xuất cho cơ chế phân bổ hạn mức xuất nhập khẩu vàng?",
+   "o": [
+    "Công khai tổng hạn mức và kết quả phân bổ; dành một phần cho đơn vị mới được cấp phép",
+    "Bỏ hoàn toàn hạn mức nhập khẩu, để doanh nghiệp tự quyết định theo nhu cầu thị trường",
+    "Giao Bộ Công Thương phân bổ hạn mức thay cho NHNN để tách bạch quản lý",
+    "Chỉ cấp hạn mức cho ngân hàng thương mại nhà nước nhằm bảo đảm an toàn ngoại hối"
+   ],
+   "c": "Phản biện · Điều 16 khoản 2",
+   "ex": "Đề xuất: công khai tổng hạn mức và kết quả phân bổ cho từng đơn vị; dành một phần hạn mức cho đơn vị mới được cấp phép."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Mối lo nào được nêu về ngưỡng 05 triệu đồng/ngày phải thanh toán không dùng tiền mặt?",
+   "o": [
+    "Ảnh hưởng người cao tuổi, nông thôn; chưa rõ cách kiểm soát giao dịch chia nhỏ qua nhiều cửa hàng",
+    "Ngưỡng quá cao so với giá vàng nên không có tác dụng phòng, chống rửa tiền trên thực tế",
+    "Ngưỡng chỉ áp dụng cho tổ chức, không áp dụng cho cá nhân mua bán vàng trang sức",
+    "Ngưỡng mâu thuẫn với nghĩa vụ niêm yết giá công khai và nghĩa vụ lập hóa đơn của doanh nghiệp kinh doanh vàng"
+   ],
+   "c": "Phản biện · Điều 4 khoản 10",
+   "ex": "Ngưỡng áp dụng cho cả vàng trang sức, tác động lớn đến người cao tuổi và khu vực nông thôn chưa quen thanh toán điện tử. Văn bản không nói cách kiểm soát khi một người chia nhỏ giao dịch qua nhiều cửa hàng trong ngày."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Hướng hoàn thiện nào được đề xuất cho ngưỡng thanh toán không dùng tiền mặt?",
+   "o": [
+    "Cân nhắc ngưỡng riêng cho vàng trang sức hoặc điều chỉnh định kỳ theo giá vàng",
+    "Bỏ hẳn yêu cầu thanh toán không dùng tiền mặt đối với mọi giao dịch mua bán vàng",
+    "Chỉ áp dụng ngưỡng cho giao dịch vàng miếng thực hiện tại ngân hàng thương mại",
+    "Nâng ngưỡng lên 1 tỷ đồng và chỉ áp dụng cho khách hàng là doanh nghiệp"
+   ],
+   "c": "Phản biện · Điều 4 khoản 10",
+   "ex": "Đề xuất: cân nhắc ngưỡng riêng cho vàng trang sức, hoặc điều chỉnh ngưỡng định kỳ theo giá vàng; làm rõ trách nhiệm của bên bán khi giao dịch bị chia nhỏ."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Điểm yếu của cơ chế phối hợp liên ngành tại Điều 18 là gì?",
+   "o": [
+    "Chỉ “căn cứ vào yêu cầu thực tế”, chưa có đầu mối, quy chế chia sẻ dữ liệu, kế hoạch thanh tra chung",
+    "Giao toàn bộ thẩm quyền thanh tra kinh doanh vàng cho Bộ Công an và Thanh tra Chính phủ, NHNN chỉ phối hợp khi được yêu cầu",
+    "Loại NHNN khỏi hoạt động thanh tra, kiểm tra đối với doanh nghiệp kinh doanh vàng miếng",
+    "Cấm các bộ, ngành chia sẻ thông tin về doanh nghiệp kinh doanh vàng với nhau"
+   ],
+   "c": "Phản biện · Điều 16 khoản 5; Điều 17; Điều 18",
+   "ex": "NHNN, Bộ Công Thương, Bộ Khoa học và Công nghệ, Thanh tra Chính phủ và UBND/Thanh tra tỉnh đều có thẩm quyền. Thiếu đầu mối điều phối thì có nguy cơ chồng chéo hoặc bỏ sót."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Theo phân tích, việc thiếu tiêu chuẩn quốc gia bắt buộc về hàm lượng vàng miếng dẫn đến hệ quả gì?",
+   "o": [
+    "Vàng miếng các thương hiệu khó thay thế cho nhau, khó so sánh giá và mua bán chéo",
+    "Doanh nghiệp không thể nhập khẩu vàng nguyên liệu để sản xuất vàng miếng vì không xác định được hàm lượng",
+    "Ngân hàng thương mại không được cấp Giấy phép sản xuất vàng miếng",
+    "Giá vàng trang sức tăng mạnh do thiếu nguồn cung vàng nguyên liệu"
+   ],
+   "c": "Phản biện · Điều 12 khoản 3 điểm a; Điều 17 khoản 3",
+   "ex": "Đơn vị sản xuất tự công bố tiêu chuẩn. Khi nhiều thương hiệu cùng sản xuất mà thiếu tiêu chuẩn quốc gia bắt buộc, vàng miếng khó thay thế cho nhau. Hướng hoàn thiện: Bộ Khoa học và Công nghệ sớm ban hành tiêu chuẩn quốc gia bắt buộc."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Vì sao tiêu chí mạng lưới “từ 3 tỉnh” (doanh nghiệp) và “từ 5 tỉnh” (tổ chức tín dụng) tại Điều 11 cần được rà soát?",
+   "o": [
+    "Giữ nguyên từ năm 2012, trong khi số lượng và quy mô đơn vị hành chính cấp tỉnh đã đổi",
+    "Vì Điều 11 đã bị Nghị định 390/2026 bãi bỏ toàn bộ nhưng văn bản hợp nhất chưa thể hiện chú thích bãi bỏ",
+    "Vì tiêu chí này chỉ áp dụng cho doanh nghiệp có vốn đầu tư nước ngoài",
+    "Vì Luật Các tổ chức tín dụng không cho phép mở chi nhánh tại nhiều tỉnh"
+   ],
+   "c": "Phản biện · Điều 11 khoản 1 điểm đ, khoản 2 điểm c",
+   "ex": "Cùng một con số giờ phản ánh độ phủ thị trường khác trước. Các mức vốn 100 tỷ đồng và thuế 500 triệu đồng/năm cũng chưa được cập nhật."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Vì sao việc bỏ điều kiện kinh doanh với vàng trang sức, mỹ nghệ được đánh giá là hợp lý?",
+   "o": [
+    "Giảm thủ tục cho cơ sở nhỏ, vẫn quản lý qua luật chất lượng, đo lường, thuế, chống rửa tiền",
+    "Vì vàng trang sức không còn được phép mua bán tự do tại thị trường Việt Nam",
+    "Vì toàn bộ vàng trang sức đã chuyển sang do NHNN trực tiếp quản lý sản xuất và phân phối qua ngân hàng thương mại",
+    "Vì vàng trang sức được miễn mọi loại thuế và không cần hóa đơn chứng từ"
+   ],
+   "c": "Phản biện · Điều 4 khoản 7; bãi bỏ Điều 5–9",
+   "ex": "Quản lý chuyển sang các luật chuyên ngành về chất lượng, đo lường, nhãn hàng hóa, thuế và phòng, chống rửa tiền."
+  },
+  {
+   "ch": "PB",
+   "ty": "pb",
+   "q": "Khoảng trống pháp lý nào được chỉ ra đối với kinh doanh vàng trên tài khoản?",
+   "o": [
+    "Chưa có quy định về sàn, ký quỹ, bảo vệ nhà đầu tư; vẫn cần Thủ tướng cho phép từng trường hợp",
+    "Hoạt động này đã bị cấm tuyệt đối nên không cần khung pháp lý riêng",
+    "Hoạt động này chỉ cần Giấy chứng nhận đăng ký doanh nghiệp là được thực hiện",
+    "Hoạt động này do Bộ Công Thương cấp phép theo pháp luật về sở giao dịch hàng hóa, NHNN chỉ quản lý thanh toán ký quỹ"
+   ],
+   "c": "Phản biện · Điều 1 khoản 1; Điều 3 khoản 4; Điều 4 khoản 9",
+   "ex": "Thiếu khung pháp lý khiến nhà đầu tư dễ tìm đến các sàn không được phép. Đề xuất: xây dựng quy định riêng cho giao dịch vàng trên tài khoản và sàn giao dịch vàng."
+  },
+  {
+   "ch": "III",
+   "ty": "th",
+   "q": "Công ty A có đủ điều kiện được NHNN xem xét cấp Giấy phép sản xuất vàng miếng không?",
+   "o": [
+    "Có, vì đáp ứng vốn từ 1.000 tỷ đồng, có Giấy phép kinh doanh, đã khắc phục xong hậu quả và có quy định nội bộ",
+    "Không, vì đơn vị đã từng bị xử phạt vi phạm hành chính về kinh doanh vàng thì không được cấp Giấy phép sản xuất vàng miếng",
+    "Không, vì doanh nghiệp muốn sản xuất vàng miếng phải có vốn điều lệ từ 3.000 tỷ đồng trở lên",
+    "Không, vì theo Nghị định chỉ ngân hàng thương mại mới được cấp Giấy phép sản xuất vàng miếng"
+   ],
+   "c": "Điều 11a khoản 1",
+   "ex": "Doanh nghiệp cần: a) Giấy phép kinh doanh mua, bán vàng miếng; b) vốn điều lệ từ 1.000 tỷ đồng; c) không bị xử phạt, hoặc bị xử phạt nhưng đã khắc phục xong hậu quả và kiến nghị có thời hạn; d) quy định nội bộ về sản xuất vàng miếng.",
+   "sc": "Công ty A có vốn điều lệ 1.200 tỷ đồng, đã có Giấy phép kinh doanh mua, bán vàng miếng. Năm 2025 công ty bị xử phạt hành chính về kinh doanh vàng và đã thực hiện xong các biện pháp khắc phục hậu quả. Công ty đã ban hành quy định nội bộ gồm quy trình nhập nguyên liệu, sản xuất, giám sát sản xuất và kiểm soát chất lượng.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ch": "III",
+   "ty": "th",
+   "q": "Ngân hàng B có đủ điều kiện về vốn để được cấp Giấy phép sản xuất vàng miếng không?",
+   "o": [
+    "Chưa, vì ngân hàng thương mại cần vốn điều lệ từ 50.000 tỷ đồng",
+    "Đủ, vì ngân hàng chỉ cần vốn điều lệ từ 3.000 tỷ đồng trở lên",
+    "Đủ, vì đã vượt xa ngưỡng 1.000 tỷ đồng áp dụng cho doanh nghiệp",
+    "Chưa, vì ngân hàng thương mại không được phép sản xuất vàng miếng"
+   ],
+   "c": "Điều 11a khoản 2 điểm b",
+   "ex": "Ngân hàng thương mại được xem xét cấp Giấy phép sản xuất vàng miếng khi có vốn điều lệ từ 50.000 tỷ đồng trở lên (cùng các điều kiện khác). Mức 1.000 tỷ đồng chỉ áp dụng cho doanh nghiệp, mức 3.000 tỷ đồng là điều kiện kinh doanh mua, bán của tổ chức tín dụng.",
+   "sc": "Ngân hàng thương mại B có vốn điều lệ 45.000 tỷ đồng, đã có Giấy phép kinh doanh mua, bán vàng miếng, chưa từng bị xử phạt và đã có quy định nội bộ về sản xuất vàng miếng.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ch": "III",
+   "ty": "th",
+   "q": "Công ty C có đủ điều kiện được cấp Giấy phép kinh doanh mua, bán vàng miếng không?",
+   "o": [
+    "Chưa, vì mạng lưới chi nhánh, địa điểm bán hàng phải từ 3 tỉnh, thành phố trở lên",
+    "Đủ, vì đã đáp ứng điều kiện về vốn, kinh nghiệm và số thuế đã nộp",
+    "Chưa, vì doanh nghiệp xin kinh doanh mua, bán vàng miếng phải có vốn điều lệ từ 1.000 tỷ đồng",
+    "Chưa, vì kinh nghiệm kinh doanh vàng phải từ 5 năm trở lên"
+   ],
+   "c": "Điều 11 khoản 1",
+   "ex": "Doanh nghiệp cần đủ cả 5 điều kiện: thành lập hợp pháp; vốn từ 100 tỷ đồng; kinh nghiệm từ 2 năm; thuế từ 500 triệu đồng/năm trong 2 năm liên tiếp gần nhất; mạng lưới từ 3 tỉnh, thành phố trực thuộc Trung ương trở lên.",
+   "sc": "Công ty C có vốn điều lệ 150 tỷ đồng, kinh doanh mua, bán vàng được 3 năm, nộp thuế từ hoạt động kinh doanh vàng 600 triệu đồng/năm trong 2 năm liên tiếp gần nhất (có xác nhận của cơ quan thuế), và có cửa hàng tại 2 tỉnh."
+  },
+  {
+   "ch": "I",
+   "ty": "th",
+   "q": "Bà D phải thanh toán theo phương thức nào?",
+   "o": [
+    "Tổng giá trị trong ngày là 7 triệu đồng, từ 05 triệu đồng trở lên nên phải thanh toán không dùng tiền mặt",
+    "Mỗi giao dịch đều dưới 05 triệu đồng nên bà D được trả bằng tiền mặt cả hai lần",
+    "Vàng trang sức không thuộc diện áp dụng ngưỡng thanh toán không dùng tiền mặt",
+    "Chỉ giao dịch buổi chiều phải chuyển khoản, vì chính giao dịch này làm tổng giá trị trong ngày vượt ngưỡng 05 triệu đồng"
+   ],
+   "c": "Điều 4 khoản 10",
+   "ex": "Việc thanh toán mua, bán vàng có giá trị từ 05 triệu đồng trong ngày trở lên của một khách hàng phải được thực hiện bằng phương tiện thanh toán không dùng tiền mặt. Ngưỡng tính theo tổng giá trị trong ngày của một khách hàng và áp dụng cho mua, bán vàng nói chung.",
+   "sc": "Trong cùng một ngày, bà D mua tại một cửa hàng một chiếc nhẫn vàng trang sức giá 3 triệu đồng vào buổi sáng và một đôi bông tai giá 4 triệu đồng vào buổi chiều.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ch": "I",
+   "ty": "th",
+   "q": "Từ ngày 16/10/2026, cơ sở E có cần giấy phép hay giấy chứng nhận đủ điều kiện của NHNN không?",
+   "o": [
+    "Không cần, nhưng vẫn phải tuân thủ pháp luật về chất lượng, đo lường, nhãn hàng, hóa đơn, thuế, chống rửa tiền",
+    "Có, phải có Giấy chứng nhận đủ điều kiện sản xuất vàng trang sức, mỹ nghệ do NHNN cấp và đăng ký lại với cơ quan đăng ký kinh doanh",
+    "Có, phải có Giấy phép kinh doanh mua, bán vàng miếng vì có mua bán vàng nguyên liệu",
+    "Không cần và cũng không chịu sự quản lý nào khác ngoài đăng ký doanh nghiệp"
+   ],
+   "c": "Điều 4 khoản 7; Điều 7 khoản 2 NĐ 390/2026",
+   "ex": "Hoạt động sản xuất, gia công, kinh doanh mua, bán vàng trang sức, mỹ nghệ không phải là ngành, nghề đầu tư kinh doanh có điều kiện, nhưng phải tuân thủ pháp luật về chất lượng sản phẩm, đo lường, nhãn hàng hóa, niêm yết giá, hóa đơn, thuế, phòng cháy, môi trường, quyền lợi người tiêu dùng, phòng, chống rửa tiền…",
+   "sc": "Cơ sở E chỉ sản xuất và bán lẻ nhẫn, dây chuyền vàng 18K (75%) tại một cửa hàng.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ch": "I",
+   "ty": "th",
+   "q": "Sản phẩm này có được coi là vàng trang sức, mỹ nghệ theo Nghị định không?",
+   "o": [
+    "Không, vì vàng trang sức, mỹ nghệ phải có hàm lượng từ 8 Kara (33,33%) trở lên",
+    "Có, vì sản phẩm đã qua gia công, chế tác hoàn chỉnh để phục vụ nhu cầu trang sức",
+    "Có, vì ngưỡng tối thiểu của vàng trang sức là 7 Kara (29,17%)",
+    "Không, vì vàng trang sức phải có hàm lượng từ 14 Kara (58,33%)"
+   ],
+   "c": "Điều 3 khoản 1",
+   "ex": "Vàng trang sức, mỹ nghệ là các sản phẩm vàng có hàm lượng từ 8 Kara (tương đương 33,33%) trở lên, đã qua gia công, chế tác để phục vụ nhu cầu trang sức, trang trí mỹ thuật.",
+   "sc": "Một cơ sở chế tác vòng đeo tay có hàm lượng vàng 30%, đã qua gia công hoàn chỉnh để bán làm đồ trang sức."
+  },
+  {
+   "ch": "IV",
+   "ty": "th",
+   "q": "NHNN xem xét cấp Giấy phép nhập khẩu vàng nguyên liệu cho Công ty F dựa trên căn cứ nào?",
+   "o": [
+    "Công ty có đăng ký sản xuất, gia công vàng trang sức và nhu cầu nhập phù hợp với hợp đồng gia công",
+    "Công ty phải có Giấy phép kinh doanh mua, bán vàng miếng, vốn điều lệ từ 100 tỷ đồng và mạng lưới từ 3 tỉnh",
+    "Hạn mức hằng năm được phân bổ theo vốn điều lệ như doanh nghiệp sản xuất vàng miếng",
+    "Không cần giấy phép, vì vàng nhập về chỉ để gia công rồi xuất khẩu trở lại"
+   ],
+   "c": "Điều 14 khoản 4, 5",
+   "ex": "Doanh nghiệp có đăng ký sản xuất, gia công vàng trang sức, mỹ nghệ, có hợp đồng gia công với nước ngoài được xem xét cấp Giấy phép nhập khẩu vàng nguyên liệu khi nhu cầu phù hợp với hợp đồng gia công.",
+   "sc": "Công ty F có vốn đầu tư nước ngoài, đăng ký hoạt động sản xuất, gia công vàng trang sức. Công ty ký hợp đồng gia công dây chuyền vàng cho một đối tác ở nước ngoài và cần nhập khẩu vàng nguyên liệu để thực hiện hợp đồng.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ch": "IV",
+   "ty": "th",
+   "q": "Công ty G nhập khẩu loại vàng này theo căn cứ nào?",
+   "o": [
+    "Giấy chứng nhận đăng ký doanh nghiệp, pháp luật hải quan và pháp luật chuyên ngành",
+    "Giấy phép nhập khẩu từng lần do NHNN cấp, nằm trong hạn mức nhập khẩu vàng nguyên liệu hằng năm",
+    "Hạn mức nhập khẩu vàng nguyên liệu do NHNN phân bổ hằng năm",
+    "Quyết định cho phép của Thủ tướng Chính phủ đối với từng lô hàng"
+   ],
+   "c": "Điều 14 khoản 8",
+   "ex": "Vàng nguyên liệu dạng bột, dung dịch, vẩy hàn, muối vàng, dây, ống… và vàng làm nguyên liệu sản xuất linh kiện điện tử, thiết bị điện tử, thiết bị y tế được xuất khẩu, nhập khẩu theo Giấy chứng nhận đăng ký doanh nghiệp, pháp luật về hải quan và pháp luật chuyên ngành.",
+   "sc": "Công ty G sản xuất linh kiện điện tử, cần nhập khẩu vàng dạng dây mảnh để làm tiếp điểm mạ vàng.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ch": "IV",
+   "ty": "th",
+   "q": "Ngân hàng H được sử dụng số vàng nguyên liệu nhập khẩu vào mục đích nào sau đây?",
+   "o": [
+    "Bán cho doanh nghiệp có đăng ký sản xuất vàng trang sức, mỹ nghệ",
+    "Bán lẻ cho cá nhân có nhu cầu tích trữ vàng nguyên liệu dạng thỏi",
+    "Cho khách hàng doanh nghiệp vay bằng vàng nguyên liệu",
+    "Bán qua mạng lưới đại lý ủy nhiệm của ngân hàng"
+   ],
+   "c": "Điều 14 khoản 10 điểm đ",
+   "ex": "Vàng nguyên liệu nhập khẩu được dùng để: sản xuất vàng miếng; sản xuất vàng trang sức, mỹ nghệ; bán cho doanh nghiệp, ngân hàng thương mại được cấp Giấy phép sản xuất vàng miếng; bán cho doanh nghiệp có đăng ký hoạt động sản xuất vàng trang sức, mỹ nghệ.",
+   "sc": "Ngân hàng thương mại H được cấp Giấy phép sản xuất vàng miếng, được cấp hạn mức và đã nhập khẩu một lô vàng nguyên liệu.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ch": "IV",
+   "ty": "th",
+   "q": "Lô vàng nguyên liệu của Công ty I có được phép nhập khẩu không?",
+   "o": [
+    "Không, vì chỉ được nhập khẩu vàng miếng, vàng nguyên liệu có hàm lượng từ 99,5% trở lên",
+    "Có, vì Nghị định không quy định hàm lượng tối thiểu đối với vàng nguyên liệu nhập khẩu",
+    "Có, nếu công ty công bố tiêu chuẩn áp dụng và hàm lượng thực tế của lô hàng",
+    "Không, vì chỉ được nhập khẩu vàng nguyên liệu có hàm lượng từ 99,99% trở lên"
+   ],
+   "c": "Điều 14 khoản 10 điểm a",
+   "ex": "Doanh nghiệp, ngân hàng thương mại được cấp Giấy phép xuất khẩu, nhập khẩu vàng chỉ được phép nhập khẩu vàng miếng, vàng nguyên liệu có hàm lượng từ 99,5% trở lên.",
+   "sc": "Công ty I được cấp Giấy phép sản xuất vàng miếng và hạn mức nhập khẩu. Công ty dự định nhập một lô vàng thỏi có hàm lượng 99,0%.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ch": "III",
+   "ty": "th",
+   "q": "Kế hoạch của Công ty K có được phép thực hiện không?",
+   "o": [
+    "Không, vì không được kinh doanh vàng miếng thông qua đại lý ủy nhiệm",
+    "Được, nếu mỗi đại lý đăng ký và được NHNN chấp thuận bằng văn bản trước",
+    "Được, nếu các đại lý có Giấy chứng nhận đăng ký doanh nghiệp",
+    "Được, nhưng tối đa 10 đại lý ủy nhiệm trên toàn quốc"
+   ],
+   "c": "Điều 12 khoản 4 điểm b",
+   "ex": "Doanh nghiệp, tổ chức tín dụng hoạt động kinh doanh mua, bán vàng miếng không được phép thực hiện kinh doanh vàng miếng thông qua các đại lý ủy nhiệm.",
+   "sc": "Công ty K đã có Giấy phép kinh doanh mua, bán vàng miếng. Để mở rộng thị trường, công ty định ký hợp đồng với 20 cửa hàng vàng ở các tỉnh làm đại lý ủy nhiệm bán vàng miếng.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ch": "IV",
+   "ty": "th",
+   "q": "Ông L cần điều kiện gì để mang số vàng này qua cửa khẩu một cách hợp pháp?",
+   "o": [
+    "Phải có giấy phép do NHNN cấp; không có giấy phép là hành vi vi phạm",
+    "Chỉ cần khai báo với cơ quan hải quan tại cửa khẩu khi xuất cảnh",
+    "Được mang tự do nếu toàn bộ số vàng là vàng trang sức đang đeo",
+    "Phải có giấy phép của Bộ Công an và xác nhận của cơ quan hải quan"
+   ],
+   "c": "Điều 15; Điều 16 khoản 3 điểm đ; Điều 19 khoản 3",
+   "ex": "Cá nhân xuất cảnh, nhập cảnh được mang theo vàng theo quy định của NHNN. NHNN cấp Giấy phép mang theo vàng vượt mức quy định. Mang vàng vượt mức không có giấy phép của NHNN là hành vi vi phạm.",
+   "sc": "Ông L xuất cảnh qua sân bay quốc tế và muốn mang theo một lượng vàng vượt mức NHNN quy định cho cá nhân."
+  },
+  {
+   "ch": "I",
+   "ty": "th",
+   "q": "Công ty M phải đáp ứng điều kiện nào trước khi hoạt động?",
+   "o": [
+    "Được Thủ tướng Chính phủ cho phép và được NHNN cấp Giấy phép",
+    "Chỉ cần đăng ký ngành nghề tại Giấy chứng nhận đăng ký doanh nghiệp",
+    "Chỉ cần NHNN cấp Giấy phép kinh doanh mua, bán vàng miếng",
+    "Được Bộ Công Thương cấp phép theo pháp luật về sở giao dịch hàng hóa"
+   ],
+   "c": "Điều 3 khoản 4; Điều 4 khoản 9",
+   "ex": "Kinh doanh vàng trên tài khoản thuộc nhóm hoạt động kinh doanh vàng khác. Tổ chức, cá nhân chỉ được thực hiện sau khi được Thủ tướng Chính phủ cho phép và được NHNN cấp Giấy phép.",
+   "sc": "Công ty M muốn mở nền tảng cho khách hàng giao dịch vàng qua tài khoản theo hình thức ký quỹ, giá trị ròng được định giá lại liên tục theo giá vàng, không giao vàng vật chất."
+  },
+  {
+   "ch": "VI",
+   "ty": "th",
+   "q": "Giao dịch giữa cửa hàng N và khách hàng được đánh giá thế nào?",
+   "o": [
+    "Vi phạm, vì đã sử dụng vàng làm phương tiện thanh toán",
+    "Hợp pháp, vì hai bên tự nguyện thỏa thuận trao đổi tài sản",
+    "Hợp pháp, vì giá trị giao dịch dưới 05 triệu đồng",
+    "Chỉ vi phạm nếu khách hàng trả bằng vàng miếng"
+   ],
+   "c": "Điều 19 khoản 4",
+   "ex": "Sử dụng vàng làm phương tiện thanh toán là hành vi vi phạm trong hoạt động kinh doanh vàng.",
+   "sc": "Cửa hàng điện thoại N đồng ý bán một chiếc điện thoại và nhận thanh toán bằng một chiếc nhẫn vàng của khách."
+  },
+  {
+   "ch": "V",
+   "ty": "th",
+   "q": "Cơ quan nào chủ trì kiểm tra, quản lý đo lường và chất lượng đối với số vàng miếng này?",
+   "o": [
+    "Bộ Khoa học và Công nghệ",
+    "Bộ Công Thương (Quản lý thị trường)",
+    "Ngân hàng Nhà nước",
+    "Bộ Tài chính"
+   ],
+   "c": "Điều 17 khoản 3",
+   "ex": "Bộ Khoa học và Công nghệ chủ trì xây dựng, công bố tiêu chuẩn quốc gia đối với vàng trang sức, mỹ nghệ và vàng miếng; kiểm tra và quản lý đo lường, chất lượng đối với vàng trang sức, mỹ nghệ, vàng miếng và vàng nguyên liệu trong sản xuất, nhập khẩu và lưu thông.",
+   "sc": "Cơ quan chức năng nghi ngờ một lô vàng miếng đang lưu thông có hàm lượng thực tế thấp hơn hàm lượng đơn vị sản xuất đã công bố.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ch": "X",
+   "ty": "ss",
+   "q": "Các Điều 5, 6, 7, 8, 9 (Chương II về vàng trang sức, mỹ nghệ) bị bãi bỏ bởi văn bản nào?",
+   "o": [
+    "Nghị định 390/2026/NĐ-CP",
+    "Nghị định 232/2025/NĐ-CP",
+    "Nghị định 24/2012/NĐ-CP",
+    "Thông tư của Thống đốc NHNN"
+   ],
+   "c": "Chú thích 10–14 (Điều 6 NĐ 390/2026)",
+   "ex": "Các Điều 5, 6, 7, 8, 9 được bãi bỏ theo quy định tại Điều 6 của Nghị định số 390/2026/NĐ-CP, có hiệu lực từ ngày 16/10/2026.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ch": "X",
+   "ty": "ss",
+   "q": "Điều 11a (điều kiện cấp Giấy phép sản xuất vàng miếng) được đưa vào Nghị định bằng văn bản nào?",
+   "o": [
+    "Bổ sung bởi Nghị định 232/2025/NĐ-CP",
+    "Bổ sung bởi Nghị định 390/2026/NĐ-CP",
+    "Có từ Nghị định 24/2012/NĐ-CP",
+    "Bổ sung bởi Nghị định 64/2003/NĐ-CP"
+   ],
+   "c": "Chú thích 16",
+   "ex": "Điều 11a được bổ sung theo quy định tại khoản 7 Điều 1 của Nghị định số 232/2025/NĐ-CP, có hiệu lực từ ngày 10/10/2025.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ch": "X",
+   "ty": "ss",
+   "q": "Khoản 3 Điều 4 (nguyên tắc quản lý) hiện có tình trạng gì?",
+   "o": [
+    "Bị bãi bỏ bởi Nghị định 232/2025",
+    "Bị bãi bỏ bởi Nghị định 390/2026",
+    "Được sửa đổi bởi Nghị định 390/2026",
+    "Giữ nguyên từ Nghị định 24/2012"
+   ],
+   "c": "Chú thích 4",
+   "ex": "Khoản 3 Điều 4 được bãi bỏ theo quy định tại Điều 2 của Nghị định số 232/2025/NĐ-CP, có hiệu lực từ ngày 10/10/2025.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ch": "X",
+   "ty": "ss",
+   "q": "Quy định ngưỡng 05 triệu đồng/ngày phải thanh toán không dùng tiền mặt (khoản 10 Điều 4) hình thành như thế nào?",
+   "o": [
+    "Được bổ sung bởi NĐ 232/2025, sau đó sửa đổi bởi NĐ 390/2026",
+    "Có từ Nghị định 24/2012, sau đó được Nghị định 232/2025 sửa đổi lại mức ngưỡng",
+    "Chỉ được bổ sung bởi Nghị định 390/2026",
+    "Chỉ được bổ sung bởi Nghị định 232/2025"
+   ],
+   "c": "Chú thích 9",
+   "ex": "Khoản 10 Điều 4 được bổ sung theo khoản 4 Điều 1 NĐ 232/2025 (hiệu lực 10/10/2025); được sửa đổi, bổ sung theo khoản 4 Điều 1 NĐ 390/2026 (hiệu lực 16/10/2026).",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ch": "X",
+   "ty": "ss",
+   "q": "Những khoản nào của Điều 4 được sửa đổi, bổ sung bởi cả Nghị định 232/2025 và Nghị định 390/2026?",
+   "o": [
+    "Khoản 6 và khoản 10",
+    "Khoản 7 và khoản 8",
+    "Khoản 4 và khoản 9",
+    "Khoản 3 và khoản 6"
+   ],
+   "c": "Chú thích 6, 9",
+   "ex": "Khoản 6 (vàng miếng là kinh doanh có điều kiện) và khoản 10 (ngưỡng thanh toán không dùng tiền mặt) đều chịu tác động của cả hai Nghị định. Khoản 7 chỉ do NĐ 390/2026 sửa; khoản 8 chỉ do NĐ 232/2025 sửa; khoản 4 do NĐ 390/2026 sửa; khoản 3 bị NĐ 232/2025 bãi bỏ.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ch": "X",
+   "ty": "ss",
+   "q": "Tên Chương III “Hoạt động sản xuất, mua, bán vàng miếng” được sửa đổi bởi văn bản nào?",
+   "o": [
+    "Nghị định 232/2025/NĐ-CP",
+    "Nghị định 390/2026/NĐ-CP",
+    "Nghị định 24/2012/NĐ-CP",
+    "Không bị sửa đổi"
+   ],
+   "c": "Chú thích 15",
+   "ex": "Tên Chương III được sửa đổi theo quy định tại khoản 6 Điều 1 của Nghị định số 232/2025/NĐ-CP.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ch": "X",
+   "ty": "ss",
+   "q": "Khoản 1 Điều 19 (hành vi vi phạm) hiện có tình trạng gì?",
+   "o": [
+    "Bị bãi bỏ bởi Nghị định 390/2026",
+    "Được sửa đổi bởi Nghị định 232/2025",
+    "Bị bãi bỏ bởi Nghị định 232/2025",
+    "Giữ nguyên từ Nghị định 24/2012"
+   ],
+   "c": "Chú thích 29",
+   "ex": "Khoản 1 Điều 19 được bãi bỏ theo Điều 6 NĐ 390/2026. Khoản 2 Điều 19 thì được sửa đổi bởi NĐ 232/2025.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ch": "X",
+   "ty": "ss",
+   "q": "Quy định về thanh tra, kiểm tra của NHNN tại khoản 5 Điều 16 hiện áp dụng theo văn bản nào?",
+   "o": [
+    "Nghị định 390/2026 (Điều 3)",
+    "Nghị định 232/2025 (khoản 10 Điều 1)",
+    "Nghị định 24/2012 (bản gốc)",
+    "Luật Thanh tra năm 2025"
+   ],
+   "c": "Chú thích 26",
+   "ex": "Khoản 5 Điều 16 được sửa đổi, bổ sung theo quy định tại Điều 3 của Nghị định số 390/2026/NĐ-CP. Toàn bộ Điều 16 trước đó đã được NĐ 232/2025 sửa đổi.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ch": "X",
+   "ty": "ss",
+   "q": "Quy định xuất nhập khẩu vàng dạng bột, dung dịch, vẩy hàn, muối vàng, dây, ống (khoản 8 Điều 14) hiện áp dụng theo văn bản nào?",
+   "o": [
+    "Nghị định 390/2026 (khoản 3 Điều 2)",
+    "Nghị định 232/2025 (khoản 9 Điều 1)",
+    "Nghị định 24/2012 (bản gốc)",
+    "Thông tư của Thống đốc NHNN"
+   ],
+   "c": "Chú thích 21",
+   "ex": "Khoản 8 Điều 14 được sửa đổi, bổ sung theo quy định tại khoản 3 Điều 2 của Nghị định số 390/2026/NĐ-CP.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ch": "X",
+   "ty": "ss",
+   "q": "Nội dung nào sau đây do Nghị định 390/2026 thay đổi?",
+   "o": [
+    "Bỏ điều kiện Giấy chứng nhận đủ điều kiện sản xuất vàng trang sức, mỹ nghệ",
+    "Cho phép ngân hàng thương mại được sản xuất vàng miếng lần đầu tiên kể từ năm 2012",
+    "Bổ sung Điều 11a về điều kiện cấp Giấy phép sản xuất vàng miếng",
+    "Bãi bỏ khoản 3 Điều 4 về nguyên tắc quản lý hoạt động kinh doanh vàng"
+   ],
+   "c": "Điều 4 khoản 7; Điều 7 khoản 2 NĐ 390/2026",
+   "ex": "NĐ 390/2026 bỏ điều kiện với vàng trang sức (bãi bỏ Điều 5–9, sửa khoản 7 Điều 4). Việc cho ngân hàng sản xuất vàng miếng, bổ sung Điều 11a và bãi bỏ khoản 3 Điều 4 là nội dung của NĐ 232/2025.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ch": "III",
+   "ty": "nd",
+   "q": "Những nhận định nào đúng về ngưỡng vốn điều lệ tối thiểu?",
+   "o": [
+    "(1), (3) và (4)",
+    "(1), (2) và (3)",
+    "(2), (3) và (4)",
+    "Cả (1), (2), (3) và (4)"
+   ],
+   "c": "Điều 11; Điều 11a",
+   "ex": "Tổ chức tín dụng kinh doanh mua, bán vàng miếng cần vốn từ 3.000 tỷ đồng, không phải 1.000 tỷ đồng. Các nhận định còn lại đúng.",
+   "st": [
+    "Doanh nghiệp kinh doanh mua, bán vàng miếng: từ 100 tỷ đồng",
+    "Tổ chức tín dụng kinh doanh mua, bán vàng miếng: từ 1.000 tỷ đồng",
+    "Doanh nghiệp sản xuất vàng miếng: từ 1.000 tỷ đồng",
+    "Ngân hàng thương mại sản xuất vàng miếng: từ 50.000 tỷ đồng"
+   ],
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ch": "I",
+   "ty": "nd",
+   "q": "Có bao nhiêu nhận định đúng?",
+   "o": [
+    "3",
+    "2",
+    "4",
+    "1"
+   ],
+   "c": "Điều 1 khoản 2; Điều 3",
+   "ex": "Nhận định (3) sai: vàng nguyên liệu là vàng dưới dạng khối, thỏi, hạt, miếng và các loại vàng khác, không chỉ dạng thỏi.",
+   "st": [
+    "Nghị định không áp dụng đối với khai thác, tinh luyện vàng của doanh nghiệp khai thác vàng",
+    "Vàng trang sức, mỹ nghệ phải có hàm lượng từ 8 Kara trở lên",
+    "Vàng nguyên liệu chỉ bao gồm vàng ở dạng thỏi",
+    "Kinh doanh vàng trên tài khoản được thực hiện dưới hình thức giao dịch ký quỹ"
+   ]
+  },
+  {
+   "ch": "III",
+   "ty": "nd",
+   "q": "Những nhận định nào đúng về trách nhiệm của doanh nghiệp, tổ chức tín dụng kinh doanh mua, bán vàng miếng?",
+   "o": [
+    "(1), (2) và (4)",
+    "(1), (3) và (4)",
+    "(2), (3) và (4)",
+    "(1) và (2)"
+   ],
+   "c": "Điều 12 khoản 4",
+   "ex": "Nghị định không quy định số điểm bán tối thiểu trong trách nhiệm tại Điều 12 (mạng lưới từ 3 tỉnh là điều kiện cấp phép ở Điều 11, không phải 5 điểm bán).",
+   "st": [
+    "Không được kinh doanh vàng miếng thông qua đại lý ủy nhiệm",
+    "Niêm yết giá mua, bán tại địa điểm giao dịch hoặc trên trang thông tin điện tử",
+    "Phải duy trì tối thiểu 5 điểm bán vàng miếng",
+    "Lưu trữ dữ liệu giao dịch gồm thông tin căn cước, mã số thuế, khối lượng, giá trị"
+   ],
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ch": "IV",
+   "ty": "nd",
+   "q": "Đối với đơn vị được cấp phép xuất nhập khẩu vàng theo khoản 1 Điều 14, nhận định nào SAI?",
+   "o": [
+    "(3)",
+    "(1)",
+    "(2)",
+    "(4)"
+   ],
+   "c": "Điều 14 khoản 10",
+   "ex": "Vàng nguyên liệu nhập khẩu không được bán cho cá nhân. Chỉ được dùng để sản xuất vàng miếng, vàng trang sức, hoặc bán cho đơn vị sản xuất vàng miếng, doanh nghiệp sản xuất vàng trang sức.",
+   "st": [
+    "Chỉ được nhập khẩu vàng có hàm lượng từ 99,5% trở lên",
+    "Được bán vàng nguyên liệu nhập khẩu cho doanh nghiệp có đăng ký sản xuất vàng trang sức",
+    "Được bán vàng nguyên liệu nhập khẩu cho cá nhân có nhu cầu",
+    "Phải xây dựng và báo cáo NHNN quy định nội bộ về xuất khẩu, nhập khẩu"
+   ],
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ch": "V",
+   "ty": "nd",
+   "q": "Có bao nhiêu nhận định đúng về phân công quản lý nhà nước?",
+   "o": [
+    "3",
+    "2",
+    "4",
+    "1"
+   ],
+   "c": "Điều 16; Điều 17",
+   "ex": "Bộ Công an không cấp Giấy phép sản xuất vàng miếng. Giấy phép này do NHNN cấp. Bộ Công an phối hợp đấu tranh, điều tra, xử lý tội phạm.",
+   "st": [
+    "Bộ Công Thương quản lý, kiểm tra hoạt động sản xuất, kinh doanh vàng trang sức, mỹ nghệ",
+    "Bộ Tài chính hướng dẫn cấp Giấy chứng nhận đăng ký doanh nghiệp cho doanh nghiệp kinh doanh vàng",
+    "Bộ Công an cấp Giấy phép sản xuất vàng miếng",
+    "Thanh tra tỉnh thanh tra trong phạm vi quản lý nhà nước của UBND cấp tỉnh về kinh doanh vàng"
+   ],
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ch": "VI",
+   "ty": "nd",
+   "q": "Sau khi Nghị định 390/2026 có hiệu lực, hành vi nào là vi phạm?",
+   "o": [
+    "(1), (2) và (4)",
+    "(1), (2), (3) và (4)",
+    "(2), (3) và (4)",
+    "(1) và (3)"
+   ],
+   "c": "Điều 19; Điều 4 khoản 7",
+   "ex": "Sản xuất vàng trang sức không cần Giấy chứng nhận đủ điều kiện của NHNN nữa (khoản 1 Điều 19 đã bị bãi bỏ), nên (3) không còn là vi phạm.",
+   "st": [
+    "Sử dụng vàng làm phương tiện thanh toán",
+    "Kinh doanh mua, bán vàng miếng không có giấy phép của NHNN",
+    "Sản xuất vàng trang sức khi chưa có Giấy chứng nhận đủ điều kiện của NHNN",
+    "Kinh doanh vàng trên tài khoản khi chưa được Thủ tướng cho phép"
+   ],
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ch": "V",
+   "ty": "nd",
+   "q": "Những nhận định nào đúng về trách nhiệm của NHNN?",
+   "o": [
+    "(1) và (3)",
+    "(1), (2) và (3)",
+    "(2) và (4)",
+    "(3) và (4)"
+   ],
+   "c": "Điều 16 khoản 2, 6; Điều 17 khoản 2",
+   "ex": "NHNN không ấn định giá bán vàng miếng mà đăng tải giá do các đơn vị được cấp phép cung cấp. Việc cấp Giấy chứng nhận đăng ký doanh nghiệp do Bộ Tài chính hướng dẫn.",
+   "st": [
+    "Đăng tải giá mua, bán vàng miếng do doanh nghiệp, tổ chức tín dụng được cấp phép cung cấp",
+    "Ấn định giá bán vàng miếng hằng ngày",
+    "Xây dựng tổng hạn mức xuất nhập khẩu có tính đến quy mô dự trữ ngoại hối nhà nước",
+    "Cấp Giấy chứng nhận đăng ký doanh nghiệp cho doanh nghiệp kinh doanh vàng"
+   ],
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ch": "I",
+   "ty": "nd",
+   "q": "Theo khoản 9 Điều 4, những nhận định nào đúng về “các hoạt động kinh doanh vàng khác”?",
+   "o": [
+    "(3) và (4)",
+    "(1) và (3)",
+    "(1), (2) và (4)",
+    "(2) và (3)"
+   ],
+   "c": "Điều 4 khoản 9",
+   "ex": "Xuất nhập khẩu vàng và mua bán vàng nguyên liệu trong nước của doanh nghiệp sản xuất, kinh doanh vàng trang sức được loại trừ khỏi danh mục hạn chế kinh doanh. Các hoạt động khác cần Thủ tướng cho phép và NHNN cấp Giấy phép.",
+   "st": [
+    "Xuất khẩu, nhập khẩu vàng thuộc danh mục hạn chế kinh doanh",
+    "Mua, bán vàng nguyên liệu trong nước của doanh nghiệp sản xuất vàng trang sức thuộc danh mục hạn chế kinh doanh",
+    "Phải được Thủ tướng Chính phủ cho phép",
+    "Phải được NHNN cấp Giấy phép"
+   ]
+  },
+  {
+   "ch": "III",
+   "ty": "nd",
+   "q": "Có bao nhiêu nhận định đúng về điều kiện cấp Giấy phép sản xuất vàng miếng (Điều 11a)?",
+   "o": [
+    "3",
+    "4",
+    "2",
+    "1"
+   ],
+   "c": "Điều 11a",
+   "ex": "Hồ sơ, thủ tục cấp Giấy phép sản xuất vàng miếng do Thống đốc NHNN quy định, không phải Thủ tướng. Các nhận định (1), (2), (4) đúng (50.000 tỷ gấp 50 lần 1.000 tỷ).",
+   "st": [
+    "Doanh nghiệp và ngân hàng thương mại đều phải có Giấy phép kinh doanh mua, bán vàng miếng",
+    "Đều phải có quy định nội bộ về nhập nguyên liệu, sản xuất, giám sát, kiểm soát chất lượng",
+    "Hồ sơ, thủ tục cấp phép do Thủ tướng Chính phủ quy định",
+    "Ngưỡng vốn với ngân hàng thương mại gấp 50 lần ngưỡng với doanh nghiệp"
+   ],
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ch": "X",
+   "ty": "nd",
+   "q": "Những nhận định nào đúng về quy định chuyển tiếp của Nghị định 390/2026?",
+   "o": [
+    "(1), (2) và (4)",
+    "(1) và (2)",
+    "(2), (3) và (4)",
+    "Cả (1), (2), (3) và (4)"
+   ],
+   "c": "Điều 7 NĐ 390/2026",
+   "ex": "Giấy phép xuất nhập khẩu và hạn mức đã cấp được tiếp tục thực hiện theo nội dung, thời hạn ghi tại giấy phép, không hết hiệu lực ngay.",
+   "st": [
+    "Giấy chứng nhận đủ điều kiện sản xuất vàng trang sức đã cấp không còn là điều kiện hoạt động",
+    "Hồ sơ đề nghị cấp Giấy chứng nhận chưa giải quyết thì NHNN chấm dứt giải quyết",
+    "Giấy phép xuất nhập khẩu vàng đã cấp hết hiệu lực từ ngày 16/10/2026",
+    "Phí, lệ phí đã nộp được xử lý theo pháp luật về phí, lệ phí"
+   ],
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ch": "III",
+   "ty": "so",
+   "q": "Bốn mức vốn 100 tỷ – 3.000 tỷ – 1.000 tỷ – 50.000 tỷ đồng lần lượt là vốn tối thiểu của:",
+   "o": [
+    "DN kinh doanh vàng miếng – TCTD kinh doanh vàng miếng – DN sản xuất – NHTM sản xuất",
+    "DN sản xuất – TCTD kinh doanh vàng miếng – DN kinh doanh vàng miếng – NHTM sản xuất",
+    "DN kinh doanh vàng miếng – NHTM sản xuất – DN sản xuất – TCTD kinh doanh vàng miếng",
+    "TCTD kinh doanh vàng miếng – DN kinh doanh vàng miếng – NHTM sản xuất – DN sản xuất"
+   ],
+   "c": "Điều 11; Điều 11a",
+   "ex": "Doanh nghiệp kinh doanh mua, bán vàng miếng: 100 tỷ; tổ chức tín dụng kinh doanh mua, bán: 3.000 tỷ; doanh nghiệp sản xuất vàng miếng: 1.000 tỷ; ngân hàng thương mại sản xuất: 50.000 tỷ đồng.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ch": "III",
+   "ty": "so",
+   "q": "Các con số “3 tỉnh” và “5 tỉnh” trong Điều 11 lần lượt áp dụng cho ai?",
+   "o": [
+    "Mạng lưới tối thiểu của doanh nghiệp và của tổ chức tín dụng kinh doanh mua, bán vàng miếng",
+    "Mạng lưới tối thiểu của tổ chức tín dụng và của doanh nghiệp kinh doanh mua, bán vàng miếng",
+    "Mạng lưới tối thiểu của doanh nghiệp sản xuất và của ngân hàng sản xuất vàng miếng",
+    "Số tỉnh tối đa doanh nghiệp, tổ chức tín dụng được mở điểm bán trong năm đầu"
+   ],
+   "c": "Điều 11 khoản 1 điểm đ, khoản 2 điểm c",
+   "ex": "Doanh nghiệp: mạng lưới chi nhánh, địa điểm bán hàng từ 3 tỉnh, thành phố. Tổ chức tín dụng: mạng lưới chi nhánh từ 5 tỉnh, thành phố trực thuộc Trung ương trở lên."
+  },
+  {
+   "ch": "III",
+   "ty": "so",
+   "q": "Con số “2 năm” xuất hiện trong điều kiện cấp Giấy phép kinh doanh mua, bán vàng miếng của doanh nghiệp ở những chỗ nào?",
+   "o": [
+    "Kinh nghiệm từ 2 năm và số thuế từ 500 triệu đồng/năm trong 2 năm liên tiếp gần nhất",
+    "Kinh nghiệm từ 2 năm và không bị xử phạt hành chính về kinh doanh vàng trong 2 năm gần nhất",
+    "Thời hạn Giấy phép là 2 năm và kinh nghiệm hoạt động từ 2 năm",
+    "Số thuế trong 2 năm liên tiếp và mạng lưới hoạt động liên tục 2 năm"
+   ],
+   "c": "Điều 11 khoản 1 điểm c, d",
+   "ex": "c) Có kinh nghiệm hoạt động trong lĩnh vực kinh doanh mua, bán vàng từ 2 năm trở lên. d) Có số thuế đã nộp của hoạt động kinh doanh vàng từ 500 triệu đồng/năm trở lên trong 2 năm liên tiếp gần nhất."
+  },
+  {
+   "ch": "IV",
+   "ty": "so",
+   "q": "Con số 99,5% trong Nghị định dùng để xác định điều gì?",
+   "o": [
+    "Hàm lượng tối thiểu của vàng miếng, vàng nguyên liệu được phép nhập khẩu",
+    "Hàm lượng tối thiểu của vàng miếng sản xuất trong nước",
+    "Hàm lượng tối thiểu của vàng trang sức, mỹ nghệ xuất khẩu",
+    "Tỷ lệ tối thiểu số vàng nguyên liệu nhập khẩu phải được dùng để sản xuất vàng miếng"
+   ],
+   "c": "Điều 14 khoản 10 điểm a",
+   "ex": "Đơn vị được cấp phép chỉ được nhập khẩu vàng miếng, vàng nguyên liệu có hàm lượng từ 99,5% trở lên. Hàm lượng vàng miếng sản xuất trong nước do đơn vị tự công bố; vàng trang sức có ngưỡng 8 Kara.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ch": "I",
+   "ty": "so",
+   "q": "Phân biệt hai con số “05 triệu đồng” và “500 triệu đồng” trong Nghị định:",
+   "o": [
+    "05 triệu: ngưỡng thanh toán không dùng tiền mặt/ngày; 500 triệu: số thuế/năm để được cấp phép kinh doanh vàng miếng",
+    "05 triệu: số thuế tối thiểu mỗi tháng; 500 triệu: ngưỡng thanh toán không dùng tiền mặt mỗi năm",
+    "05 triệu: mức phạt tối thiểu; 500 triệu: mức phạt tối đa đối với hành vi kinh doanh mua, bán vàng miếng không có giấy phép",
+    "05 triệu: ngưỡng phải báo cáo NHNN; 500 triệu: ngưỡng thanh toán không dùng tiền mặt"
+   ],
+   "c": "Điều 4 khoản 10; Điều 11 khoản 1 điểm d",
+   "ex": "Mua, bán vàng từ 05 triệu đồng trong ngày của một khách hàng phải thanh toán không dùng tiền mặt. Doanh nghiệp xin phép kinh doanh mua, bán vàng miếng phải có số thuế từ 500 triệu đồng/năm trong 2 năm liên tiếp gần nhất.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ch": "X",
+   "ty": "so",
+   "q": "Ngày 10/10/2025 gắn với sự kiện nào?",
+   "o": [
+    "Nghị định 232/2025 có hiệu lực",
+    "Nghị định 390/2026 có hiệu lực",
+    "Nghị định 232/2025 được ký ban hành",
+    "Văn bản hợp nhất 117/2026 được xác thực"
+   ],
+   "c": "Phần mở đầu VBHN",
+   "ex": "NĐ 232/2025 ký ngày 26/8/2025, hiệu lực 10/10/2025. NĐ 390/2026 ký và có hiệu lực ngày 16/10/2026. VBHN 117/2026 xác thực ngày 28/10/2026."
+  },
+  {
+   "ch": "I",
+   "ty": "so",
+   "q": "Mốc 8 Kara tương đương bao nhiêu phần trăm và dùng để làm gì?",
+   "o": [
+    "33,33%, là hàm lượng tối thiểu để được coi là vàng trang sức, mỹ nghệ",
+    "33,33%, là hàm lượng tối thiểu của vàng nguyên liệu được nhập khẩu",
+    "41,67%, là hàm lượng tối thiểu để được coi là vàng trang sức, mỹ nghệ",
+    "75%, là hàm lượng tiêu chuẩn của vàng trang sức xuất khẩu"
+   ],
+   "c": "Điều 3 khoản 1",
+   "ex": "Vàng trang sức, mỹ nghệ là sản phẩm vàng có hàm lượng từ 8 Kara (tương đương 33,33%) trở lên."
+  },
+  {
+   "ch": "I",
+   "ty": "so",
+   "q": "Điều 112 Luật Các tổ chức tín dụng được Nghị định dẫn chiếu để điều chỉnh hoạt động nào?",
+   "o": [
+    "Phái sinh về vàng của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài",
+    "Sản xuất vàng miếng của ngân hàng thương mại có vốn điều lệ từ 50.000 tỷ đồng trở lên",
+    "Kinh doanh mua, bán vàng miếng của tổ chức tín dụng",
+    "Xuất khẩu, nhập khẩu vàng nguyên liệu của ngân hàng thương mại"
+   ],
+   "c": "Điều 4 khoản 8",
+   "ex": "Hoạt động phái sinh về vàng của các ngân hàng thương mại, chi nhánh ngân hàng nước ngoài thực hiện theo Điều 112 Luật Các tổ chức tín dụng.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ch": "IV",
+   "ty": "nho",
+   "q": "Xuất khẩu, nhập khẩu vàng trang sức, mỹ nghệ để tham gia triển lãm, hội chợ quốc tế thực hiện theo quy định nào?",
+   "o": [
+    "Quy định của Chính phủ về hội chợ, triển lãm quốc tế",
+    "Giấy phép từng lần do NHNN cấp cho mỗi lần tham gia",
+    "Hạn mức tạm nhập, tái xuất do NHNN cấp hằng năm",
+    "Quyết định của Bộ trưởng Bộ Công Thương"
+   ],
+   "c": "Điều 13 khoản 2",
+   "ex": "Việc xuất khẩu, nhập khẩu vàng trang sức, mỹ nghệ để tham gia triển lãm, hội chợ quốc tế thực hiện theo quy định của Chính phủ về hội chợ, triển lãm quốc tế."
+  },
+  {
+   "ch": "IV",
+   "ty": "nho",
+   "q": "Cá nhân được mang theo vàng khi xuất cảnh, nhập cảnh qua loại cửa khẩu nào theo Điều 15?",
+   "o": [
+    "Cửa khẩu quốc tế",
+    "Mọi cửa khẩu đường bộ",
+    "Cửa khẩu chính và cửa khẩu phụ",
+    "Chỉ cửa khẩu đường hàng không"
+   ],
+   "c": "Điều 15",
+   "ex": "Người Việt Nam và người nước ngoài khi xuất cảnh, nhập cảnh qua các cửa khẩu quốc tế được mang theo vàng theo quy định của NHNN."
+  },
+  {
+   "ch": "V",
+   "ty": "nho",
+   "q": "Theo Điều 18, các Bộ, ngành phối hợp trong quản lý kinh doanh vàng như thế nào?",
+   "o": [
+    "Phối hợp, chia sẻ thông tin và phối hợp kiểm tra, thanh tra theo yêu cầu thực tế",
+    "Thành lập Ban chỉ đạo liên ngành do Thủ tướng làm Trưởng ban",
+    "Ký quy chế phối hợp hằng năm do NHNN chủ trì soạn thảo, trình Thủ tướng phê duyệt",
+    "Giao Thanh tra Chính phủ làm đầu mối duy nhất về thanh tra"
+   ],
+   "c": "Điều 18",
+   "ex": "Căn cứ vào yêu cầu thực tế, các Bộ, ngành liên quan có trách nhiệm phối hợp, chia sẻ thông tin để phục vụ quản lý hoạt động kinh doanh vàng; phối hợp thực hiện kiểm tra, thanh tra theo quy định."
+  },
+  {
+   "ch": "VI",
+   "ty": "nho",
+   "q": "Doanh nghiệp được cấp phép nhập khẩu vàng nguyên liệu để gia công trang sức phải báo cáo thêm nội dung nào theo Điều 20?",
+   "o": [
+    "Tình hình thực hiện hợp đồng gia công, hợp đồng xuất khẩu vàng trang sức, mỹ nghệ",
+    "Danh sách khách hàng mua vàng trang sức trong nước",
+    "Biến động vốn điều lệ, cơ cấu cổ đông và danh sách khách hàng mua vàng trang sức trong nước",
+    "Số lượng lao động và mức lương bình quân"
+   ],
+   "c": "Điều 20",
+   "ex": "Doanh nghiệp, ngân hàng thương mại kinh doanh vàng phải báo cáo … tình hình thực hiện hợp đồng gia công, hợp đồng xuất khẩu vàng trang sức, mỹ nghệ đối với trường hợp được cấp phép nhập khẩu vàng nguyên liệu …",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ch": "V",
+   "ty": "nho",
+   "q": "Cơ quan nào thực hiện chức năng thanh tra hoạt động sản xuất, kinh doanh mua, bán vàng theo Điều 17 khoản 4?",
+   "o": [
+    "Thanh tra Chính phủ",
+    "Bộ Công an",
+    "Bộ Tài chính",
+    "Kiểm toán Nhà nước, phối hợp NHNN"
+   ],
+   "c": "Điều 17 khoản 4",
+   "ex": "Thanh tra Chính phủ thực hiện chức năng thanh tra hoạt động sản xuất, kinh doanh mua, bán vàng theo quy định của pháp luật.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ch": "V",
+   "ty": "nho",
+   "q": "Bộ Công an có trách nhiệm gì trong quản lý hoạt động kinh doanh vàng?",
+   "o": [
+    "Phối hợp đấu tranh, điều tra, xử lý tội phạm, vi phạm pháp luật về kinh doanh vàng",
+    "Cấp giấy phép mang vàng khi xuất cảnh, nhập cảnh vượt mức quy định cho cá nhân tại cửa khẩu",
+    "Quản lý đo lường, chất lượng vàng trong lưu thông",
+    "Chủ trì thanh tra các doanh nghiệp kinh doanh vàng miếng"
+   ],
+   "c": "Điều 17 khoản 5",
+   "ex": "Bộ Công an phối hợp với các bộ, ngành liên quan trong việc đấu tranh, điều tra, xử lý tội phạm, vi phạm pháp luật về kinh doanh vàng.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ch": "III",
+   "ty": "order",
+   "k": "order",
+   "q": "Sắp xếp theo đúng trình tự pháp lý để một doanh nghiệp được nhập khẩu vàng nguyên liệu phục vụ sản xuất vàng miếng.",
+   "items": [
+    "Thành lập doanh nghiệp theo quy định của pháp luật",
+    "Được NHNN cấp Giấy phép kinh doanh mua, bán vàng miếng",
+    "Được NHNN cấp Giấy phép sản xuất vàng miếng",
+    "Được NHNN cấp hạn mức nhập khẩu vàng nguyên liệu hằng năm",
+    "Được NHNN cấp Giấy phép nhập khẩu từng lần"
+   ],
+   "c": "Điều 11; Điều 11a khoản 1 điểm a; Điều 14 khoản 1",
+   "ex": "Giấy phép kinh doanh mua, bán vàng miếng là điều kiện để được cấp Giấy phép sản xuất (Điều 11a). Hạn mức hằng năm và Giấy phép từng lần nhập khẩu vàng nguyên liệu chỉ cấp cho đơn vị quy định tại Điều 11a.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ch": "X",
+   "ty": "order",
+   "k": "order",
+   "q": "Sắp xếp các nghị định về quản lý hoạt động kinh doanh vàng theo trình tự thời gian ban hành.",
+   "items": [
+    "Nghị định 174/1999/NĐ-CP",
+    "Nghị định 64/2003/NĐ-CP",
+    "Nghị định 24/2012/NĐ-CP",
+    "Nghị định 232/2025/NĐ-CP",
+    "Nghị định 390/2026/NĐ-CP"
+   ],
+   "c": "Điều 22; phần mở đầu VBHN",
+   "ex": "NĐ 174/1999 (09/12/1999) và NĐ 64/2003 (11/6/2003) bị NĐ 24/2012 thay thế; NĐ 24/2012 được sửa đổi bởi NĐ 232/2025 rồi NĐ 390/2026."
+  },
+  {
+   "ch": "III",
+   "ty": "order",
+   "k": "order",
+   "q": "Sắp xếp các chủ thể theo mức vốn điều lệ tối thiểu, từ thấp đến cao.",
+   "items": [
+    "Doanh nghiệp kinh doanh mua, bán vàng miếng",
+    "Doanh nghiệp sản xuất vàng miếng",
+    "Tổ chức tín dụng kinh doanh mua, bán vàng miếng",
+    "Ngân hàng thương mại sản xuất vàng miếng"
+   ],
+   "c": "Điều 11; Điều 11a",
+   "ex": "100 tỷ < 1.000 tỷ < 3.000 tỷ < 50.000 tỷ đồng.",
+   "am": "Sửa đổi bởi NĐ 232/2025"
+  },
+  {
+   "ch": "V",
+   "ty": "match",
+   "k": "match",
+   "q": "Nối mỗi cơ quan với trách nhiệm chủ trì của cơ quan đó.",
+   "pairs": [
+    [
+     "Ngân hàng Nhà nước",
+     "Cấp Giấy phép sản xuất, kinh doanh vàng miếng, xuất nhập khẩu vàng"
+    ],
+    [
+     "Bộ Công Thương",
+     "Quản lý, kiểm tra sản xuất, kinh doanh vàng trang sức, mỹ nghệ"
+    ],
+    [
+     "Bộ Tài chính",
+     "Chính sách thuế đối với hoạt động kinh doanh vàng"
+    ],
+    [
+     "Bộ Khoa học và Công nghệ",
+     "Tiêu chuẩn quốc gia, đo lường, chất lượng vàng"
+    ],
+    [
+     "Bộ Công an",
+     "Đấu tranh, điều tra tội phạm về kinh doanh vàng"
+    ]
+   ],
+   "c": "Điều 16; Điều 17",
+   "ex": "Mỗi cơ quan quản lý một mảng: NHNN cấp phép và hạn mức; Bộ Công Thương với vàng trang sức; Bộ Tài chính về thuế và đăng ký doanh nghiệp; Bộ Khoa học và Công nghệ về tiêu chuẩn, đo lường, chất lượng; Bộ Công an về tội phạm.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ch": "IV",
+   "ty": "match",
+   "k": "match",
+   "q": "Nối mỗi loại vàng hoặc trường hợp với căn cứ để xuất khẩu, nhập khẩu.",
+   "pairs": [
+    [
+     "Vàng trang sức, mỹ nghệ",
+     "Giấy chứng nhận đăng ký kinh doanh/đăng ký doanh nghiệp"
+    ],
+    [
+     "Vàng miếng",
+     "Hạn mức hằng năm và Giấy phép từng lần của NHNN"
+    ],
+    [
+     "Muối vàng, vàng dạng bột, dung dịch",
+     "Giấy chứng nhận đăng ký doanh nghiệp và pháp luật hải quan"
+    ],
+    [
+     "Vàng trang sức đi triển lãm quốc tế",
+     "Quy định của Chính phủ về hội chợ, triển lãm quốc tế"
+    ]
+   ],
+   "c": "Điều 13; Điều 14 khoản 1, 8",
+   "ex": "Vàng trang sức theo đăng ký kinh doanh; vàng miếng theo hạn mức và giấy phép từng lần; vàng dạng bột, muối vàng… theo đăng ký doanh nghiệp và pháp luật hải quan; hàng triển lãm theo quy định về hội chợ, triển lãm quốc tế.",
+   "am": "Sửa đổi bởi NĐ 390/2026"
+  },
+  {
+   "ch": "X",
+   "ty": "match",
+   "k": "match",
+   "q": "Nối mỗi văn bản với ngày có hiệu lực hoặc ngày xác thực tương ứng.",
+   "pairs": [
+    [
+     "Nghị định 24/2012/NĐ-CP",
+     "Hiệu lực từ 25/5/2012"
+    ],
+    [
+     "Nghị định 232/2025/NĐ-CP",
+     "Hiệu lực từ 10/10/2025"
+    ],
+    [
+     "Nghị định 390/2026/NĐ-CP",
+     "Hiệu lực từ 16/10/2026"
+    ],
+    [
+     "Văn bản hợp nhất 117/2026/VBHN-NĐ-NHNN",
+     "Xác thực ngày 28/10/2026"
+    ]
+   ],
+   "c": "Phần mở đầu VBHN; Điều 22",
+   "ex": "Các mốc thời gian được nêu tại phần mở đầu văn bản hợp nhất và Điều 22."
+  }
+ ],
+ "crit": {
+  "sum": "Hai lần sửa đổi 2025 và 2026 chuyển hướng quản lý thị trường vàng từ độc quyền nhà nước sang thị trường hóa có kiểm soát. Văn bản cho thêm chủ thể sản xuất vàng miếng, bỏ điều kiện với vàng trang sức và tăng yêu cầu về dữ liệu giao dịch. Tuy vậy, ngưỡng gia nhập rất cao, một số điều khoản cũ chưa được dọn lại và thẩm quyền thanh tra còn phân tán.",
+  "items": [
+   {
+    "t": "plus",
+    "title": "Xóa thế độc quyền sản xuất vàng miếng",
+    "cite": "Điều 3 khoản 2; Điều 11a; Điều 16 khoản 1",
+    "body": "Định nghĩa vàng miếng không còn gắn với một thương hiệu duy nhất. Doanh nghiệp và ngân hàng thương mại đủ điều kiện được cấp Giấy phép sản xuất, và NHNN được giao xây dựng chiến lược thị trường vàng “theo hướng thị trường hóa”. Nguồn cung tăng là điều kiện để thu hẹp chênh lệch giữa giá trong nước và giá thế giới.",
+    "rec": "Đặt chỉ tiêu theo dõi công khai, ví dụ chênh lệch giá vàng miếng trong nước so với thế giới, để đánh giá hiệu quả chính sách sau 1–2 năm."
+   },
+   {
+    "t": "plus",
+    "title": "Cắt giảm điều kiện với vàng trang sức, mỹ nghệ",
+    "cite": "Điều 4 khoản 7; bãi bỏ Điều 5–9",
+    "body": "Hoạt động sản xuất, gia công, mua bán vàng trang sức không còn là ngành nghề kinh doanh có điều kiện. Quản lý chuyển sang các luật chuyên ngành về chất lượng, đo lường, nhãn hàng hóa, thuế và phòng, chống rửa tiền. Cách làm này giảm thủ tục cho số đông cơ sở nhỏ mà vẫn giữ công cụ kiểm soát."
+   },
+   {
+    "t": "plus",
+    "title": "Tăng minh bạch dữ liệu giao dịch",
+    "cite": "Điều 12 khoản 3 điểm c, khoản 4 điểm đ; Điều 14 khoản 10 điểm e",
+    "body": "Đơn vị sản xuất, mua bán, xuất nhập khẩu vàng phải xây dựng hệ thống thông tin, lưu thông tin căn cước, mã số thuế, khối lượng, giá trị giao dịch và kết nối với NHNN. Đây là nền tảng cho giám sát thị trường và phòng, chống rửa tiền."
+   },
+   {
+    "t": "issue",
+    "title": "Ngưỡng vốn rất cao, dễ chuyển từ độc quyền sang độc quyền nhóm",
+    "cite": "Điều 11a khoản 1 điểm b, khoản 2 điểm b",
+    "body": "Ngân hàng thương mại cần vốn điều lệ từ 50.000 tỷ đồng, doanh nghiệp từ 1.000 tỷ đồng mới được sản xuất vàng miếng. Chỉ một số ít chủ thể lớn đáp ứng được. Văn bản không nêu cơ sở định lượng cho các mức này. Ngưỡng cho ngân hàng gấp 50 lần ngưỡng cho doanh nghiệp, dù cùng thực hiện một hoạt động sản xuất, và văn bản không giải thích sự chênh lệch này.",
+    "rec": "Công bố căn cứ xác định ngưỡng vốn. Cân nhắc bổ sung tiêu chí năng lực kỹ thuật (dây chuyền, kiểm định hàm lượng) thay vì chỉ dựa vào vốn điều lệ."
+   },
+   {
+    "t": "gap",
+    "title": "Hạn mức xuất nhập khẩu ưu tiên đơn vị lớn và đơn vị đã có mặt",
+    "cite": "Điều 16 khoản 2",
+    "body": "Hạn mức hằng năm được phân bổ theo quy mô vốn điều lệ và tình hình xuất nhập khẩu các năm trước. Hai tiêu chí này có lợi cho đơn vị lớn và đơn vị đã tham gia thị trường, bất lợi cho đơn vị mới, đi ngược mục tiêu tăng cạnh tranh. Cách thức phân bổ cụ thể do Thống đốc quy định nên chưa thể đánh giá từ Nghị định.",
+    "rec": "Công khai tổng hạn mức và kết quả phân bổ cho từng đơn vị. Dành một phần hạn mức cho đơn vị mới được cấp phép."
+   },
+   {
+    "t": "gap",
+    "title": "Ngưỡng 5 triệu đồng/ngày thấp so với giá trị giao dịch vàng thông thường",
+    "cite": "Điều 4 khoản 10",
+    "body": "Mọi giao dịch mua, bán vàng từ 05 triệu đồng/ngày của một khách hàng phải thanh toán không dùng tiền mặt. Ngưỡng này áp dụng cho cả vàng trang sức, tác động lớn đến người cao tuổi và khu vực nông thôn chưa quen thanh toán điện tử. Văn bản không nói cách kiểm soát khi một người chia nhỏ giao dịch qua nhiều cửa hàng trong ngày.",
+    "rec": "Cân nhắc ngưỡng riêng cho vàng trang sức, hoặc điều chỉnh ngưỡng định kỳ theo giá vàng. Làm rõ trách nhiệm của bên bán khi giao dịch bị chia nhỏ."
+   },
+   {
+    "t": "issue",
+    "title": "Điều khoản chuyển tiếp năm 2012 mâu thuẫn với nội dung mới",
+    "cite": "Điều 21 khoản 1 điểm a, khoản 3",
+    "body": "Điều 21 vẫn yêu cầu các tổ chức “hoàn tất thủ tục xin cấp Giấy chứng nhận đủ điều kiện sản xuất vàng trang sức, mỹ nghệ”, trong khi NĐ 390/2026 đã bỏ điều kiện này. Khoản 3 nói “các giấy phép sản xuất vàng miếng hết hiệu lực” (ý nói giấy phép cấp trước năm 2012), dễ bị hiểu nhầm là áp dụng cho Giấy phép sản xuất vàng miếng mới theo Điều 11a. Văn bản hợp nhất giữ nguyên các khoản này mà không có chú thích.",
+    "rec": "Bãi bỏ hoặc chú thích rõ các khoản chuyển tiếp đã hết tác dụng trong lần sửa đổi tới."
+   },
+   {
+    "t": "gap",
+    "title": "Tiêu chí mạng lưới theo số tỉnh sau khi sắp xếp đơn vị hành chính",
+    "cite": "Điều 11 khoản 1 điểm đ, khoản 2 điểm c",
+    "body": "Điều kiện cấp Giấy phép kinh doanh mua, bán vàng miếng (mạng lưới từ 3 tỉnh với doanh nghiệp, từ 5 tỉnh với tổ chức tín dụng) giữ nguyên từ năm 2012. Số lượng và quy mô đơn vị hành chính cấp tỉnh đã thay đổi, nên cùng một con số giờ phản ánh độ phủ thị trường khác trước. Các mức vốn 100 tỷ và thuế 500 triệu đồng/năm cũng chưa được cập nhật.",
+    "rec": "Rà soát lại toàn bộ Điều 11 cho phù hợp với Điều 11a và với địa giới hành chính hiện hành."
+   },
+   {
+    "t": "gap",
+    "title": "Chưa có tiêu chuẩn hàm lượng thống nhất cho vàng miếng",
+    "cite": "Điều 12 khoản 3 điểm a; Điều 14 khoản 10 điểm a; Điều 17 khoản 3",
+    "body": "Đơn vị sản xuất tự công bố tiêu chuẩn, khối lượng, hàm lượng. Nghị định chỉ đặt ngưỡng 99,5% cho vàng nhập khẩu. Khi có nhiều thương hiệu cùng sản xuất, nếu thiếu tiêu chuẩn quốc gia bắt buộc thì vàng miếng khó thay thế cho nhau, người mua khó so sánh giá, và khó mua đi bán lại chéo giữa các thương hiệu.",
+    "rec": "Sớm ban hành tiêu chuẩn quốc gia bắt buộc cho vàng miếng (hàm lượng, khối lượng chuẩn, dấu hiệu nhận biết) như Điều 17 khoản 3 đã giao Bộ Khoa học và Công nghệ."
+   },
+   {
+    "t": "issue",
+    "title": "Thẩm quyền thanh tra, kiểm tra phân tán",
+    "cite": "Điều 16 khoản 5; Điều 17; Điều 18",
+    "body": "NHNN, Bộ Công Thương, Bộ Khoa học và Công nghệ, Thanh tra Chính phủ và UBND/Thanh tra tỉnh đều có thẩm quyền với các mảng của kinh doanh vàng. Cơ chế phối hợp ở Điều 18 chỉ dừng ở mức “căn cứ vào yêu cầu thực tế”, chưa có đầu mối, quy chế chia sẻ dữ liệu hay kế hoạch thanh tra chung, nên có nguy cơ chồng chéo hoặc bỏ sót.",
+    "rec": "Giao NHNN làm đầu mối điều phối kế hoạch thanh tra liên ngành và dùng chung hệ thống dữ liệu đã quy định ở Điều 16 khoản 4."
+   },
+   {
+    "t": "gap",
+    "title": "Kinh doanh vàng trên tài khoản và phái sinh chưa có khung pháp lý cụ thể",
+    "cite": "Điều 1 khoản 1; Điều 3 khoản 4; Điều 4 khoản 8, 9",
+    "body": "Hai hoạt động này được đưa vào phạm vi điều chỉnh và được định nghĩa, nhưng kinh doanh vàng trên tài khoản vẫn cần Thủ tướng cho phép theo từng trường hợp. Phái sinh chỉ dẫn chiếu sang Luật Các tổ chức tín dụng. Chưa có quy định về sàn giao dịch, ký quỹ hay bảo vệ nhà đầu tư, nên nhà đầu tư dễ tìm đến các sàn không được phép.",
+    "rec": "Xây dựng quy định riêng cho giao dịch vàng trên tài khoản và sàn giao dịch vàng nếu chính sách hướng tới thị trường hóa."
+   }
+  ],
+  "discuss": [
+   "Mở rộng sản xuất vàng miếng cho một nhóm nhỏ đơn vị lớn có đủ để thu hẹp chênh lệch giá, hay cần thêm công cụ khác (nhập khẩu, sàn giao dịch)?",
+   "Ngưỡng thanh toán không dùng tiền mặt nên áp dụng chung cho mọi loại vàng hay phân biệt vàng miếng với vàng trang sức?",
+   "Nên phân bổ hạn mức nhập khẩu vàng theo tiêu chí nào để vừa kiểm soát ngoại hối vừa không cản trở cạnh tranh?",
+   "Có nên chuyển Điều 11 sang tiêu chí năng lực (hệ thống, kiểm soát nội bộ) thay cho vốn, thuế và số tỉnh?"
+  ]
+ }
+}
